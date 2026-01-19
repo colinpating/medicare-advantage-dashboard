@@ -71,7 +71,7 @@ const App = {
             return '../';
         }
 
-        // For deployed version, data is at root
+        // For deployed version (Vercel), data is at root
         return '/';
     },
 
