@@ -295,20 +295,21 @@ const App = {
 
         // Update data date
         const dateEl = document.getElementById('data-date');
-        if (metadata.processedDate) {
+        if (metadata.data_date) {
+            dateEl.textContent = `Data: ${metadata.data_date}`;
+        } else if (metadata.processedDate) {
             const date = new Date(metadata.processedDate);
             dateEl.textContent = `Data as of ${date.toLocaleDateString('en-US', {
                 year: 'numeric',
-                month: 'long',
-                day: 'numeric'
+                month: 'long'
             })}`;
         } else {
-            dateEl.textContent = 'Data date unknown';
+            dateEl.textContent = '';
         }
 
         // Update total enrollment
         const totalEl = document.getElementById('total-enrollment');
-        totalEl.textContent = `${Utils.formatNumber(metadata.totalEnrollment || 0)} total enrollees`;
+        totalEl.textContent = `${Utils.formatNumber(metadata.totalEnrollment || 0)} MA enrollees`;
     },
 
     /**

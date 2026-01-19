@@ -342,7 +342,7 @@ def process_csv(csv_path: Path) -> pd.DataFrame:
     return df
 
 
-def aggregate_enrollment(df: pd.DataFrame) -> dict:
+def aggregate_enrollment(df: pd.DataFrame, data_year: int = None, data_month: int = None) -> dict:
     """
     Aggregate enrollment data by county, organization, and plan type.
     """
@@ -374,9 +374,20 @@ def aggregate_enrollment(df: pd.DataFrame) -> dict:
         df['fips'] = ''
 
     # Aggregate by county (state + county combination as fallback)
+    # Build data date string
+    if data_year and data_month:
+        month_names = ['January', 'February', 'March', 'April', 'May', 'June',
+                       'July', 'August', 'September', 'October', 'November', 'December']
+        data_date = f"{month_names[data_month - 1]} {data_year}"
+    else:
+        data_date = None
+
     result = {
         'metadata': {
             'processed_date': datetime.now().isoformat(),
+            'data_date': data_date,
+            'data_year': data_year,
+            'data_month': data_month,
             'record_count': len(df),
             'total_enrollment': int(df['enrollment'].sum()),
         },
@@ -571,9 +582,20 @@ def main():
         print(f"CSV file not found: {csv_path}")
         return 1
 
+    # Extract year and month from filename (e.g., cpsc_enrollment_2025_01.csv)
+    import re
+    match = re.search(r'(\d{4})_(\d{2})', csv_path.name)
+    if match:
+        data_year = int(match.group(1))
+        data_month = int(match.group(2))
+        print(f"Data month: {data_month}/{data_year}")
+    else:
+        data_year = None
+        data_month = None
+
     # Process the CSV
     df = process_csv(csv_path)
-    enrollment_data = aggregate_enrollment(df)
+    enrollment_data = aggregate_enrollment(df, data_year, data_month)
 
     # Save current enrollment
     current_path = args.output_dir / "enrollment-current.json"
