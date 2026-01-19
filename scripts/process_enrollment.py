@@ -192,6 +192,67 @@ def get_parent_org(contract_id: str, org_name: str = "") -> str:
     return "Other"
 
 
+def load_contract_info(csv_path: Path) -> dict:
+    """
+    Load contract info file to get organization mappings.
+    Returns dict mapping contract_number to parent_organization.
+    """
+    # Look for contract info file in same directory
+    parent_dir = csv_path.parent
+    contract_files = list(parent_dir.glob("*contract_info*.csv"))
+
+    if not contract_files:
+        print("No contract info file found, using built-in mapping")
+        return {}
+
+    contract_path = contract_files[0]
+    print(f"Loading contract info from: {contract_path}")
+
+    # Try multiple encodings
+    encodings = ['utf-8', 'cp1252', 'latin-1']
+    df = None
+
+    for encoding in encodings:
+        try:
+            df = pd.read_csv(contract_path, dtype=str, encoding=encoding)
+            break
+        except (UnicodeDecodeError, UnicodeError):
+            continue
+
+    if df is None:
+        print("Could not read contract info file")
+        return {}
+
+    # Standardize column names
+    df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
+
+    # Build mapping from contract number to parent organization
+    contract_to_org = {}
+
+    # Look for parent organization column
+    parent_col = None
+    for col in ['parent_organization', 'parent_org', 'organization', 'organization_name']:
+        if col in df.columns:
+            parent_col = col
+            break
+
+    contract_col = None
+    for col in ['contract_number', 'contract_id', 'contractid']:
+        if col in df.columns:
+            contract_col = col
+            break
+
+    if parent_col and contract_col:
+        for _, row in df.iterrows():
+            contract = row[contract_col]
+            org = row[parent_col]
+            if pd.notna(contract) and pd.notna(org):
+                contract_to_org[contract] = org
+
+    print(f"Loaded {len(contract_to_org)} contract-to-org mappings")
+    return contract_to_org
+
+
 def process_csv(csv_path: Path) -> pd.DataFrame:
     """
     Read and process the CMS CPSC CSV file.
@@ -254,11 +315,21 @@ def process_csv(csv_path: Path) -> pd.DataFrame:
     # CMS masks values <11 with '*' - these become 0 after coercion
     # We'll keep them as 0 for aggregation
 
-    # Add organization column from contract mapping if not present
+    # Load contract info for organization mapping
+    contract_to_org = load_contract_info(csv_path)
+
+    # Add organization column from contract info or fallback mapping
     if 'organization' not in df.columns:
-        df['organization'] = df['contract_number'].apply(
-            lambda x: get_parent_org(x, '') if pd.notna(x) else 'Other'
-        )
+        def get_org(contract):
+            if pd.isna(contract):
+                return 'Other'
+            # First try contract info file
+            if contract in contract_to_org:
+                return contract_to_org[contract]
+            # Fallback to built-in mapping
+            return get_parent_org(contract, '')
+
+        df['organization'] = df['contract_number'].apply(get_org)
 
     return df
 
@@ -277,13 +348,17 @@ def aggregate_enrollment(df: pd.DataFrame) -> dict:
         axis=1
     )
 
-    df['parent_org'] = df.apply(
-        lambda r: get_parent_org(
-            r.get('contract_number', ''),
-            r.get('organization', '')
-        ),
-        axis=1
-    )
+    # Use organization column directly (from contract info) as parent_org
+    if 'organization' in df.columns:
+        df['parent_org'] = df['organization']
+    else:
+        df['parent_org'] = df.apply(
+            lambda r: get_parent_org(
+                r.get('contract_number', ''),
+                ''
+            ),
+            axis=1
+        )
 
     # Build FIPS code if not present
     if 'fips' not in df.columns:

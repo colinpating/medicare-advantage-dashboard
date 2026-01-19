@@ -164,10 +164,10 @@ def fetch_from_cms_page(year: int, month: int):
 
 def extract_zip(zip_data: bytes, output_dir: Path, year: int, month: int) -> Path:
     """
-    Extract the CSV from the ZIP file.
+    Extract the CSV files from the ZIP file.
 
     Returns:
-        Path to the extracted CSV file
+        Path to the extracted enrollment CSV file
     """
     with zipfile.ZipFile(BytesIO(zip_data)) as zf:
         # Find CSV files in the archive
@@ -176,37 +176,40 @@ def extract_zip(zip_data: bytes, output_dir: Path, year: int, month: int) -> Pat
         if not csv_files:
             raise RuntimeError("No CSV files found in the downloaded ZIP")
 
-        # Prefer enrollment file over contract info file
+        # Find enrollment and contract info files
         enrollment_file = None
+        contract_file = None
+
         for f in csv_files:
             f_lower = f.lower()
-            # Look for enrollment data file (not contract info)
             if 'enrollment' in f_lower and 'contract_info' not in f_lower:
                 enrollment_file = f
-                break
-            # Also check for CPSC file that's not contract info
-            if 'cpsc' in f_lower and 'contract' not in f_lower:
-                enrollment_file = f
-                break
+            elif 'contract' in f_lower and 'info' in f_lower:
+                contract_file = f
 
-        # If no enrollment-specific file found, use the largest CSV (usually enrollment data)
+        # If no enrollment-specific file found, use the largest CSV
         if enrollment_file is None:
-            # Get file sizes and pick the largest
             file_sizes = [(f, zf.getinfo(f).file_size) for f in csv_files]
             file_sizes.sort(key=lambda x: x[1], reverse=True)
             enrollment_file = file_sizes[0][0]
 
-        csv_name = enrollment_file
-        print(f"Extracting: {csv_name}")
-
-        # Extract to a standardized filename
+        # Extract enrollment file
+        print(f"Extracting: {enrollment_file}")
         output_filename = f"cpsc_enrollment_{year}_{month:02d}.csv"
         output_path = output_dir / output_filename
 
-        with zf.open(csv_name) as src, open(output_path, 'wb') as dst:
+        with zf.open(enrollment_file) as src, open(output_path, 'wb') as dst:
             dst.write(src.read())
-
         print(f"Saved to: {output_path}")
+
+        # Extract contract info file if found
+        if contract_file:
+            print(f"Extracting: {contract_file}")
+            contract_output = output_dir / f"cpsc_contract_info_{year}_{month:02d}.csv"
+            with zf.open(contract_file) as src, open(contract_output, 'wb') as dst:
+                dst.write(src.read())
+            print(f"Saved to: {contract_output}")
+
         return output_path
 
 

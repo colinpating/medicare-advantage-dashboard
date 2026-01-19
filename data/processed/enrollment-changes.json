@@ -19418,65 +19418,1853 @@
     }
   },
   "by_org": {
-    "BCBS": {
-      "current": 232393,
-      "december": 246518,
-      "change": -14125,
-      "change_pct": -5.73
+    "A&D Charitable Foundation, Inc.": {
+      "current": 168,
+      "december": 167,
+      "change": 1,
+      "change_pct": 0.6
     },
-    "CVS Health (Aetna)": {
-      "current": 1257736,
-      "december": 1375403,
-      "change": -117667,
-      "change_pct": -8.56
+    "AIDS Healthcare Foundation": {
+      "current": 597,
+      "december": 605,
+      "change": -8,
+      "change_pct": -1.32
     },
-    "Centene": {
-      "current": 365660,
-      "december": 325580,
-      "change": 40080,
-      "change_pct": 12.31
+    "ATRIO Health Plans": {
+      "current": 37805,
+      "december": 38358,
+      "change": -553,
+      "change_pct": -1.44
     },
-    "Cigna": {
-      "current": 502590,
-      "december": 428381,
-      "change": 74209,
-      "change_pct": 17.32
+    "Advocates for a Healthy Community, Inc.": {
+      "current": 0,
+      "december": 11,
+      "change": -11,
+      "change_pct": -100.0
     },
-    "Elevance Health (Anthem)": {
-      "current": 304164,
-      "december": 281557,
-      "change": 22607,
-      "change_pct": 8.03
+    "AgeWell PACE": {
+      "current": 89,
+      "december": 80,
+      "change": 9,
+      "change_pct": 11.25
     },
-    "Humana": {
-      "current": 4886741,
-      "december": 5205340,
-      "change": -318599,
+    "Aging & In-Home Services of Northeast Indiana, Inc": {
+      "current": 106,
+      "december": 107,
+      "change": -1,
+      "change_pct": -0.93
+    },
+    "Alignment Healthcare USA, LLC": {
+      "current": 200799,
+      "december": 186782,
+      "change": 14017,
+      "change_pct": 7.5
+    },
+    "AllCare Health, Inc.": {
+      "current": 2901,
+      "december": 4821,
+      "change": -1920,
+      "change_pct": -39.83
+    },
+    "Allina Health and Aetna Insurance Holding Company": {
+      "current": 28212,
+      "december": 27819,
+      "change": 393,
+      "change_pct": 1.41
+    },
+    "AlohaCare": {
+      "current": 2108,
+      "december": 2118,
+      "change": -10,
+      "change_pct": -0.47
+    },
+    "Altamed Health Services Corporation": {
+      "current": 3184,
+      "december": 3199,
+      "change": -15,
+      "change_pct": -0.47
+    },
+    "Amarillo Multisvc Ctr Fr the Aging Inc": {
+      "current": 120,
+      "december": 119,
+      "change": 1,
+      "change_pct": 0.84
+    },
+    "American Health Management, Inc.": {
+      "current": 91,
+      "december": 88,
+      "change": 3,
+      "change_pct": 3.41
+    },
+    "American Healthcare Systems, LLC": {
+      "current": 66,
+      "december": 70,
+      "change": -4,
+      "change_pct": -5.71
+    },
+    "Appalachian Agency for Senior Citizens, Inc.": {
+      "current": 121,
+      "december": 122,
+      "change": -1,
+      "change_pct": -0.82
+    },
+    "Asbury Communities, Inc.": {
+      "current": 174,
+      "december": 193,
+      "change": -19,
+      "change_pct": -9.84
+    },
+    "Ascension Health Alliance": {
+      "current": 734,
+      "december": 742,
+      "change": -8,
+      "change_pct": -1.08
+    },
+    "Aspirus, Inc.": {
+      "current": 1921,
+      "december": 1648,
+      "change": 273,
+      "change_pct": 16.57
+    },
+    "Associated Care Ventures, Inc.": {
+      "current": 2735,
+      "december": 2611,
+      "change": 124,
+      "change_pct": 4.75
+    },
+    "Astiva Health Holdings Incorporated": {
+      "current": 25238,
+      "december": 14800,
+      "change": 10438,
+      "change_pct": 70.53
+    },
+    "Athena Healthcare Holdings, LLC": {
+      "current": 8700,
+      "december": 8210,
+      "change": 490,
+      "change_pct": 5.97
+    },
+    "AtlantiCare Health Services, Inc.": {
+      "current": 143,
+      "december": 135,
+      "change": 8,
+      "change_pct": 5.93
+    },
+    "Aultman Health Foundation": {
+      "current": 14408,
+      "december": 15041,
+      "change": -633,
+      "change_pct": -4.21
+    },
+    "Avian Health Holdings, LLC": {
+      "current": 11520,
+      "december": 3264,
+      "change": 8256,
+      "change_pct": 252.94
+    },
+    "Aware Integrated, Inc.": {
+      "current": 243864,
+      "december": 228799,
+      "change": 15065,
+      "change_pct": 6.58
+    },
+    "BCBS MN, MT, NE, ND, WY, Wellmark IA and SD": {
+      "current": 145154,
+      "december": 180877,
+      "change": -35723,
+      "change_pct": -19.75
+    },
+    "BMC Health System, Inc.": {
+      "current": 5433,
+      "december": 3319,
+      "change": 2114,
+      "change_pct": 63.69
+    },
+    "Banner Health": {
+      "current": 25888,
+      "december": 29541,
+      "change": -3653,
+      "change_pct": -12.37
+    },
+    "Baptist Health (Arkansas)": {
+      "current": 77,
+      "december": 71,
+      "change": 6,
+      "change_pct": 8.45
+    },
+    "BayCare Health System, Inc.": {
+      "current": 14504,
+      "december": 12950,
+      "change": 1554,
+      "change_pct": 12.0
+    },
+    "Baylor Scott & White Holdings": {
+      "current": 33906,
+      "december": 29124,
+      "change": 4782,
+      "change_pct": 16.42
+    },
+    "Baystate Health, Inc.": {
+      "current": 12527,
+      "december": 12123,
+      "change": 404,
+      "change_pct": 3.33
+    },
+    "Beacon Care Ventures LLC DBA BoldAge PACE": {
+      "current": 420,
+      "december": 411,
+      "change": 9,
+      "change_pct": 2.19
+    },
+    "Beacon Care Ventures, LLC d/b/a BoldAge PACE": {
+      "current": 0,
+      "december": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "Bexar County Hospital District": {
+      "current": 150,
+      "december": 68,
+      "change": 82,
+      "change_pct": 120.59
+    },
+    "Bienvivir Senior Health Services": {
+      "current": 807,
+      "december": 812,
+      "change": -5,
+      "change_pct": -0.62
+    },
+    "Blue Cross & Blue Shield of Rhode Island": {
+      "current": 75280,
+      "december": 76428,
+      "change": -1148,
+      "change_pct": -1.5
+    },
+    "Blue Cross Blue Shield of Arizona": {
+      "current": 38600,
+      "december": 38874,
+      "change": -274,
+      "change_pct": -0.7
+    },
+    "Blue Cross Blue Shield of Kansas": {
+      "current": 87550,
+      "december": 28680,
+      "change": 58870,
+      "change_pct": 205.26
+    },
+    "Blue Cross Blue Shield of Michigan Mutual Ins. Co.": {
+      "current": 792460,
+      "december": 730797,
+      "change": 61663,
+      "change_pct": 8.44
+    },
+    "Blue Cross Blue Shield of Nebraska": {
+      "current": 18048,
+      "december": 7464,
+      "change": 10584,
+      "change_pct": 141.8
+    },
+    "Blue Cross and Blue Shield of Massachusetts, Inc.": {
+      "current": 94000,
+      "december": 88967,
+      "change": 5033,
+      "change_pct": 5.66
+    },
+    "Blue Cross and Blue Shield of North Carolina": {
+      "current": 185451,
+      "december": 160913,
+      "change": 24538,
+      "change_pct": 15.25
+    },
+    "Blue Ridge Hospice, Inc.": {
+      "current": 0,
+      "december": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BlueCross BlueShield Association, Federal Employee": {
+      "current": 583962,
+      "december": 765748,
+      "change": -181786,
+      "change_pct": -23.74
+    },
+    "BlueCross BlueShield of Alabama": {
+      "current": 144899,
+      "december": 138992,
+      "change": 5907,
+      "change_pct": 4.25
+    },
+    "BlueCross BlueShield of South Carolina (BCBSSC)": {
+      "current": 48474,
+      "december": 44437,
+      "change": 4037,
+      "change_pct": 9.08
+    },
+    "BlueCross BlueShield of Tennessee": {
+      "current": 202711,
+      "december": 194709,
+      "change": 8002,
+      "change_pct": 4.11
+    },
+    "Bluestem Communities, Inc.": {
+      "current": 94,
+      "december": 90,
+      "change": 4,
+      "change_pct": 4.44
+    },
+    "CAPITAL BLUE CROSS": {
+      "current": 35266,
+      "december": 33394,
+      "change": 1872,
+      "change_pct": 5.61
+    },
+    "CDS Monarch, Inc.": {
+      "current": 0,
+      "december": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CHRISTUS Health": {
+      "current": 6467,
+      "december": 5222,
+      "change": 1245,
+      "change_pct": 23.84
+    },
+    "CVS Health Corporation": {
+      "current": 8262354,
+      "december": 9183137,
+      "change": -920783,
+      "change_pct": -10.03
+    },
+    "California Physicians' Service": {
+      "current": 168913,
+      "december": 157099,
+      "change": 11814,
+      "change_pct": 7.52
+    },
+    "Cambia Health Solutions, Inc.": {
+      "current": 84418,
+      "december": 127712,
+      "change": -43294,
+      "change_pct": -33.9
+    },
+    "Cambridge Health Alliance": {
+      "current": 629,
+      "december": 618,
+      "change": 11,
+      "change_pct": 1.78
+    },
+    "Capital District Physicians' Health Plan, Inc.": {
+      "current": 69369,
+      "december": 65971,
+      "change": 3398,
+      "change_pct": 5.15
+    },
+    "Capital Healthcare, INC.": {
+      "current": 194,
+      "december": 192,
+      "change": 2,
+      "change_pct": 1.04
+    },
+    "Care Resources": {
+      "current": 339,
+      "december": 340,
+      "change": -1,
+      "change_pct": -0.29
+    },
+    "CareFirst, Inc.": {
+      "current": 20968,
+      "december": 13336,
+      "change": 7632,
+      "change_pct": 57.23
+    },
+    "CareOregon, Inc.": {
+      "current": 17355,
+      "december": 17607,
+      "change": -252,
+      "change_pct": -1.43
+    },
+    "CareSource": {
+      "current": 6079,
+      "december": 18472,
+      "change": -12393,
+      "change_pct": -67.09
+    },
+    "CaroMont Health, Inc.": {
+      "current": 267,
+      "december": 267,
+      "change": 0,
+      "change_pct": 0.0
+    },
+    "Catholic Charities Archdiocese of New Orleans": {
+      "current": 135,
+      "december": 144,
+      "change": -9,
+      "change_pct": -6.25
+    },
+    "Catholic Health Care System": {
+      "current": 712,
+      "december": 721,
+      "change": -9,
+      "change_pct": -1.25
+    },
+    "Catholic Health System, Inc.": {
+      "current": 238,
+      "december": 235,
+      "change": 3,
+      "change_pct": 1.28
+    },
+    "Centene Corporation": {
+      "current": 8651436,
+      "december": 7976951,
+      "change": 674485,
+      "change_pct": 8.46
+    },
+    "Center For Elders Independence": {
+      "current": 1019,
+      "december": 1025,
+      "change": -6,
+      "change_pct": -0.59
+    },
+    "CenterLight Health System, Inc.": {
+      "current": 2372,
+      "december": 2378,
+      "change": -6,
+      "change_pct": -0.25
+    },
+    "Centers Plan for Healthy Living, LLC": {
+      "current": 2925,
+      "december": 2712,
+      "change": 213,
+      "change_pct": 7.85
+    },
+    "Centra Health, Inc.": {
+      "current": 309,
+      "december": 314,
+      "change": -5,
+      "change_pct": -1.59
+    },
+    "Central Mass Health Holding LLC": {
+      "current": 3246,
+      "december": 2356,
+      "change": 890,
+      "change_pct": 37.78
+    },
+    "Centro de Salud de la Comunidad de San Ysidro": {
+      "current": 2095,
+      "december": 2095,
+      "change": 0,
+      "change_pct": 0.0
+    },
+    "Champion Health Plans-USA, LLC.": {
+      "current": 137,
+      "december": 144,
+      "change": -7,
+      "change_pct": -4.86
+    },
+    "Cherokee Nation Comprehensive Care Agency": {
+      "current": 155,
+      "december": 155,
+      "change": 0,
+      "change_pct": 0.0
+    },
+    "Chinese Hospital Association": {
+      "current": 5776,
+      "december": 5709,
+      "change": 67,
+      "change_pct": 1.17
+    },
+    "Clever Care Health Plan, Inc.": {
+      "current": 27669,
+      "december": 28834,
+      "change": -1165,
+      "change_pct": -4.04
+    },
+    "Clover Health Holdings, Inc.": {
+      "current": 96464,
+      "december": 81319,
+      "change": 15145,
+      "change_pct": 18.62
+    },
+    "Commonwealth Care Alliance, Inc.": {
+      "current": 45748,
+      "december": 55144,
+      "change": -9396,
+      "change_pct": -17.04
+    },
+    "Commonwealth of PA Pub Schools Retirement System": {
+      "current": 92730,
+      "december": 94404,
+      "change": -1674,
+      "change_pct": -1.77
+    },
+    "Community Care of Western New York, Inc.": {
+      "current": 113,
+      "december": 121,
+      "change": -8,
+      "change_pct": -6.61
+    },
+    "Community Care, Inc.": {
+      "current": 863,
+      "december": 877,
+      "change": -14,
+      "change_pct": -1.6
+    },
+    "Community Health Group": {
+      "current": 7993,
+      "december": 7668,
+      "change": 325,
+      "change_pct": 4.24
+    },
+    "Community Health Plan of Washington": {
+      "current": 13648,
+      "december": 14815,
+      "change": -1167,
+      "change_pct": -7.88
+    },
+    "Community Hospice of Northeast Florida, Inc.": {
+      "current": 92,
+      "december": 98,
+      "change": -6,
       "change_pct": -6.12
     },
-    "Kaiser Permanente": {
-      "current": 1648023,
-      "december": 1636576,
-      "change": 11447,
-      "change_pct": 0.7
+    "Community PACE at Home, Inc": {
+      "current": 65,
+      "december": 65,
+      "change": 0,
+      "change_pct": 0.0
     },
-    "Molina Healthcare": {
-      "current": 111530,
-      "december": 105428,
-      "change": 6102,
-      "change_pct": 5.79
+    "Comprehensive Senior Care Corporation": {
+      "current": 602,
+      "december": 610,
+      "change": -8,
+      "change_pct": -1.31
+    },
+    "Corewell Health": {
+      "current": 250349,
+      "december": 250181,
+      "change": 168,
+      "change_pct": 0.07
+    },
+    "CoxHealth": {
+      "current": 3828,
+      "december": 3653,
+      "change": 175,
+      "change_pct": 4.79
+    },
+    "Curana Health Holdings, LLC": {
+      "current": 1620,
+      "december": 1610,
+      "change": 10,
+      "change_pct": 0.62
+    },
+    "DLP Marquette General Hospital, LLC": {
+      "current": 4205,
+      "december": 4004,
+      "change": 201,
+      "change_pct": 5.02
+    },
+    "DOCTORS HEALTHCARE PLANS, INC.": {
+      "current": 14522,
+      "december": 13298,
+      "change": 1224,
+      "change_pct": 9.2
+    },
+    "Denver Health and Hospital Authority": {
+      "current": 4924,
+      "december": 4946,
+      "change": -22,
+      "change_pct": -0.44
+    },
+    "Devoted Health, Inc.": {
+      "current": 195954,
+      "december": 243275,
+      "change": -47321,
+      "change_pct": -19.45
+    },
+    "East Boston Neighborhood Center Corp.": {
+      "current": 798,
+      "december": 790,
+      "change": 8,
+      "change_pct": 1.01
+    },
+    "Edenbridge Health, LLC": {
+      "current": 0,
+      "december": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "Educators Mutual Insurance Association": {
+      "current": 1087,
+      "december": 1093,
+      "change": -6,
+      "change_pct": -0.55
+    },
+    "El Paso County Hospital District": {
+      "current": 699,
+      "december": 512,
+      "change": 187,
+      "change_pct": 36.52
+    },
+    "Elderplan, Inc.": {
+      "current": 17665,
+      "december": 16802,
+      "change": 863,
+      "change_pct": 5.14
+    },
+    "Element Care INC.": {
+      "current": 41,
+      "december": 43,
+      "change": -2,
+      "change_pct": -4.65
+    },
+    "Element Care, Inc.": {
+      "current": 985,
+      "december": 989,
+      "change": -4,
+      "change_pct": -0.4
+    },
+    "Elevance Health, Inc.": {
+      "current": 2399568,
+      "december": 2238600,
+      "change": 160968,
+      "change_pct": 7.19
+    },
+    "Elevance Health, Inc. & BCBSMA & BCBSRI & BCBSVT": {
+      "current": 205461,
+      "december": 172284,
+      "change": 33177,
+      "change_pct": 19.26
+    },
+    "EmblemHealth, Inc.": {
+      "current": 167124,
+      "december": 159151,
+      "change": 7973,
+      "change_pct": 5.01
+    },
+    "Empath Health, Inc.": {
+      "current": 310,
+      "december": 318,
+      "change": -8,
+      "change_pct": -2.52
+    },
+    "Esperanza Health Centers": {
+      "current": 14,
+      "december": 0,
+      "change": 14,
+      "change_pct": 0
+    },
+    "Eternal Health of Delaware, Inc.": {
+      "current": 2622,
+      "december": 907,
+      "change": 1715,
+      "change_pct": 189.08
+    },
+    "EveryAge": {
+      "current": 197,
+      "december": 215,
+      "change": -18,
+      "change_pct": -8.37
+    },
+    "Fallon Community Health Plan, Inc.": {
+      "current": 22248,
+      "december": 21874,
+      "change": 374,
+      "change_pct": 1.71
+    },
+    "Family Health Centers of San Diego": {
+      "current": 238,
+      "december": 244,
+      "change": -6,
+      "change_pct": -2.46
+    },
+    "Family Healthcare Network": {
+      "current": 0,
+      "december": 24,
+      "change": -24,
+      "change_pct": -100.0
+    },
+    "Fenyx Health Holdings, Inc.": {
+      "current": 76,
+      "december": 35,
+      "change": 41,
+      "change_pct": 117.14
+    },
+    "First Sacramento Capital Funding LLC": {
+      "current": 884,
+      "december": 905,
+      "change": -21,
+      "change_pct": -2.32
+    },
+    "Franciscan Alliance, Inc.": {
+      "current": 268,
+      "december": 268,
+      "change": 0,
+      "change_pct": 0.0
+    },
+    "Franciscan Missionaries of Our Lady Health System": {
+      "current": 232,
+      "december": 233,
+      "change": -1,
+      "change_pct": -0.43
+    },
+    "Gary and Mary West Senior Services, Inc.": {
+      "current": 345,
+      "december": 355,
+      "change": -10,
+      "change_pct": -2.82
+    },
+    "Gemstone Holdings, Inc.": {
+      "current": 82840,
+      "december": 64964,
+      "change": 17876,
+      "change_pct": 27.52
+    },
+    "Gold Kidney Health Plan": {
+      "current": 3057,
+      "december": 1293,
+      "change": 1764,
+      "change_pct": 136.43
+    },
+    "Golden Valley Health Centers": {
+      "current": 231,
+      "december": 226,
+      "change": 5,
+      "change_pct": 2.21
+    },
+    "Group 1001": {
+      "current": 8431,
+      "december": 327274,
+      "change": -318843,
+      "change_pct": -97.42
+    },
+    "Group Health Cooperative of Eau Claire": {
+      "current": 122,
+      "december": 71,
+      "change": 51,
+      "change_pct": 71.83
+    },
+    "Guidewell Mutual Holding Corporation": {
+      "current": 318963,
+      "december": 373012,
+      "change": -54049,
+      "change_pct": -14.49
+    },
+    "HCA Healthcare, Inc.": {
+      "current": 185,
+      "december": 177,
+      "change": 8,
+      "change_pct": 4.52
+    },
+    "HTA Holdings, LLC": {
+      "current": 20986,
+      "december": 17108,
+      "change": 3878,
+      "change_pct": 22.67
+    },
+    "Hamaspik of Rockland County, Inc.": {
+      "current": 1279,
+      "december": 1299,
+      "change": -20,
+      "change_pct": -1.54
+    },
+    "Harbor Health Services, Inc.": {
+      "current": 517,
+      "december": 523,
+      "change": -6,
+      "change_pct": -1.15
+    },
+    "Harris County Hospital District": {
+      "current": 482,
+      "december": 370,
+      "change": 112,
+      "change_pct": 30.27
+    },
+    "Hawaii Medical Service Association": {
+      "current": 37296,
+      "december": 35927,
+      "change": 1369,
+      "change_pct": 3.81
+    },
+    "Health Association of Niagara County, Incorp.": {
+      "current": 130,
+      "december": 127,
+      "change": 3,
+      "change_pct": 2.36
+    },
+    "Health Care Service Corporation": {
+      "current": 463495,
+      "december": 489060,
+      "change": -25565,
+      "change_pct": -5.23
+    },
+    "Health First Shared Services, Inc.": {
+      "current": 33198,
+      "december": 32322,
+      "change": 876,
+      "change_pct": 2.71
+    },
+    "Health Plan of San Mateo": {
+      "current": 8220,
+      "december": 8167,
+      "change": 53,
+      "change_pct": 0.65
+    },
+    "HealthPartners, Inc.": {
+      "current": 56295,
+      "december": 55953,
+      "change": 342,
+      "change_pct": 0.61
+    },
+    "Healthfirst, Inc.": {
+      "current": 328464,
+      "december": 310004,
+      "change": 18460,
+      "change_pct": 5.95
+    },
+    "Henry Ford Health System": {
+      "current": 88696,
+      "december": 84275,
+      "change": 4421,
+      "change_pct": 5.25
+    },
+    "High Desert PACE, Inc.": {
+      "current": 45,
+      "december": 36,
+      "change": 9,
+      "change_pct": 25.0
+    },
+    "Highmark Health": {
+      "current": 474577,
+      "december": 439383,
+      "change": 35194,
+      "change_pct": 8.01
+    },
+    "Hope Hospice and Community Services, Inc.": {
+      "current": 469,
+      "december": 476,
+      "change": -7,
+      "change_pct": -1.47
+    },
+    "Hopewest": {
+      "current": 166,
+      "december": 168,
+      "change": -2,
+      "change_pct": -1.19
+    },
+    "Horizon Mutual Holdings, Inc": {
+      "current": 110354,
+      "december": 92082,
+      "change": 18272,
+      "change_pct": 19.84
+    },
+    "Hosparus Health Inc": {
+      "current": 0,
+      "december": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "Hospice of the Bluegrass, Inc.": {
+      "current": 30,
+      "december": 30,
+      "change": 0,
+      "change_pct": 0.0
+    },
+    "Humana Inc.": {
+      "current": 7919349,
+      "december": 8259621,
+      "change": -340272,
+      "change_pct": -4.12
+    },
+    "Humboldt Senior Resource Center, Inc.": {
+      "current": 296,
+      "december": 297,
+      "change": -1,
+      "change_pct": -0.34
+    },
+    "INLAND EMPIRE HEALTH PLAN": {
+      "current": 36184,
+      "december": 35987,
+      "change": 197,
+      "change_pct": 0.55
+    },
+    "ISNP Holdings, LLC": {
+      "current": 458,
+      "december": 465,
+      "change": -7,
+      "change_pct": -1.51
+    },
+    "Immanuel": {
+      "current": 574,
+      "december": 584,
+      "change": -10,
+      "change_pct": -1.71
+    },
+    "Imperial Health Plan of California": {
+      "current": 16970,
+      "december": 9249,
+      "change": 7721,
+      "change_pct": 83.48
+    },
+    "Independence Health Group, Inc.": {
+      "current": 152387,
+      "december": 139546,
+      "change": 12841,
+      "change_pct": 9.2
+    },
+    "Independent Health Association, Inc.": {
+      "current": 73544,
+      "december": 74751,
+      "change": -1207,
+      "change_pct": -1.61
+    },
+    "Independent Living Systems, LLC": {
+      "current": 1144,
+      "december": 1038,
+      "change": 106,
+      "change_pct": 10.21
+    },
+    "Indiana University Health": {
+      "current": 19677,
+      "december": 19397,
+      "change": 280,
+      "change_pct": 1.44
+    },
+    "Innovative Integrated Health, Inc.": {
+      "current": 1311,
+      "december": 1295,
+      "change": 16,
+      "change_pct": 1.24
+    },
+    "Inspira Health Network, Inc.": {
+      "current": 240,
+      "december": 233,
+      "change": 7,
+      "change_pct": 3.0
+    },
+    "Intermountain Health Care, Inc.": {
+      "current": 60640,
+      "december": 61944,
+      "change": -1304,
+      "change_pct": -2.11
+    },
+    "International Community Health Services": {
+      "current": 98,
+      "december": 98,
+      "change": 0,
+      "change_pct": 0.0
+    },
+    "Iowa Health System": {
+      "current": 211,
+      "december": 217,
+      "change": -6,
+      "change_pct": -2.76
+    },
+    "Itasca County": {
+      "current": 320,
+      "december": 327,
+      "change": -7,
+      "change_pct": -2.14
+    },
+    "Johns Hopkins Healthcare LLC": {
+      "current": 13205,
+      "december": 13593,
+      "change": -388,
+      "change_pct": -2.85
+    },
+    "Kaiser Foundation Health Plan, Inc.": {
+      "current": 1936902,
+      "december": 1921072,
+      "change": 15830,
+      "change_pct": 0.82
+    },
+    "Kansas Superior Select": {
+      "current": 643,
+      "december": 670,
+      "change": -27,
+      "change_pct": -4.03
+    },
+    "LIFE COORDINATED COMMONWEALTH PACE, Inc": {
+      "current": 0,
+      "december": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "LIFE Senior Services, Inc.": {
+      "current": 226,
+      "december": 223,
+      "change": 3,
+      "change_pct": 1.35
+    },
+    "LMC Family Holdings, LLC": {
+      "current": 38892,
+      "december": 38835,
+      "change": 57,
+      "change_pct": 0.15
+    },
+    "Lawndale Christian Health Center": {
+      "current": 14,
+      "december": 11,
+      "change": 3,
+      "change_pct": 27.27
+    },
+    "Liberty Healthcare Insurance": {
+      "current": 2177,
+      "december": 1622,
+      "change": 555,
+      "change_pct": 34.22
+    },
+    "LifeBridge Health, Inc.": {
+      "current": 8826,
+      "december": 7941,
+      "change": 885,
+      "change_pct": 11.14
+    },
+    "LifeCircles": {
+      "current": 414,
+      "december": 414,
+      "change": 0,
+      "change_pct": 0.0
+    },
+    "Lifetime Healthcare, Inc.": {
+      "current": 190777,
+      "december": 174870,
+      "change": 15907,
+      "change_pct": 9.1
+    },
+    "Living Independence for the Elderly": {
+      "current": 518,
+      "december": 518,
+      "change": 0,
+      "change_pct": 0.0
+    },
+    "Local Initiative Health Authority for LA County": {
+      "current": 22675,
+      "december": 20280,
+      "change": 2395,
+      "change_pct": 11.81
+    },
+    "Loma Linda University Medical Center": {
+      "current": 54,
+      "december": 49,
+      "change": 5,
+      "change_pct": 10.2
+    },
+    "Longevity Health Founders, LLC": {
+      "current": 5969,
+      "december": 5988,
+      "change": -19,
+      "change_pct": -0.32
+    },
+    "Loretto Rest Realty Corporation": {
+      "current": 575,
+      "december": 573,
+      "change": 2,
+      "change_pct": 0.35
+    },
+    "Los Angeles Jewish Home for the Aging": {
+      "current": 262,
+      "december": 264,
+      "change": -2,
+      "change_pct": -0.76
+    },
+    "Louisiana Health Service & Indemnity Company": {
+      "current": 44556,
+      "december": 41201,
+      "change": 3355,
+      "change_pct": 8.14
+    },
+    "Lubbock Regional Mental Health": {
+      "current": 143,
+      "december": 145,
+      "change": -2,
+      "change_pct": -1.38
+    },
+    "Lumeris Group Holdings Corporation": {
+      "current": 57802,
+      "december": 60822,
+      "change": -3020,
+      "change_pct": -4.97
+    },
+    "Lutheran SeniorLife": {
+      "current": 640,
+      "december": 642,
+      "change": -2,
+      "change_pct": -0.31
+    },
+    "Lutheran Social Ministries of New Jersey": {
+      "current": 82,
+      "december": 84,
+      "change": -2,
+      "change_pct": -2.38
+    },
+    "MEDICAL MUTUAL OF OHIO": {
+      "current": 99354,
+      "december": 59620,
+      "change": 39734,
+      "change_pct": 66.65
+    },
+    "MHH Healthcare, L.P.": {
+      "current": 316975,
+      "december": 303033,
+      "change": 13942,
+      "change_pct": 4.6
+    },
+    "MVP Health Care, Inc.": {
+      "current": 63296,
+      "december": 64568,
+      "change": -1272,
+      "change_pct": -1.97
+    },
+    "Marquis Companies I, Inc.": {
+      "current": 601,
+      "december": 583,
+      "change": 18,
+      "change_pct": 3.09
+    },
+    "Marshfield Clinic Health System, Inc.": {
+      "current": 68285,
+      "december": 64343,
+      "change": 3942,
+      "change_pct": 6.13
+    },
+    "Martin's Point Health Care, Inc.": {
+      "current": 82035,
+      "december": 74408,
+      "change": 7627,
+      "change_pct": 10.25
+    },
+    "Mass General Brigham Incorporated": {
+      "current": 5507,
+      "december": 2975,
+      "change": 2532,
+      "change_pct": 85.11
+    },
+    "McGregor at Overlook": {
+      "current": 498,
+      "december": 503,
+      "change": -5,
+      "change_pct": -0.99
+    },
+    "McLaren Health Care Corporation": {
+      "current": 2006,
+      "december": 1392,
+      "change": 614,
+      "change_pct": 44.11
+    },
+    "MedImpact Holdings, Inc.": {
+      "current": 7349,
+      "december": 7470,
+      "change": -121,
+      "change_pct": -1.62
+    },
+    "Medica Holding Company": {
+      "current": 260987,
+      "december": 261360,
+      "change": -373,
+      "change_pct": -0.14
+    },
+    "Medical Associates Clinic, P.C.": {
+      "current": 18824,
+      "december": 18922,
+      "change": -98,
+      "change_pct": -0.52
+    },
+    "Memorial Hermann Health System": {
+      "current": 12102,
+      "december": 9727,
+      "change": 2375,
+      "change_pct": 24.42
+    },
+    "Mercy Care": {
+      "current": 11307,
+      "december": 11412,
+      "change": -105,
+      "change_pct": -0.92
+    },
+    "Miami Jewish Health Systems, Inc.": {
+      "current": 967,
+      "december": 974,
+      "change": -7,
+      "change_pct": -0.72
+    },
+    "Midland Care Connection, Inc.": {
+      "current": 478,
+      "december": 480,
+      "change": -2,
+      "change_pct": -0.42
+    },
+    "Midwest Christian Villages, Inc.": {
+      "current": 58,
+      "december": 58,
+      "change": 0,
+      "change_pct": 0.0
+    },
+    "Milford Wellness Village PACE, LLC": {
+      "current": 47,
+      "december": 45,
+      "change": 2,
+      "change_pct": 4.44
+    },
+    "Missouri Healthcare Advisors, LLC": {
+      "current": 1091,
+      "december": 1087,
+      "change": 4,
+      "change_pct": 0.37
+    },
+    "Mitchell Family Office": {
+      "current": 5959,
+      "december": 5846,
+      "change": 113,
+      "change_pct": 1.93
+    },
+    "Moda Partners, Inc.": {
+      "current": 22369,
+      "december": 28884,
+      "change": -6515,
+      "change_pct": -22.56
+    },
+    "Molina Healthcare, Inc.": {
+      "current": 211728,
+      "december": 238587,
+      "change": -26859,
+      "change_pct": -11.26
+    },
+    "Montage Health": {
+      "current": 7760,
+      "december": 7403,
+      "change": 357,
+      "change_pct": 4.82
+    },
+    "Morse Life Home Care, Inc.": {
+      "current": 827,
+      "december": 833,
+      "change": -6,
+      "change_pct": -0.72
+    },
+    "Mount Sinai Medical Center of Florida, Inc.": {
+      "current": 65,
+      "december": 61,
+      "change": 4,
+      "change_pct": 6.56
+    },
+    "Mountain Empire Older Citizens, Inc": {
+      "current": 79,
+      "december": 92,
+      "change": -13,
+      "change_pct": -14.13
+    },
+    "MultiCare Health Systems": {
+      "current": 169,
+      "december": 164,
+      "change": 5,
+      "change_pct": 3.05
+    },
+    "NEIGHBORHOOD HEALTH PLAN OF RHODE ISLAND": {
+      "current": 11163,
+      "december": 11397,
+      "change": -234,
+      "change_pct": -2.05
+    },
+    "Neighborhood HealthCare": {
+      "current": 181,
+      "december": 173,
+      "change": 8,
+      "change_pct": 4.62
+    },
+    "Network Health, Inc.": {
+      "current": 81677,
+      "december": 79052,
+      "change": 2625,
+      "change_pct": 3.32
+    },
+    "New York City Health and Hospitals Corporation": {
+      "current": 11169,
+      "december": 11188,
+      "change": -19,
+      "change_pct": -0.17
+    },
+    "North East Medical Services": {
+      "current": 134,
+      "december": 136,
+      "change": -2,
+      "change_pct": -1.47
+    },
+    "Northland Healthcare Alliance": {
+      "current": 174,
+      "december": 168,
+      "change": 6,
+      "change_pct": 3.57
+    },
+    "OSF Healthcare System": {
+      "current": 0,
+      "december": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "Ochsner Clinic Foundation": {
+      "current": 5356,
+      "december": 4156,
+      "change": 1200,
+      "change_pct": 28.87
+    },
+    "On Lok, Inc.": {
+      "current": 1630,
+      "december": 1625,
+      "change": 5,
+      "change_pct": 0.31
+    },
+    "One Senior Care, Inc.": {
+      "current": 670,
+      "december": 689,
+      "change": -19,
+      "change_pct": -2.76
+    },
+    "Orange County Health Authority": {
+      "current": 17462,
+      "december": 17395,
+      "change": 67,
+      "change_pct": 0.39
+    },
+    "Orangeburg Senior Helping Center, LLC": {
+      "current": 80,
+      "december": 82,
+      "change": -2,
+      "change_pct": -2.44
     },
     "Other": {
-      "current": 42294152,
-      "december": 43115338,
-      "change": -821186,
-      "change_pct": -1.9
+      "current": 153753,
+      "december": 0,
+      "change": 153753,
+      "change_pct": 0
     },
-    "UnitedHealth Group": {
-      "current": 4952961,
-      "december": 4180613,
-      "change": 772348,
-      "change_pct": 18.47
+    "PACE @ Home": {
+      "current": 140,
+      "december": 142,
+      "change": -2,
+      "change_pct": -1.41
+    },
+    "PACE AT HUDSON HEADWATERS, INC.": {
+      "current": 0,
+      "december": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "PACE Central Michigan, Inc.": {
+      "current": 189,
+      "december": 189,
+      "change": 0,
+      "change_pct": 0.0
+    },
+    "PACE North": {
+      "current": 190,
+      "december": 195,
+      "change": -5,
+      "change_pct": -2.56
+    },
+    "PACE Organization of Rhode Island": {
+      "current": 379,
+      "december": 389,
+      "change": -10,
+      "change_pct": -2.57
+    },
+    "PACE of Southwest Michigan, Inc.": {
+      "current": 232,
+      "december": 232,
+      "change": 0,
+      "change_pct": 0.0
+    },
+    "PACE of the Southern Piedmont, Inc.": {
+      "current": 214,
+      "december": 210,
+      "change": 4,
+      "change_pct": 1.9
+    },
+    "PHSI, Inc.": {
+      "current": 1621,
+      "december": 1647,
+      "change": -26,
+      "change_pct": -1.58
+    },
+    "PIEDMONT HEALTH SERVICES, INC.": {
+      "current": 259,
+      "december": 256,
+      "change": 3,
+      "change_pct": 1.17
+    },
+    "PacificSource": {
+      "current": 51564,
+      "december": 55720,
+      "change": -4156,
+      "change_pct": -7.46
+    },
+    "Pennsylvania PACE, Inc.": {
+      "current": 217,
+      "december": 221,
+      "change": -4,
+      "change_pct": -1.81
+    },
+    "Perennial Consortium, LLC": {
+      "current": 644,
+      "december": 512,
+      "change": 132,
+      "change_pct": 25.78
+    },
+    "Point32Health, Inc.": {
+      "current": 142273,
+      "december": 151480,
+      "change": -9207,
+      "change_pct": -6.08
+    },
+    "Presbyterian Healthcare Services": {
+      "current": 57837,
+      "december": 59384,
+      "change": -1547,
+      "change_pct": -2.61
+    },
+    "Prime Therapeutics, LLC.": {
+      "current": 0,
+      "december": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "PrimeWest Rural MN Health Care Access Initiative": {
+      "current": 2326,
+      "december": 2363,
+      "change": -37,
+      "change_pct": -1.57
+    },
+    "Prisma Health": {
+      "current": 368,
+      "december": 379,
+      "change": -11,
+      "change_pct": -2.9
+    },
+    "Prosper Services LLC": {
+      "current": 27,
+      "december": 26,
+      "change": 1,
+      "change_pct": 3.85
+    },
+    "Providence Health & Services": {
+      "current": 2876,
+      "december": 2861,
+      "change": 15,
+      "change_pct": 0.52
+    },
+    "Providence St Joseph Health": {
+      "current": 75816,
+      "december": 70060,
+      "change": 5756,
+      "change_pct": 8.22
+    },
+    "Regency ISNP Holdings LLC": {
+      "current": 2349,
+      "december": 2314,
+      "change": 35,
+      "change_pct": 1.51
+    },
+    "Region VII Area Agency on Aging, Inc.": {
+      "current": 74,
+      "december": 73,
+      "change": 1,
+      "change_pct": 1.37
+    },
+    "Reid Hospital & Health Care Services, Inc.": {
+      "current": 79,
+      "december": 80,
+      "change": -1,
+      "change_pct": -1.25
+    },
+    "Renown Health": {
+      "current": 19225,
+      "december": 18723,
+      "change": 502,
+      "change_pct": 2.68
+    },
+    "Rifkin Managed Care Holding, LLC": {
+      "current": 6304,
+      "december": 6432,
+      "change": -128,
+      "change_pct": -1.99
+    },
+    "Risant Health, Inc.": {
+      "current": 96473,
+      "december": 99163,
+      "change": -2690,
+      "change_pct": -2.71
+    },
+    "RiverSpring Living Holding Corp.": {
+      "current": 456,
+      "december": 455,
+      "change": 1,
+      "change_pct": 0.22
+    },
+    "Rochester Regional Health": {
+      "current": 718,
+      "december": 728,
+      "change": -10,
+      "change_pct": -1.37
+    },
+    "Rocky Mountain Health Care Services": {
+      "current": 979,
+      "december": 984,
+      "change": -5,
+      "change_pct": -0.51
+    },
+    "SA Plan, LLC": {
+      "current": 948,
+      "december": 976,
+      "change": -28,
+      "change_pct": -2.87
+    },
+    "SANTA CLARA COUNTY HEALTH AUTHORITY": {
+      "current": 10751,
+      "december": 10577,
+      "change": 174,
+      "change_pct": 1.65
+    },
+    "SCAN Group": {
+      "current": 293316,
+      "december": 278403,
+      "change": 14913,
+      "change_pct": 5.36
+    },
+    "SIHO Holding, Inc.": {
+      "current": 4219,
+      "december": 2305,
+      "change": 1914,
+      "change_pct": 83.04
+    },
+    "SNP Holdings, LLC": {
+      "current": 3771,
+      "december": 3842,
+      "change": -71,
+      "change_pct": -1.85
+    },
+    "Samaritan Health Services": {
+      "current": 13464,
+      "december": 12665,
+      "change": 799,
+      "change_pct": 6.31
+    },
+    "Sanford Health": {
+      "current": 8153,
+      "december": 5202,
+      "change": 2951,
+      "change_pct": 56.73
+    },
+    "Select Founders, LLC": {
+      "current": 1915,
+      "december": 1856,
+      "change": 59,
+      "change_pct": 3.18
+    },
+    "Senior LIFE Altoona, Inc.": {
+      "current": 484,
+      "december": 495,
+      "change": -11,
+      "change_pct": -2.22
+    },
+    "Senior LIFE Greensburg, Inc.": {
+      "current": 174,
+      "december": 176,
+      "change": -2,
+      "change_pct": -1.14
+    },
+    "Senior LIFE Lehigh Valley, Inc.": {
+      "current": 566,
+      "december": 578,
+      "change": -12,
+      "change_pct": -2.08
+    },
+    "Senior LIFE York, Inc.": {
+      "current": 359,
+      "december": 373,
+      "change": -14,
+      "change_pct": -3.75
+    },
+    "SeniorLife Washington, Inc.": {
+      "current": 492,
+      "december": 490,
+      "change": 2,
+      "change_pct": 0.41
+    },
+    "Sentara Health Care (SHC)": {
+      "current": 42455,
+      "december": 52648,
+      "change": -10193,
+      "change_pct": -19.36
+    },
+    "Serenity Care, Inc.": {
+      "current": 516,
+      "december": 510,
+      "change": 6,
+      "change_pct": 1.18
+    },
+    "Sharp Healthcare": {
+      "current": 16050,
+      "december": 15399,
+      "change": 651,
+      "change_pct": 4.23
+    },
+    "South Country Health Alliance": {
+      "current": 1419,
+      "december": 1553,
+      "change": -134,
+      "change_pct": -8.63
+    },
+    "St Francis Health System & St John Health System": {
+      "current": 34460,
+      "december": 33248,
+      "change": 1212,
+      "change_pct": 3.65
+    },
+    "St. Bernard's Healthcare": {
+      "current": 329,
+      "december": 337,
+      "change": -8,
+      "change_pct": -2.37
+    },
+    "St. Joseph Home Care Network": {
+      "current": 42,
+      "december": 44,
+      "change": -2,
+      "change_pct": -4.55
+    },
+    "St. Paul\u00e2\u20ac\u2122s Episcopal Home": {
+      "current": 1111,
+      "december": 1129,
+      "change": -18,
+      "change_pct": -1.59
+    },
+    "Summa Health": {
+      "current": 24605,
+      "december": 22705,
+      "change": 1900,
+      "change_pct": 8.37
+    },
+    "Sutter Valley Hospitals": {
+      "current": 424,
+      "december": 423,
+      "change": 1,
+      "change_pct": 0.24
+    },
+    "Swope Health Services": {
+      "current": 0,
+      "december": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "TRU Community Care": {
+      "current": 275,
+      "december": 280,
+      "change": -5,
+      "change_pct": -1.79
+    },
+    "The Carle Foundation": {
+      "current": 32379,
+      "december": 44320,
+      "change": -11941,
+      "change_pct": -26.94
+    },
+    "The Cigna Group": {
+      "current": 3513120,
+      "december": 3116661,
+      "change": 396459,
+      "change_pct": 12.72
+    },
+    "The Health Plan of West Virginia, Inc.": {
+      "current": 9293,
+      "december": 8342,
+      "change": 951,
+      "change_pct": 11.4
+    },
+    "The Johns Hopkins Health System Corporation": {
+      "current": 143,
+      "december": 144,
+      "change": -1,
+      "change_pct": -0.69
+    },
+    "The Schroer Group, Inc.": {
+      "current": 1623,
+      "december": 1571,
+      "change": 52,
+      "change_pct": 3.31
+    },
+    "Thomas Jefferson University": {
+      "current": 15446,
+      "december": 13201,
+      "change": 2245,
+      "change_pct": 17.01
+    },
+    "Total Community Options, Inc.": {
+      "current": 6445,
+      "december": 6462,
+      "change": -17,
+      "change_pct": -0.26
+    },
+    "Trinity Health Corporation": {
+      "current": 54296,
+      "december": 45921,
+      "change": 8375,
+      "change_pct": 18.24
+    },
+    "Triton Health Systems, L.L.C.": {
+      "current": 54150,
+      "december": 57626,
+      "change": -3476,
+      "change_pct": -6.03
+    },
+    "Troy Holdings, Inc.": {
+      "current": 1556,
+      "december": 1798,
+      "change": -242,
+      "change_pct": -13.46
+    },
+    "UCare Minnesota": {
+      "current": 175694,
+      "december": 151835,
+      "change": 23859,
+      "change_pct": 15.71
+    },
+    "UNICO Services, Inc.": {
+      "current": 2048,
+      "december": 1990,
+      "change": 58,
+      "change_pct": 2.91
+    },
+    "UPMC Health System": {
+      "current": 223867,
+      "december": 222241,
+      "change": 1626,
+      "change_pct": 0.73
+    },
+    "USAble Mutual Insurance Company": {
+      "current": 42658,
+      "december": 44852,
+      "change": -2194,
+      "change_pct": -4.89
+    },
+    "Ultimate Healthcare Holdings, LLC": {
+      "current": 9323,
+      "december": 14973,
+      "change": -5650,
+      "change_pct": -37.73
+    },
+    "United Methodist Retirement Communities, Inc.": {
+      "current": 211,
+      "december": 208,
+      "change": 3,
+      "change_pct": 1.44
+    },
+    "UnitedHealth Group, Inc.": {
+      "current": 13199833,
+      "december": 13198465,
+      "change": 1368,
+      "change_pct": 0.01
+    },
+    "Universal Health Services, Inc.": {
+      "current": 31344,
+      "december": 28207,
+      "change": 3137,
+      "change_pct": 11.12
+    },
+    "University of Michigan Health": {
+      "current": 9664,
+      "december": 9666,
+      "change": -2,
+      "change_pct": -0.02
+    },
+    "University of Wisconsin Hospitals and Clincs Autho": {
+      "current": 35553,
+      "december": 36148,
+      "change": -595,
+      "change_pct": -1.65
+    },
+    "Uphams Corner Health Committee, Inc.": {
+      "current": 273,
+      "december": 267,
+      "change": 6,
+      "change_pct": 2.25
+    },
+    "Utd Methodist Retirement Communities of SE MI": {
+      "current": 275,
+      "december": 268,
+      "change": 7,
+      "change_pct": 2.61
+    },
+    "VISITING NURSE ASSOCIATION OF CENTRAL NEW YORK": {
+      "current": 496,
+      "december": 493,
+      "change": 3,
+      "change_pct": 0.61
+    },
+    "Valir PACE, LLC.": {
+      "current": 249,
+      "december": 258,
+      "change": -9,
+      "change_pct": -3.49
+    },
+    "Valley PACE, LLC": {
+      "current": 32,
+      "december": 26,
+      "change": 6,
+      "change_pct": 23.08
+    },
+    "Verda Healthcare, Inc.": {
+      "current": 1875,
+      "december": 479,
+      "change": 1396,
+      "change_pct": 291.44
+    },
+    "Village Care of New York, Inc.": {
+      "current": 6080,
+      "december": 5106,
+      "change": 974,
+      "change_pct": 19.08
+    },
+    "Visiting Nurse Service of New York": {
+      "current": 21835,
+      "december": 14883,
+      "change": 6952,
+      "change_pct": 46.71
+    },
+    "Volunteers of America National Services": {
+      "current": 679,
+      "december": 690,
+      "change": -11,
+      "change_pct": -1.59
+    },
+    "Washington Regional Medical System": {
+      "current": 105,
+      "december": 102,
+      "change": 3,
+      "change_pct": 2.94
+    },
+    "WelbeHealth LLC.": {
+      "current": 2613,
+      "december": 2538,
+      "change": 75,
+      "change_pct": 2.96
+    },
+    "Well-Spring Services, Inc.": {
+      "current": 199,
+      "december": 207,
+      "change": -8,
+      "change_pct": -3.86
+    },
+    "West Virginia United Health System, Inc.": {
+      "current": 3051,
+      "december": 1282,
+      "change": 1769,
+      "change_pct": 137.99
+    },
+    "Zing Health Consolidator, Inc": {
+      "current": 22337,
+      "december": 14775,
+      "change": 7562,
+      "change_pct": 51.18
     }
   },
   "by_state": {
