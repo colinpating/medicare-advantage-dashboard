@@ -315,6 +315,14 @@ def process_csv(csv_path: Path) -> pd.DataFrame:
     # CMS masks values <11 with '*' - these become 0 after coercion
     # We'll keep them as 0 for aggregation
 
+    # Filter to MA plans only (exclude stand-alone Part D plans)
+    # Contract prefixes: H = HMO/local MA, R = Regional PPO (MA)
+    # Exclude: S = Stand-alone PDP (Part D only), E = Employer plans
+    initial_count = len(df)
+    df = df[df['contract_number'].str[0].isin(['H', 'R'])]
+    filtered_count = len(df)
+    print(f"Filtered to MA plans only: {initial_count:,} -> {filtered_count:,} records (removed {initial_count - filtered_count:,} Part D/other)")
+
     # Load contract info for organization mapping
     contract_to_org = load_contract_info(csv_path)
 
