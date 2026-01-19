@@ -1,0 +1,123 @@
+name: Update CMS Enrollment Data
+
+on:
+  # Run monthly on the 18th at 6:00 AM UTC (after CMS typically releases data ~15th)
+  schedule:
+    - cron: '0 6 18 * *'
+
+  # Allow manual trigger with option to save December baseline
+  workflow_dispatch:
+    inputs:
+      force_december:
+        description: 'Save as December baseline'
+        required: false
+        default: 'false'
+        type: boolean
+      year:
+        description: 'Data year (leave empty for auto-detect)'
+        required: false
+        type: string
+      month:
+        description: 'Data month (leave empty for auto-detect)'
+        required: false
+        type: string
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+
+      - name: Fetch CMS data
+        id: fetch
+        run: |
+          cd scripts
+          ARGS=""
+          if [ -n "${{ inputs.year }}" ]; then
+            ARGS="$ARGS --year ${{ inputs.year }}"
+          fi
+          if [ -n "${{ inputs.month }}" ]; then
+            ARGS="$ARGS --month ${{ inputs.month }}"
+          fi
+          python fetch_cms_data.py $ARGS
+        continue-on-error: true
+
+      - name: Process enrollment data
+        if: steps.fetch.outcome == 'success'
+        run: |
+          cd scripts
+
+          # Determine if we should save December baseline
+          # Auto-save in January, or if manually triggered with force_december
+          MONTH=$(date +%m)
+          SAVE_DEC=""
+
+          if [ "${{ inputs.force_december }}" == "true" ]; then
+            SAVE_DEC="--save-december"
+            echo "Saving as December baseline (manual trigger)"
+          elif [ "$MONTH" == "01" ]; then
+            SAVE_DEC="--save-december"
+            echo "Saving as December baseline (January auto-save)"
+          fi
+
+          python process_enrollment.py $SAVE_DEC
+
+      - name: Commit and push changes
+        if: steps.fetch.outcome == 'success'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add processed data files
+          git add data/processed/*.json
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          # Get data date for commit message
+          DATA_DATE=$(date +%Y-%m)
+          git commit -m "Update enrollment data for ${DATA_DATE}
+
+          Automated update via GitHub Actions
+          "
+
+          git push
+
+      - name: Report status
+        if: always()
+        run: |
+          if [ "${{ steps.fetch.outcome }}" == "success" ]; then
+            echo "✅ Data update completed successfully"
+          else
+            echo "⚠️ Data fetch failed - CMS data may not be available yet"
+            echo "This is normal if running before data is published (~15th of month)"
+          fi
+
+  # Notify on failure (optional - uncomment and configure if needed)
+  # notify-failure:
+  #   runs-on: ubuntu-latest
+  #   needs: update-data
+  #   if: failure()
+  #   steps:
+  #     - name: Send notification
+  #       run: |
+  #         echo "Data update failed - check workflow logs"

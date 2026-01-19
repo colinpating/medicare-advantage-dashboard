@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.venv/
+
+# Data files (raw CSVs can be large)
+data/raw/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel/
+
+# Node (if any tooling added later)
+node_modules/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local

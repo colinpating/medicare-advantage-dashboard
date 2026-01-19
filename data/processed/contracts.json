@@ -1,0 +1,5870 @@
+{
+  "E3014": {
+    "enrollment": 92730,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "H0016": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0022": {
+    "enrollment": 9286,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0028": {
+    "enrollment": 368723,
+    "parent_org": "Humana",
+    "organization": "Humana",
+    "plan_type": "HMO"
+  },
+  "H0029": {
+    "enrollment": 10518,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0034": {
+    "enrollment": 1279,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0035": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0062": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0074": {
+    "enrollment": 1546,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0104": {
+    "enrollment": 110489,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0105": {
+    "enrollment": 80,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0107": {
+    "enrollment": 83231,
+    "parent_org": "Cigna",
+    "organization": "Cigna",
+    "plan_type": "HMO"
+  },
+  "H0111": {
+    "enrollment": 7616,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0112": {
+    "enrollment": 827,
+    "parent_org": "CVS Health (Aetna)",
+    "organization": "CVS Health (Aetna)",
+    "plan_type": "HMO"
+  },
+  "H0137": {
+    "enrollment": 29228,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0154": {
+    "enrollment": 54150,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0169": {
+    "enrollment": 98336,
+    "parent_org": "Molina Healthcare",
+    "organization": "Molina Healthcare",
+    "plan_type": "HMO"
+  },
+  "H0174": {
+    "enrollment": 67728,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0192": {
+    "enrollment": 3050,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0216": {
+    "enrollment": 395,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0235": {
+    "enrollment": 106,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0251": {
+    "enrollment": 83440,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0270": {
+    "enrollment": 484,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0292": {
+    "enrollment": 9238,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0294": {
+    "enrollment": 124372,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0302": {
+    "enrollment": 29244,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0321": {
+    "enrollment": 70104,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0332": {
+    "enrollment": 51862,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0336": {
+    "enrollment": 13059,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0342": {
+    "enrollment": 6625,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0351": {
+    "enrollment": 20035,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0354": {
+    "enrollment": 68975,
+    "parent_org": "Cigna",
+    "organization": "Cigna",
+    "plan_type": "HMO"
+  },
+  "H0363": {
+    "enrollment": 338,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0390": {
+    "enrollment": 232,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0421": {
+    "enrollment": 9644,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0423": {
+    "enrollment": 11169,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0424": {
+    "enrollment": 39,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0432": {
+    "enrollment": 75326,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0439": {
+    "enrollment": 23272,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0440": {
+    "enrollment": 18,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0473": {
+    "enrollment": 21622,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0477": {
+    "enrollment": 516,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0480": {
+    "enrollment": 5128,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0504": {
+    "enrollment": 66184,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0523": {
+    "enrollment": 13943,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0524": {
+    "enrollment": 1321889,
+    "parent_org": "Kaiser Permanente",
+    "organization": "Kaiser Permanente",
+    "plan_type": "HMO"
+  },
+  "H0542": {
+    "enrollment": 3184,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0543": {
+    "enrollment": 312653,
+    "parent_org": "UnitedHealth Group",
+    "organization": "UnitedHealth Group",
+    "plan_type": "HMO"
+  },
+  "H0544": {
+    "enrollment": 67047,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0562": {
+    "enrollment": 38392,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0571": {
+    "enrollment": 5776,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0609": {
+    "enrollment": 732216,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0613": {
+    "enrollment": 2776,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0624": {
+    "enrollment": 28884,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0628": {
+    "enrollment": 84447,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0630": {
+    "enrollment": 111409,
+    "parent_org": "Kaiser Permanente",
+    "organization": "Kaiser Permanente",
+    "plan_type": "HMO"
+  },
+  "H0672": {
+    "enrollment": 14714,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0710": {
+    "enrollment": 47905,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0712": {
+    "enrollment": 6825,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0724": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0738": {
+    "enrollment": 294,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0755": {
+    "enrollment": 63385,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0764": {
+    "enrollment": 1066,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0783": {
+    "enrollment": 1507,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0809": {
+    "enrollment": 202,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0819": {
+    "enrollment": 359,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0839": {
+    "enrollment": 140,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0870": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0885": {
+    "enrollment": 52565,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0907": {
+    "enrollment": 6949,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0908": {
+    "enrollment": 12209,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0913": {
+    "enrollment": 14180,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0927": {
+    "enrollment": 19516,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0934": {
+    "enrollment": 592,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0976": {
+    "enrollment": 20236,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0978": {
+    "enrollment": 2102,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H0982": {
+    "enrollment": 8700,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1016": {
+    "enrollment": 13917,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1019": {
+    "enrollment": 156343,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1032": {
+    "enrollment": 65129,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1035": {
+    "enrollment": 67795,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1036": {
+    "enrollment": 660445,
+    "parent_org": "Humana",
+    "organization": "Humana",
+    "plan_type": "HMO"
+  },
+  "H1043": {
+    "enrollment": 967,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1045": {
+    "enrollment": 370461,
+    "parent_org": "UnitedHealth Group",
+    "organization": "UnitedHealth Group",
+    "plan_type": "HMO"
+  },
+  "H1099": {
+    "enrollment": 33198,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1109": {
+    "enrollment": 927,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1112": {
+    "enrollment": 29203,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1119": {
+    "enrollment": 1623,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1170": {
+    "enrollment": 38929,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1181": {
+    "enrollment": 772,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1189": {
+    "enrollment": 6467,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1206": {
+    "enrollment": 1608,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1215": {
+    "enrollment": 1415,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1224": {
+    "enrollment": 22675,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1225": {
+    "enrollment": 7337,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1228": {
+    "enrollment": 231,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1230": {
+    "enrollment": 36060,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1234": {
+    "enrollment": 194,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1239": {
+    "enrollment": 243,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1248": {
+    "enrollment": 11010,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1277": {
+    "enrollment": 27,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1278": {
+    "enrollment": 188505,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1280": {
+    "enrollment": 382,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1285": {
+    "enrollment": 19315,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1290": {
+    "enrollment": 38458,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1302": {
+    "enrollment": 1587,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1304": {
+    "enrollment": 6194,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1310": {
+    "enrollment": 602,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1312": {
+    "enrollment": 32,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1339": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1347": {
+    "enrollment": 3741,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1350": {
+    "enrollment": 73132,
+    "parent_org": "BCBS",
+    "organization": "BCBS",
+    "plan_type": "HMO"
+  },
+  "H1357": {
+    "enrollment": 92,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1360": {
+    "enrollment": 6280,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1365": {
+    "enrollment": 4341,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1372": {
+    "enrollment": 601,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1395": {
+    "enrollment": 2481,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1416": {
+    "enrollment": 54210,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1423": {
+    "enrollment": 4761,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1463": {
+    "enrollment": 25635,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1468": {
+    "enrollment": 128485,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1500": {
+    "enrollment": 116,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1518": {
+    "enrollment": 238,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1526": {
+    "enrollment": 1043,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1533": {
+    "enrollment": 66,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1537": {
+    "enrollment": 16152,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1544": {
+    "enrollment": 407,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1587": {
+    "enrollment": 1915,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1607": {
+    "enrollment": 13991,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1608": {
+    "enrollment": 137241,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1609": {
+    "enrollment": 139847,
+    "parent_org": "CVS Health (Aetna)",
+    "organization": "CVS Health (Aetna)",
+    "plan_type": "HMO"
+  },
+  "H1610": {
+    "enrollment": 17393,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1619": {
+    "enrollment": 1192,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1622": {
+    "enrollment": 134,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1644": {
+    "enrollment": 655,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1651": {
+    "enrollment": 14337,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1659": {
+    "enrollment": 1499,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1664": {
+    "enrollment": 3252,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1666": {
+    "enrollment": 16315,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1692": {
+    "enrollment": 22110,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1693": {
+    "enrollment": 238,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1714": {
+    "enrollment": 230,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1722": {
+    "enrollment": 1930,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1723": {
+    "enrollment": 2293,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1737": {
+    "enrollment": 477,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1742": {
+    "enrollment": 30,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1748": {
+    "enrollment": 11520,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1774": {
+    "enrollment": 628,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1787": {
+    "enrollment": 264,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1799": {
+    "enrollment": 1024,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1822": {
+    "enrollment": 2888,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1846": {
+    "enrollment": 2164,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1862": {
+    "enrollment": 1444,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1889": {
+    "enrollment": 356655,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1894": {
+    "enrollment": 1943,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1904": {
+    "enrollment": 135,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1914": {
+    "enrollment": 6068,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1917": {
+    "enrollment": 132,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1947": {
+    "enrollment": 1761,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1951": {
+    "enrollment": 165521,
+    "parent_org": "Humana",
+    "organization": "Humana",
+    "plan_type": "HMO"
+  },
+  "H1961": {
+    "enrollment": 128931,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1969": {
+    "enrollment": 683,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1977": {
+    "enrollment": 4205,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1980": {
+    "enrollment": 30,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1993": {
+    "enrollment": 25238,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1994": {
+    "enrollment": 57861,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H1997": {
+    "enrollment": 602,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2001": {
+    "enrollment": 2493942,
+    "parent_org": "UnitedHealth Group",
+    "organization": "UnitedHealth Group",
+    "plan_type": "HMO"
+  },
+  "H2029": {
+    "enrollment": 468,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2032": {
+    "enrollment": 3927,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2034": {
+    "enrollment": 442,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2041": {
+    "enrollment": 3052,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2056": {
+    "enrollment": 9036,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2064": {
+    "enrollment": 367,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2085": {
+    "enrollment": 42,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2096": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2108": {
+    "enrollment": 12552,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2109": {
+    "enrollment": 143,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2117": {
+    "enrollment": 8394,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2128": {
+    "enrollment": 2388,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2162": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2168": {
+    "enrollment": 6080,
+    "parent_org": "UnitedHealth Group",
+    "organization": "UnitedHealth Group",
+    "plan_type": "HMO"
+  },
+  "H2172": {
+    "enrollment": 110031,
+    "parent_org": "Kaiser Permanente",
+    "organization": "Kaiser Permanente",
+    "plan_type": "HMO"
+  },
+  "H2174": {
+    "enrollment": 2335,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2185": {
+    "enrollment": 237,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2218": {
+    "enrollment": 517,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2219": {
+    "enrollment": 1333,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2220": {
+    "enrollment": 273,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2221": {
+    "enrollment": 629,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2222": {
+    "enrollment": 985,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2223": {
+    "enrollment": 798,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2224": {
+    "enrollment": 10523,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2225": {
+    "enrollment": 16520,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2226": {
+    "enrollment": 23265,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2230": {
+    "enrollment": 80166,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2235": {
+    "enrollment": 14504,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2237": {
+    "enrollment": 5654,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2246": {
+    "enrollment": 2779,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2247": {
+    "enrollment": 36114,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2256": {
+    "enrollment": 94706,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2261": {
+    "enrollment": 13834,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2272": {
+    "enrollment": 6504,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2292": {
+    "enrollment": 9152,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2293": {
+    "enrollment": 114916,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2318": {
+    "enrollment": 1881,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2320": {
+    "enrollment": 150926,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2322": {
+    "enrollment": 14151,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2354": {
+    "enrollment": 68847,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2368": {
+    "enrollment": 391,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2384": {
+    "enrollment": 595,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2386": {
+    "enrollment": 121,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2392": {
+    "enrollment": 643,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2397": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2400": {
+    "enrollment": 948,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2406": {
+    "enrollment": 718617,
+    "parent_org": "UnitedHealth Group",
+    "organization": "UnitedHealth Group",
+    "plan_type": "HMO"
+  },
+  "H2416": {
+    "enrollment": 1912,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2417": {
+    "enrollment": 320,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2419": {
+    "enrollment": 1009,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2422": {
+    "enrollment": 5444,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2425": {
+    "enrollment": 9706,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2441": {
+    "enrollment": 1023,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2445": {
+    "enrollment": 37775,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2450": {
+    "enrollment": 76151,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2456": {
+    "enrollment": 16623,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2458": {
+    "enrollment": 9967,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2459": {
+    "enrollment": 97252,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2461": {
+    "enrollment": 47886,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2462": {
+    "enrollment": 4057,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2463": {
+    "enrollment": 1676,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2478": {
+    "enrollment": 45,
+    "parent_org": "CVS Health (Aetna)",
+    "organization": "CVS Health (Aetna)",
+    "plan_type": "HMO"
+  },
+  "H2486": {
+    "enrollment": 9292,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2491": {
+    "enrollment": 15609,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2506": {
+    "enrollment": 13293,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2509": {
+    "enrollment": 33042,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2526": {
+    "enrollment": 4869,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2531": {
+    "enrollment": 7651,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2533": {
+    "enrollment": 2757,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2541": {
+    "enrollment": 89,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2563": {
+    "enrollment": 28266,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2582": {
+    "enrollment": 10858,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2591": {
+    "enrollment": 488,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2593": {
+    "enrollment": 7277,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2610": {
+    "enrollment": 44102,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2624": {
+    "enrollment": 6187,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2663": {
+    "enrollment": 122329,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2686": {
+    "enrollment": 7673,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2694": {
+    "enrollment": 1423,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2697": {
+    "enrollment": 33066,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2715": {
+    "enrollment": 144,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2722": {
+    "enrollment": 145,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2737": {
+    "enrollment": 3868,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2752": {
+    "enrollment": 258,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2775": {
+    "enrollment": 91759,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2802": {
+    "enrollment": 325304,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2815": {
+    "enrollment": 277,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2816": {
+    "enrollment": 1678,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2819": {
+    "enrollment": 15741,
+    "parent_org": "BCBS",
+    "organization": "BCBS",
+    "plan_type": "HMO"
+  },
+  "H2835": {
+    "enrollment": 211,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2836": {
+    "enrollment": 8058,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2853": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2875": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2882": {
+    "enrollment": 189,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2915": {
+    "enrollment": 12143,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2918": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2923": {
+    "enrollment": 2483,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2926": {
+    "enrollment": 414,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2936": {
+    "enrollment": 414,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2937": {
+    "enrollment": 174,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2941": {
+    "enrollment": 220,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2942": {
+    "enrollment": 3828,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2960": {
+    "enrollment": 19225,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2962": {
+    "enrollment": 9323,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H2992": {
+    "enrollment": 492,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3015": {
+    "enrollment": 4915,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3038": {
+    "enrollment": 21569,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3041": {
+    "enrollment": 1097,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3047": {
+    "enrollment": 1831,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3048": {
+    "enrollment": 12,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3060": {
+    "enrollment": 157,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3071": {
+    "enrollment": 2493,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3080": {
+    "enrollment": 9252,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3084": {
+    "enrollment": 98,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3113": {
+    "enrollment": 87902,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3124": {
+    "enrollment": 497,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3138": {
+    "enrollment": 743,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3146": {
+    "enrollment": 60891,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3152": {
+    "enrollment": 26371,
+    "parent_org": "CVS Health (Aetna)",
+    "organization": "CVS Health (Aetna)",
+    "plan_type": "HMO"
+  },
+  "H3170": {
+    "enrollment": 2737,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3186": {
+    "enrollment": 1432,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3189": {
+    "enrollment": 41,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3192": {
+    "enrollment": 41771,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3204": {
+    "enrollment": 57837,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3219": {
+    "enrollment": 28212,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3239": {
+    "enrollment": 33947,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3240": {
+    "enrollment": 17472,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3251": {
+    "enrollment": 17692,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3256": {
+    "enrollment": 56191,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3259": {
+    "enrollment": 28523,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3274": {
+    "enrollment": 335,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3276": {
+    "enrollment": 593,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3284": {
+    "enrollment": 169,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3288": {
+    "enrollment": 66219,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3291": {
+    "enrollment": 1474,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3305": {
+    "enrollment": 26985,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3307": {
+    "enrollment": 108,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3312": {
+    "enrollment": 81829,
+    "parent_org": "CVS Health (Aetna)",
+    "organization": "CVS Health (Aetna)",
+    "plan_type": "HMO"
+  },
+  "H3321": {
+    "enrollment": 575,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3322": {
+    "enrollment": 387,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3329": {
+    "enrollment": 2372,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3330": {
+    "enrollment": 37086,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3331": {
+    "enrollment": 718,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3335": {
+    "enrollment": 84388,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3342": {
+    "enrollment": 392,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3344": {
+    "enrollment": 5071,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3347": {
+    "enrollment": 17665,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3351": {
+    "enrollment": 101142,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3359": {
+    "enrollment": 287981,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3362": {
+    "enrollment": 61383,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3379": {
+    "enrollment": 98836,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3384": {
+    "enrollment": 46035,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3387": {
+    "enrollment": 115145,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3388": {
+    "enrollment": 55558,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3404": {
+    "enrollment": 31402,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3407": {
+    "enrollment": 699,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3418": {
+    "enrollment": 62945,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3419": {
+    "enrollment": 117,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3430": {
+    "enrollment": 292,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3443": {
+    "enrollment": 5075,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3447": {
+    "enrollment": 257257,
+    "parent_org": "Centene",
+    "organization": "Centene",
+    "plan_type": "HMO"
+  },
+  "H3449": {
+    "enrollment": 117731,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3467": {
+    "enrollment": 884,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3473": {
+    "enrollment": 228,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3493": {
+    "enrollment": 148,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3499": {
+    "enrollment": 1514,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3517": {
+    "enrollment": 296,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3522": {
+    "enrollment": 79,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3528": {
+    "enrollment": 40179,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3533": {
+    "enrollment": 26591,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3536": {
+    "enrollment": 8856,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3551": {
+    "enrollment": 817,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3554": {
+    "enrollment": 7979,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3557": {
+    "enrollment": 1972,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3561": {
+    "enrollment": 60861,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3563": {
+    "enrollment": 345,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3597": {
+    "enrollment": 21849,
+    "parent_org": "CVS Health (Aetna)",
+    "organization": "CVS Health (Aetna)",
+    "plan_type": "HMO"
+  },
+  "H3613": {
+    "enrollment": 498,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3653": {
+    "enrollment": 15589,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3655": {
+    "enrollment": 287582,
+    "parent_org": "Elevance Health (Anthem)",
+    "organization": "Elevance Health (Anthem)",
+    "plan_type": "HMO"
+  },
+  "H3660": {
+    "enrollment": 24605,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3664": {
+    "enrollment": 14408,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3668": {
+    "enrollment": 40503,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3672": {
+    "enrollment": 7542,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3706": {
+    "enrollment": 15732,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3708": {
+    "enrollment": 227,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3727": {
+    "enrollment": 2302,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3740": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3748": {
+    "enrollment": 8220,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3755": {
+    "enrollment": 34460,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3777": {
+    "enrollment": 3435,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3794": {
+    "enrollment": 44865,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3800": {
+    "enrollment": 1238,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3805": {
+    "enrollment": 201314,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3809": {
+    "enrollment": 1708,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3810": {
+    "enrollment": 2901,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3811": {
+    "enrollment": 13464,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3814": {
+    "enrollment": 2733,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3815": {
+    "enrollment": 170964,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3817": {
+    "enrollment": 55148,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3822": {
+    "enrollment": 19676,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3828": {
+    "enrollment": 192,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3832": {
+    "enrollment": 37296,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3864": {
+    "enrollment": 48517,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3890": {
+    "enrollment": 5868,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3907": {
+    "enrollment": 127296,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3908": {
+    "enrollment": 266,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3909": {
+    "enrollment": 41756,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3916": {
+    "enrollment": 253884,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3917": {
+    "enrollment": 791,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3918": {
+    "enrollment": 518,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3919": {
+    "enrollment": 731,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3923": {
+    "enrollment": 26780,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3924": {
+    "enrollment": 39136,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3925": {
+    "enrollment": 217,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3928": {
+    "enrollment": 3376,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3931": {
+    "enrollment": 101805,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3933": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3942": {
+    "enrollment": 105,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3949": {
+    "enrollment": 37691,
+    "parent_org": "BCBS",
+    "organization": "BCBS",
+    "plan_type": "HMO"
+  },
+  "H3952": {
+    "enrollment": 74334,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3954": {
+    "enrollment": 56970,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3957": {
+    "enrollment": 55352,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3959": {
+    "enrollment": 216501,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3962": {
+    "enrollment": 7451,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3975": {
+    "enrollment": 2012,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3979": {
+    "enrollment": 3360,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H3991": {
+    "enrollment": 26,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4003": {
+    "enrollment": 110057,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4004": {
+    "enrollment": 101778,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4005": {
+    "enrollment": 5279,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4007": {
+    "enrollment": 33252,
+    "parent_org": "Centene",
+    "organization": "Centene",
+    "plan_type": "HMO"
+  },
+  "H4036": {
+    "enrollment": 393516,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4045": {
+    "enrollment": 10751,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4053": {
+    "enrollment": 128,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4054": {
+    "enrollment": 2631,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4073": {
+    "enrollment": 5014,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4074": {
+    "enrollment": 162,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4091": {
+    "enrollment": 2735,
+    "parent_org": "UnitedHealth Group",
+    "organization": "UnitedHealth Group",
+    "plan_type": "HMO"
+  },
+  "H4093": {
+    "enrollment": 676,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4105": {
+    "enrollment": 379,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4118": {
+    "enrollment": 275,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4140": {
+    "enrollment": 14522,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4141": {
+    "enrollment": 80560,
+    "parent_org": "Humana",
+    "organization": "Humana",
+    "plan_type": "HMO"
+  },
+  "H4142": {
+    "enrollment": 155,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4152": {
+    "enrollment": 73308,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4161": {
+    "enrollment": 65351,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4172": {
+    "enrollment": 1091,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4185": {
+    "enrollment": 181,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4203": {
+    "enrollment": 240,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4213": {
+    "enrollment": 1800,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4227": {
+    "enrollment": 18816,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4232": {
+    "enrollment": 250,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4235": {
+    "enrollment": 267,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4256": {
+    "enrollment": 190,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4279": {
+    "enrollment": 37574,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4286": {
+    "enrollment": 38892,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4305": {
+    "enrollment": 329,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4326": {
+    "enrollment": 140,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4346": {
+    "enrollment": 8331,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4393": {
+    "enrollment": 712,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4402": {
+    "enrollment": 255,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4407": {
+    "enrollment": 12617,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4439": {
+    "enrollment": 97,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4444": {
+    "enrollment": 1520,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4461": {
+    "enrollment": 158072,
+    "parent_org": "Humana",
+    "organization": "Humana",
+    "plan_type": "HMO"
+  },
+  "H4471": {
+    "enrollment": 90990,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4490": {
+    "enrollment": 439,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4497": {
+    "enrollment": 14115,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4499": {
+    "enrollment": 8417,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4506": {
+    "enrollment": 28437,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4513": {
+    "enrollment": 318690,
+    "parent_org": "Cigna",
+    "organization": "Cigna",
+    "plan_type": "HMO"
+  },
+  "H4514": {
+    "enrollment": 118479,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4517": {
+    "enrollment": 120,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4518": {
+    "enrollment": 807,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4523": {
+    "enrollment": 24380,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4527": {
+    "enrollment": 174772,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4537": {
+    "enrollment": 1427,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4538": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4544": {
+    "enrollment": 6419,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4545": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4604": {
+    "enrollment": 138160,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4605": {
+    "enrollment": 7196,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4618": {
+    "enrollment": 1065,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4620": {
+    "enrollment": 103,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4623": {
+    "enrollment": 14431,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4624": {
+    "enrollment": 16582,
+    "parent_org": "Elevance Health (Anthem)",
+    "organization": "Elevance Health (Anthem)",
+    "plan_type": "HMO"
+  },
+  "H4626": {
+    "enrollment": 27,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4647": {
+    "enrollment": 5602,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4661": {
+    "enrollment": 1126,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4676": {
+    "enrollment": 1556,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4694": {
+    "enrollment": 29014,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4704": {
+    "enrollment": 10727,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4711": {
+    "enrollment": 14514,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4714": {
+    "enrollment": 214,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4733": {
+    "enrollment": 7756,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4739": {
+    "enrollment": 118,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4754": {
+    "enrollment": 3047,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4801": {
+    "enrollment": 15425,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4808": {
+    "enrollment": 7387,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4835": {
+    "enrollment": 3350,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4847": {
+    "enrollment": 6348,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4868": {
+    "enrollment": 51395,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4869": {
+    "enrollment": 2014,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4875": {
+    "enrollment": 90598,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4882": {
+    "enrollment": 43881,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4909": {
+    "enrollment": 13171,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4919": {
+    "enrollment": 35,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4931": {
+    "enrollment": 11596,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4937": {
+    "enrollment": 40404,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4943": {
+    "enrollment": 166,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4961": {
+    "enrollment": 4077,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4982": {
+    "enrollment": 21879,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H4999": {
+    "enrollment": 644,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5007": {
+    "enrollment": 1168,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5008": {
+    "enrollment": 105829,
+    "parent_org": "BCBS",
+    "organization": "BCBS",
+    "plan_type": "HMO"
+  },
+  "H5009": {
+    "enrollment": 12082,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5010": {
+    "enrollment": 364,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5015": {
+    "enrollment": 2349,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5037": {
+    "enrollment": 79,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5042": {
+    "enrollment": 13811,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5050": {
+    "enrollment": 99698,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5080": {
+    "enrollment": 21,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5085": {
+    "enrollment": 65,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5087": {
+    "enrollment": 25597,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5106": {
+    "enrollment": 22307,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5117": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5124": {
+    "enrollment": 268,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5141": {
+    "enrollment": 93114,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5163": {
+    "enrollment": 1875,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5167": {
+    "enrollment": 979,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5178": {
+    "enrollment": 295,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5190": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5209": {
+    "enrollment": 2371,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5211": {
+    "enrollment": 68285,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5212": {
+    "enrollment": 421,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5213": {
+    "enrollment": 422,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5215": {
+    "enrollment": 80905,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5216": {
+    "enrollment": 2604213,
+    "parent_org": "Humana",
+    "organization": "Humana",
+    "plan_type": "HMO"
+  },
+  "H5232": {
+    "enrollment": 1010,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5244": {
+    "enrollment": 233,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5253": {
+    "enrollment": 1048473,
+    "parent_org": "UnitedHealth Group",
+    "organization": "UnitedHealth Group",
+    "plan_type": "HMO"
+  },
+  "H5256": {
+    "enrollment": 4487,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5262": {
+    "enrollment": 31850,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5264": {
+    "enrollment": 11807,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5273": {
+    "enrollment": 7968,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5280": {
+    "enrollment": 11079,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5294": {
+    "enrollment": 25757,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5296": {
+    "enrollment": 14334,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5299": {
+    "enrollment": 3385,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5302": {
+    "enrollment": 15528,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5309": {
+    "enrollment": 4809,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5322": {
+    "enrollment": 196831,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5325": {
+    "enrollment": 24112,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5361": {
+    "enrollment": 8198,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5374": {
+    "enrollment": 1017,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5377": {
+    "enrollment": 887,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5384": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5386": {
+    "enrollment": 16050,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5398": {
+    "enrollment": 479,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5403": {
+    "enrollment": 1630,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5405": {
+    "enrollment": 1019,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5406": {
+    "enrollment": 424,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5410": {
+    "enrollment": 31694,
+    "parent_org": "Cigna",
+    "organization": "Cigna",
+    "plan_type": "HMO"
+  },
+  "H5420": {
+    "enrollment": 47110,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5422": {
+    "enrollment": 17878,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5425": {
+    "enrollment": 266736,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5427": {
+    "enrollment": 74260,
+    "parent_org": "Centene",
+    "organization": "Centene",
+    "plan_type": "HMO"
+  },
+  "H5431": {
+    "enrollment": 57626,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5433": {
+    "enrollment": 17231,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5434": {
+    "enrollment": 77182,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5435": {
+    "enrollment": 1401,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5439": {
+    "enrollment": 21781,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5447": {
+    "enrollment": 150,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5453": {
+    "enrollment": 4362,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5454": {
+    "enrollment": 1099,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5471": {
+    "enrollment": 54487,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5472": {
+    "enrollment": 5084,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5475": {
+    "enrollment": 20061,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5493": {
+    "enrollment": 294,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5496": {
+    "enrollment": 16970,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5521": {
+    "enrollment": 986968,
+    "parent_org": "CVS Health (Aetna)",
+    "organization": "CVS Health (Aetna)",
+    "plan_type": "HMO"
+  },
+  "H5522": {
+    "enrollment": 1387793,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5525": {
+    "enrollment": 174641,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5526": {
+    "enrollment": 22570,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5528": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5533": {
+    "enrollment": 55896,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5538": {
+    "enrollment": 18,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5549": {
+    "enrollment": 21835,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5577": {
+    "enrollment": 301243,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5580": {
+    "enrollment": 11307,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5587": {
+    "enrollment": 9356,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5590": {
+    "enrollment": 23057,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5591": {
+    "enrollment": 77694,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5593": {
+    "enrollment": 3581,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5594": {
+    "enrollment": 72710,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5599": {
+    "enrollment": 60485,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5608": {
+    "enrollment": 4924,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5610": {
+    "enrollment": 339,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5619": {
+    "enrollment": 478922,
+    "parent_org": "Humana",
+    "organization": "Humana",
+    "plan_type": "HMO"
+  },
+  "H5622": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5628": {
+    "enrollment": 12143,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5629": {
+    "enrollment": 1111,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5644": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5649": {
+    "enrollment": 84075,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5652": {
+    "enrollment": 6766,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5703": {
+    "enrollment": 410,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5718": {
+    "enrollment": 1493,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5774": {
+    "enrollment": 96940,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5779": {
+    "enrollment": 8125,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5793": {
+    "enrollment": 28232,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5810": {
+    "enrollment": 981,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5822": {
+    "enrollment": 478,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5823": {
+    "enrollment": 13194,
+    "parent_org": "Molina Healthcare",
+    "organization": "Molina Healthcare",
+    "plan_type": "HMO"
+  },
+  "H5826": {
+    "enrollment": 13648,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5828": {
+    "enrollment": 33816,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5843": {
+    "enrollment": 14292,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5852": {
+    "enrollment": 597,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5854": {
+    "enrollment": 36286,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5859": {
+    "enrollment": 17355,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5883": {
+    "enrollment": 110777,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5900": {
+    "enrollment": 40252,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5902": {
+    "enrollment": 484,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5926": {
+    "enrollment": 10596,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5928": {
+    "enrollment": 10197,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5932": {
+    "enrollment": 38671,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5934": {
+    "enrollment": 469,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5937": {
+    "enrollment": 9197,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5938": {
+    "enrollment": 24252,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5943": {
+    "enrollment": 688,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5945": {
+    "enrollment": 20323,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5959": {
+    "enrollment": 186272,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5965": {
+    "enrollment": 15190,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5969": {
+    "enrollment": 2108,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5970": {
+    "enrollment": 58095,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5978": {
+    "enrollment": 566,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5989": {
+    "enrollment": 33384,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5991": {
+    "enrollment": 2140,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5992": {
+    "enrollment": 568,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5993": {
+    "enrollment": 14,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H5995": {
+    "enrollment": 37,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6018": {
+    "enrollment": 3896,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6019": {
+    "enrollment": 8220,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6059": {
+    "enrollment": 199,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6078": {
+    "enrollment": 19170,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6079": {
+    "enrollment": 1170,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6080": {
+    "enrollment": 13448,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6081": {
+    "enrollment": 45,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6130": {
+    "enrollment": 76,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6147": {
+    "enrollment": 54,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6154": {
+    "enrollment": 811,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6158": {
+    "enrollment": 10709,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6170": {
+    "enrollment": 111,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6188": {
+    "enrollment": 88,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6200": {
+    "enrollment": 13556,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6202": {
+    "enrollment": 19022,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6231": {
+    "enrollment": 232,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6237": {
+    "enrollment": 1118,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6248": {
+    "enrollment": 237,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6251": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6306": {
+    "enrollment": 5440,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6316": {
+    "enrollment": 1245,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6317": {
+    "enrollment": 101,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6322": {
+    "enrollment": 2006,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6342": {
+    "enrollment": 77,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6345": {
+    "enrollment": 574,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6348": {
+    "enrollment": 2141,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6351": {
+    "enrollment": 2177,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6371": {
+    "enrollment": 82,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6378": {
+    "enrollment": 54,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6379": {
+    "enrollment": 1961,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6396": {
+    "enrollment": 6024,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6399": {
+    "enrollment": 6565,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6425": {
+    "enrollment": 105,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6453": {
+    "enrollment": 33258,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6474": {
+    "enrollment": 26,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6517": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6529": {
+    "enrollment": 1136,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6537": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6541": {
+    "enrollment": 91,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6545": {
+    "enrollment": 2208,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6550": {
+    "enrollment": 2920,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6551": {
+    "enrollment": 245,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6586": {
+    "enrollment": 4162,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6595": {
+    "enrollment": 17915,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6596": {
+    "enrollment": 165,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6622": {
+    "enrollment": 337545,
+    "parent_org": "Humana",
+    "organization": "Humana",
+    "plan_type": "HMO"
+  },
+  "H6652": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6672": {
+    "enrollment": 2673,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6706": {
+    "enrollment": 437,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6713": {
+    "enrollment": 10424,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6723": {
+    "enrollment": 68640,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6727": {
+    "enrollment": 156,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6743": {
+    "enrollment": 24991,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6759": {
+    "enrollment": 51,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6765": {
+    "enrollment": 970,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6776": {
+    "enrollment": 456,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6787": {
+    "enrollment": 211,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6813": {
+    "enrollment": 2537,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6815": {
+    "enrollment": 14769,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6830": {
+    "enrollment": 112,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6832": {
+    "enrollment": 891,
+    "parent_org": "Centene",
+    "organization": "Centene",
+    "plan_type": "HMO"
+  },
+  "H6846": {
+    "enrollment": 185,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6847": {
+    "enrollment": 937,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6851": {
+    "enrollment": 3630,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6852": {
+    "enrollment": 1496,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6868": {
+    "enrollment": 27,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6870": {
+    "enrollment": 3551,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6874": {
+    "enrollment": 1921,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6876": {
+    "enrollment": 3431,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6887": {
+    "enrollment": 240,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6891": {
+    "enrollment": 415,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6898": {
+    "enrollment": 29377,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6910": {
+    "enrollment": 3075,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6941": {
+    "enrollment": 226,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6959": {
+    "enrollment": 458,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H6988": {
+    "enrollment": 2925,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7003": {
+    "enrollment": 179,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7006": {
+    "enrollment": 10044,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7020": {
+    "enrollment": 9041,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7027": {
+    "enrollment": 14,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7028": {
+    "enrollment": 6871,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7059": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7063": {
+    "enrollment": 7221,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7074": {
+    "enrollment": 109,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7093": {
+    "enrollment": 12997,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7114": {
+    "enrollment": 249,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7115": {
+    "enrollment": 12102,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7123": {
+    "enrollment": 1329,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7147": {
+    "enrollment": 6776,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7149": {
+    "enrollment": 10156,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7151": {
+    "enrollment": 7137,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7163": {
+    "enrollment": 143,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7169": {
+    "enrollment": 1947,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7172": {
+    "enrollment": 11856,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7195": {
+    "enrollment": 174,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7199": {
+    "enrollment": 3143,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7220": {
+    "enrollment": 19677,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7233": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7239": {
+    "enrollment": 1587,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7262": {
+    "enrollment": 275,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7284": {
+    "enrollment": 20585,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7296": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7301": {
+    "enrollment": 90964,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7323": {
+    "enrollment": 5871,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7326": {
+    "enrollment": 17495,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7330": {
+    "enrollment": 2324,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7355": {
+    "enrollment": 1632,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7366": {
+    "enrollment": 60,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7379": {
+    "enrollment": 15840,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7389": {
+    "enrollment": 3991,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7397": {
+    "enrollment": 664,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7419": {
+    "enrollment": 7143,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7464": {
+    "enrollment": 25805,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7469": {
+    "enrollment": 92,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7471": {
+    "enrollment": 1442,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7501": {
+    "enrollment": 231,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7511": {
+    "enrollment": 346,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7512": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7518": {
+    "enrollment": 2588,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7522": {
+    "enrollment": 302,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7524": {
+    "enrollment": 778,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7557": {
+    "enrollment": 1141,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7559": {
+    "enrollment": 774,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7598": {
+    "enrollment": 122,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7605": {
+    "enrollment": 3066,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7607": {
+    "enrollment": 27669,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7617": {
+    "enrollment": 8666,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7619": {
+    "enrollment": 143,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7646": {
+    "enrollment": 9508,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7656": {
+    "enrollment": 32,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7660": {
+    "enrollment": 395,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7670": {
+    "enrollment": 1669,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7678": {
+    "enrollment": 3847,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7680": {
+    "enrollment": 11021,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7710": {
+    "enrollment": 1566,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7725": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7779": {
+    "enrollment": 766,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7787": {
+    "enrollment": 15982,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7813": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7831": {
+    "enrollment": 58,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7833": {
+    "enrollment": 3108,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7844": {
+    "enrollment": 9518,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7849": {
+    "enrollment": 92104,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7855": {
+    "enrollment": 262,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7917": {
+    "enrollment": 168813,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7925": {
+    "enrollment": 523,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7980": {
+    "enrollment": 4818,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H7993": {
+    "enrollment": 28733,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8003": {
+    "enrollment": 31911,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8010": {
+    "enrollment": 3350,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8014": {
+    "enrollment": 91,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8019": {
+    "enrollment": 290,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8026": {
+    "enrollment": 8399,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8046": {
+    "enrollment": 13662,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8048": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8064": {
+    "enrollment": 339,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8067": {
+    "enrollment": 239,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8070": {
+    "enrollment": 50178,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8082": {
+    "enrollment": 786,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8093": {
+    "enrollment": 1386,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8095": {
+    "enrollment": 1129,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8096": {
+    "enrollment": 309,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8099": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8121": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8133": {
+    "enrollment": 3662,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8142": {
+    "enrollment": 29813,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8145": {
+    "enrollment": 27520,
+    "parent_org": "Humana",
+    "organization": "Humana",
+    "plan_type": "HMO"
+  },
+  "H8166": {
+    "enrollment": 14671,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8173": {
+    "enrollment": 9907,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8176": {
+    "enrollment": 1029,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8181": {
+    "enrollment": 15311,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8189": {
+    "enrollment": 8033,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8197": {
+    "enrollment": 10350,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8211": {
+    "enrollment": 22499,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8213": {
+    "enrollment": 3263,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8298": {
+    "enrollment": 21438,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8320": {
+    "enrollment": 408,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8330": {
+    "enrollment": 11618,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8332": {
+    "enrollment": 361,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8379": {
+    "enrollment": 8810,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8385": {
+    "enrollment": 5959,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8390": {
+    "enrollment": 35,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8424": {
+    "enrollment": 211,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8432": {
+    "enrollment": 45870,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8452": {
+    "enrollment": 20,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8457": {
+    "enrollment": 795,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8492": {
+    "enrollment": 562,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8547": {
+    "enrollment": 1523,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8552": {
+    "enrollment": 12498,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8553": {
+    "enrollment": 1920,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8554": {
+    "enrollment": 809,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8578": {
+    "enrollment": 8659,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8597": {
+    "enrollment": 26431,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8604": {
+    "enrollment": 1751,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8614": {
+    "enrollment": 47,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8634": {
+    "enrollment": 28262,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8649": {
+    "enrollment": 5557,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8655": {
+    "enrollment": 503,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8711": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8764": {
+    "enrollment": 7760,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8768": {
+    "enrollment": 526280,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8769": {
+    "enrollment": 219,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8777": {
+    "enrollment": 130,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8783": {
+    "enrollment": 2444,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8794": {
+    "enrollment": 113449,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8797": {
+    "enrollment": 527,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8800": {
+    "enrollment": 113,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8823": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8832": {
+    "enrollment": 1144,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8845": {
+    "enrollment": 470,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8849": {
+    "enrollment": 55606,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8854": {
+    "enrollment": 5128,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8879": {
+    "enrollment": 67,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8889": {
+    "enrollment": 57928,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8894": {
+    "enrollment": 36184,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8902": {
+    "enrollment": 433,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8908": {
+    "enrollment": 34850,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8917": {
+    "enrollment": 1350,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8928": {
+    "enrollment": 9262,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8947": {
+    "enrollment": 3051,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8967": {
+    "enrollment": 152,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8982": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H8992": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9001": {
+    "enrollment": 11488,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9003": {
+    "enrollment": 104694,
+    "parent_org": "Kaiser Permanente",
+    "organization": "Kaiser Permanente",
+    "plan_type": "HMO"
+  },
+  "H9042": {
+    "enrollment": 3083,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9047": {
+    "enrollment": 75816,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9052": {
+    "enrollment": 74,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9065": {
+    "enrollment": 17970,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9066": {
+    "enrollment": 496,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9068": {
+    "enrollment": 174,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9096": {
+    "enrollment": 10649,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9147": {
+    "enrollment": 1757,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9153": {
+    "enrollment": 1469,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9179": {
+    "enrollment": 4510,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9185": {
+    "enrollment": 168,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9191": {
+    "enrollment": 1423,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9207": {
+    "enrollment": 14254,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9219": {
+    "enrollment": 991,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9231": {
+    "enrollment": 3140,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9239": {
+    "enrollment": 4577,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9252": {
+    "enrollment": 65,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9266": {
+    "enrollment": 259,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9306": {
+    "enrollment": 8826,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9317": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9323": {
+    "enrollment": 372,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9360": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9364": {
+    "enrollment": 10492,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9387": {
+    "enrollment": 1183,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9411": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9412": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9431": {
+    "enrollment": 1344,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9438": {
+    "enrollment": 94,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9460": {
+    "enrollment": 1117,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9468": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9469": {
+    "enrollment": 649,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9485": {
+    "enrollment": 4570,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9489": {
+    "enrollment": 1299,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9525": {
+    "enrollment": 182370,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9564": {
+    "enrollment": 41,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9572": {
+    "enrollment": 565205,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9576": {
+    "enrollment": 11163,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9585": {
+    "enrollment": 1803,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9589": {
+    "enrollment": 114,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9590": {
+    "enrollment": 819,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9592": {
+    "enrollment": 1311,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9615": {
+    "enrollment": 36300,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9616": {
+    "enrollment": 2095,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9630": {
+    "enrollment": 22913,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9649": {
+    "enrollment": 166,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9656": {
+    "enrollment": 8121,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9678": {
+    "enrollment": 5169,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9686": {
+    "enrollment": 1156,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9690": {
+    "enrollment": 389,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9699": {
+    "enrollment": 2001,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9700": {
+    "enrollment": 4196,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9706": {
+    "enrollment": 4702,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9712": {
+    "enrollment": 3817,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9725": {
+    "enrollment": 22221,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9730": {
+    "enrollment": 32765,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9763": {
+    "enrollment": 5356,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9808": {
+    "enrollment": 14799,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9811": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9826": {
+    "enrollment": 482,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9827": {
+    "enrollment": 1110,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9830": {
+    "enrollment": 578,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9834": {
+    "enrollment": 3703,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9842": {
+    "enrollment": 141,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9869": {
+    "enrollment": 1621,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9884": {
+    "enrollment": 1616,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9888": {
+    "enrollment": 3596,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9900": {
+    "enrollment": 1958,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9904": {
+    "enrollment": 1577,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9907": {
+    "enrollment": 14213,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9909": {
+    "enrollment": 555,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9917": {
+    "enrollment": 130,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9942": {
+    "enrollment": 1204,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9946": {
+    "enrollment": 460,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9952": {
+    "enrollment": 1747,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9955": {
+    "enrollment": 1009,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9968": {
+    "enrollment": 180,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9986": {
+    "enrollment": 1144,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "H9998": {
+    "enrollment": 143,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "HMO"
+  },
+  "R0110": {
+    "enrollment": 41864,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R0759": {
+    "enrollment": 29787,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R1532": {
+    "enrollment": 5390,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R2604": {
+    "enrollment": 23852,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R3175": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R3444": {
+    "enrollment": 6015,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R4182": {
+    "enrollment": 13298,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R4487": {
+    "enrollment": 9118,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R5342": {
+    "enrollment": 13987,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R5361": {
+    "enrollment": 5005,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R5826": {
+    "enrollment": 5220,
+    "parent_org": "Humana",
+    "organization": "Humana",
+    "plan_type": "PPO"
+  },
+  "R5941": {
+    "enrollment": 7739,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R6694": {
+    "enrollment": 1162,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R6801": {
+    "enrollment": 54654,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R7220": {
+    "enrollment": 1956,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "R7444": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "PPO"
+  },
+  "S0262": {
+    "enrollment": 10475,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S0375": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S0586": {
+    "enrollment": 11,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S1030": {
+    "enrollment": 30669,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S1140": {
+    "enrollment": 2841,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S1822": {
+    "enrollment": 2913,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S2135": {
+    "enrollment": 583962,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S2465": {
+    "enrollment": 52,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S2468": {
+    "enrollment": 36387,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S2893": {
+    "enrollment": 205461,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S3285": {
+    "enrollment": 7349,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S3389": {
+    "enrollment": 981,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S3521": {
+    "enrollment": 4469,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S3875": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S3994": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S4501": {
+    "enrollment": 7090,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S4802": {
+    "enrollment": 7641510,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S4983": {
+    "enrollment": 1433,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5450": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5540": {
+    "enrollment": 31126,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5552": {
+    "enrollment": 34790,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5584": {
+    "enrollment": 25399,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5588": {
+    "enrollment": 0,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5593": {
+    "enrollment": 18246,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5596": {
+    "enrollment": 206627,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5601": {
+    "enrollment": 4244544,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5609": {
+    "enrollment": 149,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5617": {
+    "enrollment": 1827642,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5660": {
+    "enrollment": 1020559,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5715": {
+    "enrollment": 249322,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5726": {
+    "enrollment": 80329,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5743": {
+    "enrollment": 145154,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5795": {
+    "enrollment": 20169,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5805": {
+    "enrollment": 7973,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5820": {
+    "enrollment": 189251,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5857": {
+    "enrollment": 15,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5877": {
+    "enrollment": 1087,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5884": {
+    "enrollment": 2210668,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5904": {
+    "enrollment": 47515,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5916": {
+    "enrollment": 882,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5921": {
+    "enrollment": 2622126,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5953": {
+    "enrollment": 16563,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5960": {
+    "enrollment": 2086,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5966": {
+    "enrollment": 87126,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5975": {
+    "enrollment": 22369,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S5993": {
+    "enrollment": 36351,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S6875": {
+    "enrollment": 2504,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S8067": {
+    "enrollment": 1035,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S8841": {
+    "enrollment": 717540,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  },
+  "S9701": {
+    "enrollment": 91637,
+    "parent_org": "Other",
+    "organization": "Other",
+    "plan_type": "Other"
+  }
+}
