@@ -438,6 +438,60 @@ html {
     font-weight: 600;
 }
 
+/* County Organization Table */
+.county-org-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.8rem;
+    margin-top: var(--spacing-xs);
+}
+
+.county-org-table thead th {
+    text-align: left;
+    padding: var(--spacing-xs) var(--spacing-sm);
+    font-weight: 500;
+    color: var(--color-text-light);
+    border-bottom: 1px solid var(--color-border);
+    font-size: 0.75rem;
+}
+
+.county-org-table thead th:nth-child(2),
+.county-org-table thead th:nth-child(3) {
+    text-align: right;
+}
+
+.county-org-table tbody td {
+    padding: var(--spacing-xs) var(--spacing-sm);
+    border-bottom: 1px solid var(--color-background);
+}
+
+.county-org-table .org-name-cell {
+    max-width: 120px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.county-org-table .enrollment-cell,
+.county-org-table .change-cell {
+    text-align: right;
+    font-weight: 500;
+}
+
+.county-org-table .change-cell.positive {
+    color: var(--color-gain);
+}
+
+.county-org-table .change-cell.negative {
+    color: var(--color-loss);
+}
+
+.county-org-table .more-orgs {
+    text-align: center;
+    color: var(--color-text-light);
+    font-size: 0.75rem;
+}
+
 /* Footer */
 .footer {
     background: var(--color-background);

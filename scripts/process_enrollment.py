@@ -192,10 +192,12 @@ def get_parent_org(contract_id: str, org_name: str = "") -> str:
     return "Other"
 
 
-def load_contract_info(csv_path: Path) -> dict:
+def load_contract_info(csv_path: Path) -> tuple:
     """
-    Load contract info file to get organization mappings.
-    Returns dict mapping contract_number to parent_organization.
+    Load contract info file to get organization mappings and EGHP status.
+    Returns tuple of:
+      - contract_info: dict mapping contract_number to {parent_org}
+      - plan_eghp: dict mapping (contract_id, plan_id) to EGHP value
     """
     # Look for contract info file in same directory
     parent_dir = csv_path.parent
@@ -203,7 +205,7 @@ def load_contract_info(csv_path: Path) -> dict:
 
     if not contract_files:
         print("No contract info file found, using built-in mapping")
-        return {}
+        return {}, {}
 
     # Try to find contract info file matching the year/month of the enrollment file
     match = re.search(r'(\d{4})_(\d{2})', csv_path.name)
@@ -231,13 +233,15 @@ def load_contract_info(csv_path: Path) -> dict:
 
     if df is None:
         print("Could not read contract info file")
-        return {}
+        return {}, {}
 
     # Standardize column names
     df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
 
-    # Build mapping from contract number to parent organization
-    contract_to_org = {}
+    # Build mapping from contract number to parent org
+    contract_info = {}
+    # Build plan-level EGHP mapping
+    plan_eghp = {}
 
     # Look for parent organization column
     parent_col = None
@@ -252,15 +256,67 @@ def load_contract_info(csv_path: Path) -> dict:
             contract_col = col
             break
 
+    plan_col = None
+    for col in ['plan_id', 'plan_number', 'planid']:
+        if col in df.columns:
+            plan_col = col
+            break
+
+    # Look for EGHP column
+    eghp_col = None
+    for col in ['eghp', 'eghp_indicator', 'employer_group']:
+        if col in df.columns:
+            eghp_col = col
+            break
+
     if parent_col and contract_col:
         for _, row in df.iterrows():
             contract = row[contract_col]
             org = row[parent_col]
             if pd.notna(contract) and pd.notna(org):
-                contract_to_org[contract] = org
+                contract_info[contract] = {
+                    'parent_org': org,
+                }
 
-    print(f"Loaded {len(contract_to_org)} contract-to-org mappings")
-    return contract_to_org
+            # Build plan-level EGHP mapping
+            if plan_col and eghp_col:
+                plan_id = row[plan_col] if plan_col in row else None
+                eghp = row[eghp_col] if eghp_col in row else None
+                if pd.notna(contract) and pd.notna(plan_id) and pd.notna(eghp):
+                    plan_eghp[(contract, plan_id)] = eghp
+
+    print(f"Loaded {len(contract_info)} contract info mappings")
+    if eghp_col and plan_col:
+        eghp_yes = sum(1 for v in plan_eghp.values() if str(v).upper() == 'YES')
+        eghp_no = sum(1 for v in plan_eghp.values() if str(v).upper() == 'NO')
+        print(f"  Plan-level EGHP mappings: {len(plan_eghp)} (Yes: {eghp_yes}, No: {eghp_no})")
+    elif eghp_col:
+        print(f"  EGHP column found but no plan_id column for plan-level mapping")
+    else:
+        print("  No EGHP column found in contract info")
+    return contract_info, plan_eghp
+
+
+def is_group_plan(contract_id: str, eghp: str) -> bool:
+    """
+    Determine if a plan is a group (employer) plan.
+
+    Returns True if:
+    - Contract starts with 'E' (employer-only contracts)
+    - EGHP field is 'Yes' (employer group health plan)
+    """
+    if not contract_id:
+        return False
+
+    # E-prefix contracts are always employer group plans
+    if contract_id[0].upper() == 'E':
+        return True
+
+    # Check EGHP field
+    if eghp and str(eghp).strip().upper() == 'YES':
+        return True
+
+    return False
 
 
 def process_csv(csv_path: Path) -> pd.DataFrame:
@@ -326,15 +382,15 @@ def process_csv(csv_path: Path) -> pd.DataFrame:
     # We'll keep them as 0 for aggregation
 
     # Filter to MA plans only (exclude stand-alone Part D plans)
-    # Contract prefixes: H = HMO/local MA, R = Regional PPO (MA)
-    # Exclude: S = Stand-alone PDP (Part D only), E = Employer plans
+    # Contract prefixes: H = HMO/local MA, R = Regional PPO (MA), E = Employer group MA
+    # Exclude: S = Stand-alone PDP (Part D only)
     initial_count = len(df)
-    df = df[df['contract_number'].str[0].isin(['H', 'R'])]
+    df = df[df['contract_number'].str[0].isin(['H', 'R', 'E'])]
     filtered_count = len(df)
     print(f"Filtered to MA plans only: {initial_count:,} -> {filtered_count:,} records (removed {initial_count - filtered_count:,} Part D/other)")
 
-    # Load contract info for organization mapping
-    contract_to_org = load_contract_info(csv_path)
+    # Load contract info for organization mapping and EGHP status
+    contract_info, plan_eghp = load_contract_info(csv_path)
 
     # Add organization column from contract info or fallback mapping
     if 'organization' not in df.columns:
@@ -342,12 +398,37 @@ def process_csv(csv_path: Path) -> pd.DataFrame:
             if pd.isna(contract):
                 return 'Other'
             # First try contract info file
-            if contract in contract_to_org:
-                return contract_to_org[contract]
+            if contract in contract_info:
+                return contract_info[contract]['parent_org']
             # Fallback to built-in mapping
             return get_parent_org(contract, '')
 
         df['organization'] = df['contract_number'].apply(get_org)
+
+    # Add is_group column based on contract prefix and plan-level EGHP status
+    def get_is_group(row):
+        contract = row.get('contract_number')
+        plan_id = row.get('plan_id')
+        if pd.isna(contract):
+            return False
+
+        # E-prefix contracts are always employer group plans
+        if str(contract)[0].upper() == 'E':
+            return True
+
+        # Check plan-level EGHP mapping
+        if plan_id and (contract, plan_id) in plan_eghp:
+            eghp = plan_eghp[(contract, plan_id)]
+            if eghp and str(eghp).strip().upper() == 'YES':
+                return True
+
+        return False
+
+    df['is_group'] = df.apply(get_is_group, axis=1)
+
+    # Report group plan stats
+    group_count = df['is_group'].sum()
+    print(f"Group plans: {group_count:,} records ({group_count/len(df)*100:.1f}%)")
 
     return df
 
@@ -423,6 +504,10 @@ def aggregate_enrollment(df: pd.DataFrame, data_year: int = None, data_month: in
         fips_values = group['fips'].dropna().unique()
         fips = fips_values[0] if len(fips_values) > 0 and fips_values[0] else county_key
 
+        # Aggregate by group/individual
+        group_enrollment = int(group[group['is_group'] == True]['enrollment'].sum())
+        individual_enrollment = int(group[group['is_group'] == False]['enrollment'].sum())
+
         county_data = {
             'state': state,
             'county': county,
@@ -430,6 +515,10 @@ def aggregate_enrollment(df: pd.DataFrame, data_year: int = None, data_month: in
             'total': int(group['enrollment'].sum()),
             'by_org': group.groupby('parent_org')['enrollment'].sum().to_dict(),
             'by_plan_type': group.groupby('plan_type')['enrollment'].sum().to_dict(),
+            'by_group': {
+                'group': group_enrollment,
+                'individual': individual_enrollment
+            },
             'contracts': group.groupby('contract_number')['enrollment'].sum().to_dict()
         }
 
@@ -457,13 +546,14 @@ def aggregate_enrollment(df: pd.DataFrame, data_year: int = None, data_month: in
         'enrollment': 'sum',
         'parent_org': 'first',
         'plan_type': lambda x: x.mode().iloc[0] if len(x.mode()) > 0 else 'Unknown',
+        'is_group': 'any',  # True if any plan in the contract is a group plan
     }
 
     # Only include organization if it exists in the dataframe
     if 'organization' in df.columns:
         agg_dict['organization'] = 'first'
 
-    contract_info = df.groupby('contract_number').agg(agg_dict).to_dict('index')
+    contract_details = df.groupby('contract_number').agg(agg_dict).to_dict('index')
 
     result['contracts'] = {
         k: {
@@ -471,8 +561,9 @@ def aggregate_enrollment(df: pd.DataFrame, data_year: int = None, data_month: in
             'parent_org': v['parent_org'],
             'organization': v.get('organization', v['parent_org']),
             'plan_type': v['plan_type'],
+            'is_group': bool(v['is_group']),
         }
-        for k, v in contract_info.items()
+        for k, v in contract_details.items()
     }
 
     return result

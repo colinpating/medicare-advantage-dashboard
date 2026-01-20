@@ -1,5564 +1,6498 @@
 {
+  "E3014": {
+    "enrollment": 92362,
+    "parent_org": "Commonwealth of PA Pub Schools Retirement System",
+    "organization": "Commonwealth of PA Pub Schools Retirement System",
+    "plan_type": "Other",
+    "is_group": true
+  },
   "H0016": {
     "enrollment": 12,
     "parent_org": "LIFE COORDINATED COMMONWEALTH PACE, Inc",
     "organization": "LIFE COORDINATED COMMONWEALTH PACE, Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0022": {
     "enrollment": 8513,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0028": {
     "enrollment": 367962,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0029": {
     "enrollment": 17711,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0034": {
     "enrollment": 1568,
     "parent_org": "Hamaspik of Rockland County, Inc.",
     "organization": "Hamaspik of Rockland County, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0062": {
     "enrollment": 0,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0074": {
     "enrollment": 1519,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0104": {
     "enrollment": 112526,
     "parent_org": "BlueCross BlueShield of Alabama",
     "organization": "BlueCross BlueShield of Alabama",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0105": {
     "enrollment": 91,
     "parent_org": "Orangeburg Senior Helping Center, LLC",
     "organization": "Orangeburg Senior Helping Center, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0107": {
     "enrollment": 89051,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0111": {
     "enrollment": 6684,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0112": {
     "enrollment": 963,
     "parent_org": "Morse Life Home Care, Inc.",
     "organization": "Morse Life Home Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0137": {
     "enrollment": 27732,
     "parent_org": "CareSource",
     "organization": "CareSource",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0154": {
     "enrollment": 52094,
     "parent_org": "Triton Health Systems, L.L.C.",
     "organization": "Triton Health Systems, L.L.C.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0169": {
     "enrollment": 105842,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0174": {
     "enrollment": 69662,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0192": {
     "enrollment": 2399,
     "parent_org": "Independence Health Group, Inc.",
     "organization": "Independence Health Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0216": {
     "enrollment": 420,
     "parent_org": "Immanuel",
     "organization": "Immanuel",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0235": {
     "enrollment": 130,
     "parent_org": "Aging & In-Home Services of Northeast Indiana, Inc",
     "organization": "Aging & In-Home Services of Northeast Indiana, Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0251": {
     "enrollment": 78454,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0270": {
     "enrollment": 436,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0292": {
     "enrollment": 8753,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0294": {
     "enrollment": 136443,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0302": {
     "enrollment": 32524,
     "parent_org": "Blue Cross Blue Shield of Arizona",
     "organization": "Blue Cross Blue Shield of Arizona",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0321": {
     "enrollment": 71081,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0332": {
     "enrollment": 49002,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0336": {
     "enrollment": 12667,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0342": {
     "enrollment": 11728,
     "parent_org": "Point32Health, Inc.",
     "organization": "Point32Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0351": {
     "enrollment": 20973,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0354": {
     "enrollment": 74705,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0363": {
     "enrollment": 399,
     "parent_org": "Longevity Health Founders, LLC",
     "organization": "Longevity Health Founders, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0390": {
     "enrollment": 237,
     "parent_org": "PACE of Southwest Michigan, Inc.",
     "organization": "PACE of Southwest Michigan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0421": {
     "enrollment": 6733,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0423": {
     "enrollment": 12593,
     "parent_org": "New York City Health and Hospitals Corporation",
     "organization": "New York City Health and Hospitals Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0424": {
     "enrollment": 93,
     "parent_org": "Total Community Options, Inc.",
     "organization": "Total Community Options, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0432": {
     "enrollment": 73109,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0439": {
     "enrollment": 24844,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0440": {
     "enrollment": 33,
     "parent_org": "Empath Health, Inc.",
     "organization": "Empath Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0473": {
     "enrollment": 16670,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0477": {
     "enrollment": 575,
     "parent_org": "Serenity Care, Inc.",
     "organization": "Serenity Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0480": {
     "enrollment": 4296,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0504": {
     "enrollment": 62857,
     "parent_org": "California Physicians' Service",
     "organization": "California Physicians' Service",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0523": {
     "enrollment": 14106,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0524": {
     "enrollment": 1351537,
     "parent_org": "Kaiser Foundation Health Plan, Inc.",
     "organization": "Kaiser Foundation Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0542": {
     "enrollment": 3450,
     "parent_org": "Altamed Health Services Corporation",
     "organization": "Altamed Health Services Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0543": {
     "enrollment": 310746,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0544": {
     "enrollment": 65577,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0562": {
     "enrollment": 34506,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0571": {
     "enrollment": 5880,
     "parent_org": "Chinese Hospital Association",
     "organization": "Chinese Hospital Association",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0609": {
     "enrollment": 750015,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0613": {
     "enrollment": 2928,
     "parent_org": "Total Community Options, Inc.",
     "organization": "Total Community Options, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0624": {
     "enrollment": 32217,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0628": {
     "enrollment": 93276,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0630": {
     "enrollment": 112135,
     "parent_org": "Kaiser Foundation Health Plan, Inc.",
     "organization": "Kaiser Foundation Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0672": {
     "enrollment": 19060,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0710": {
     "enrollment": 47126,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0712": {
     "enrollment": 6984,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0724": {
     "enrollment": 0,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0738": {
     "enrollment": 503,
     "parent_org": "Independence Health Group, Inc.",
     "organization": "Independence Health Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0755": {
     "enrollment": 60893,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0764": {
     "enrollment": 1119,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0783": {
     "enrollment": 1132,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0809": {
     "enrollment": 202,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0819": {
     "enrollment": 345,
     "parent_org": "Senior LIFE York, Inc.",
     "organization": "Senior LIFE York, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0839": {
     "enrollment": 158,
     "parent_org": "Volunteers of America National Services",
     "organization": "Volunteers of America National Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0870": {
     "enrollment": 41,
     "parent_org": "Blue Ridge Hospice, Inc.",
     "organization": "Blue Ridge Hospice, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0885": {
     "enrollment": 57253,
     "parent_org": "Horizon Mutual Holdings, Inc",
     "organization": "Horizon Mutual Holdings, Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0907": {
     "enrollment": 5240,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0908": {
     "enrollment": 10525,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0913": {
     "enrollment": 13886,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0927": {
     "enrollment": 16796,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0934": {
     "enrollment": 771,
     "parent_org": "WelbeHealth LLC.",
     "organization": "WelbeHealth LLC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0976": {
     "enrollment": 21225,
     "parent_org": "SCAN Group",
     "organization": "SCAN Group",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H0978": {
     "enrollment": 2343,
     "parent_org": "SCAN Group",
     "organization": "SCAN Group",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H0982": {
     "enrollment": 14498,
     "parent_org": "Athena Healthcare Holdings, LLC",
     "organization": "Athena Healthcare Holdings, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1016": {
     "enrollment": 12154,
     "parent_org": "Sentara Health Care (SHC)",
     "organization": "Sentara Health Care (SHC)",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1019": {
     "enrollment": 158564,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1032": {
     "enrollment": 58519,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1035": {
     "enrollment": 62978,
     "parent_org": "Guidewell Mutual Holding Corporation",
     "organization": "Guidewell Mutual Holding Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1036": {
     "enrollment": 645435,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1043": {
     "enrollment": 1092,
     "parent_org": "Miami Jewish Health Systems, Inc.",
     "organization": "Miami Jewish Health Systems, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1045": {
     "enrollment": 388644,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1099": {
     "enrollment": 33380,
     "parent_org": "Health First Shared Services, Inc.",
     "organization": "Health First Shared Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1109": {
     "enrollment": 916,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1112": {
     "enrollment": 27084,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1119": {
     "enrollment": 2106,
     "parent_org": "The Schroer Group, Inc.",
     "organization": "The Schroer Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1170": {
     "enrollment": 40253,
     "parent_org": "Kaiser Foundation Health Plan, Inc.",
     "organization": "Kaiser Foundation Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1181": {
     "enrollment": 765,
     "parent_org": "Network Health, Inc.",
     "organization": "Network Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1188": {
     "enrollment": 0,
     "parent_org": "One Senior Care, Inc.",
     "organization": "One Senior Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1189": {
     "enrollment": 7026,
     "parent_org": "CHRISTUS Health",
     "organization": "CHRISTUS Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1206": {
     "enrollment": 3075,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1215": {
     "enrollment": 1374,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1219": {
     "enrollment": 47,
     "parent_org": "WelbeHealth LLC.",
     "organization": "WelbeHealth LLC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1224": {
     "enrollment": 30854,
     "parent_org": "Local Initiative Health Authority for LA County",
     "organization": "Local Initiative Health Authority for LA County",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1225": {
     "enrollment": 6986,
     "parent_org": "Johns Hopkins Healthcare LLC",
     "organization": "Johns Hopkins Healthcare LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1228": {
     "enrollment": 364,
     "parent_org": "Golden Valley Health Centers",
     "organization": "Golden Valley Health Centers",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1230": {
     "enrollment": 36742,
     "parent_org": "Kaiser Foundation Health Plan, Inc.",
     "organization": "Kaiser Foundation Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1234": {
     "enrollment": 195,
     "parent_org": "Capital Healthcare, INC.",
     "organization": "Capital Healthcare, INC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1239": {
     "enrollment": 261,
     "parent_org": "Total Community Options, Inc.",
     "organization": "Total Community Options, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1248": {
     "enrollment": 11961,
     "parent_org": "Louisiana Health Service & Indemnity Company",
     "organization": "Louisiana Health Service & Indemnity Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1277": {
     "enrollment": 18,
     "parent_org": "Curana Health Holdings, LLC",
     "organization": "Curana Health Holdings, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1278": {
     "enrollment": 190836,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1280": {
     "enrollment": 420,
     "parent_org": "Eternal Health of Delaware, Inc.",
     "organization": "Eternal Health of Delaware, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1285": {
     "enrollment": 38343,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1290": {
     "enrollment": 30072,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1302": {
     "enrollment": 1646,
     "parent_org": "Gemstone Holdings, Inc.",
     "organization": "Gemstone Holdings, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1304": {
     "enrollment": 6610,
     "parent_org": "Cambia Health Solutions, Inc.",
     "organization": "Cambia Health Solutions, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1310": {
     "enrollment": 661,
     "parent_org": "Comprehensive Senior Care Corporation",
     "organization": "Comprehensive Senior Care Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1312": {
     "enrollment": 71,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1339": {
     "enrollment": 0,
     "parent_org": "Johns Hopkins Healthcare LLC",
     "organization": "Johns Hopkins Healthcare LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1347": {
     "enrollment": 5064,
     "parent_org": "BlueCross BlueShield of Alabama",
     "organization": "BlueCross BlueShield of Alabama",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1350": {
     "enrollment": 75123,
     "parent_org": "Gemstone Holdings, Inc.",
     "organization": "Gemstone Holdings, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1357": {
     "enrollment": 129,
     "parent_org": "EveryAge",
     "organization": "EveryAge",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1360": {
     "enrollment": 3412,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1365": {
     "enrollment": 5315,
     "parent_org": "Martin's Point Health Care, Inc.",
     "organization": "Martin's Point Health Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1372": {
     "enrollment": 793,
     "parent_org": "Marquis Companies I, Inc.",
     "organization": "Marquis Companies I, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1395": {
     "enrollment": 2715,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1416": {
     "enrollment": 52225,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1423": {
     "enrollment": 4233,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1463": {
     "enrollment": 24895,
     "parent_org": "The Carle Foundation",
     "organization": "The Carle Foundation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1468": {
     "enrollment": 129966,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1500": {
     "enrollment": 124,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1518": {
     "enrollment": 239,
     "parent_org": "Catholic Health System, Inc.",
     "organization": "Catholic Health System, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1526": {
     "enrollment": 1435,
     "parent_org": "Gold Kidney Health Plan",
     "organization": "Gold Kidney Health Plan",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1533": {
     "enrollment": 69,
     "parent_org": "American Healthcare Systems, LLC",
     "organization": "American Healthcare Systems, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1537": {
     "enrollment": 16720,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1544": {
     "enrollment": 552,
     "parent_org": "WelbeHealth LLC.",
     "organization": "WelbeHealth LLC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1587": {
     "enrollment": 2502,
     "parent_org": "Select Founders, LLC",
     "organization": "Select Founders, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1607": {
     "enrollment": 12063,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1608": {
     "enrollment": 145547,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1609": {
     "enrollment": 128920,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1610": {
     "enrollment": 16299,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1619": {
     "enrollment": 1739,
     "parent_org": "Thomas Jefferson University",
     "organization": "Thomas Jefferson University",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1622": {
     "enrollment": 192,
     "parent_org": "North East Medical Services",
     "organization": "North East Medical Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1644": {
     "enrollment": 904,
     "parent_org": "Longevity Health Founders, LLC",
     "organization": "Longevity Health Founders, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1651": {
     "enrollment": 14606,
     "parent_org": "Medical Associates Clinic, P.C.",
     "organization": "Medical Associates Clinic, P.C.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1659": {
     "enrollment": 1245,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1664": {
     "enrollment": 3686,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1666": {
     "enrollment": 17872,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1692": {
     "enrollment": 20697,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1693": {
     "enrollment": 315,
     "parent_org": "Family Health Centers of San Diego",
     "organization": "Family Health Centers of San Diego",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1714": {
     "enrollment": 256,
     "parent_org": "Ascension Health Alliance",
     "organization": "Ascension Health Alliance",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1722": {
     "enrollment": 2297,
     "parent_org": "Healthfirst, Inc.",
     "organization": "Healthfirst, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1723": {
     "enrollment": 1840,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1737": {
     "enrollment": 455,
     "parent_org": "The Carle Foundation",
     "organization": "The Carle Foundation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1742": {
     "enrollment": 57,
     "parent_org": "Ascension Health Alliance",
     "organization": "Ascension Health Alliance",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1774": {
     "enrollment": 563,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1787": {
     "enrollment": 277,
     "parent_org": "Sanford Health",
     "organization": "Sanford Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1799": {
     "enrollment": 1113,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1822": {
     "enrollment": 3714,
     "parent_org": "SCAN Group",
     "organization": "SCAN Group",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1846": {
     "enrollment": 2408,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1862": {
     "enrollment": 3525,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1889": {
     "enrollment": 367042,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1894": {
     "enrollment": 2026,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1904": {
     "enrollment": 146,
     "parent_org": "Catholic Charities Archdiocese of New Orleans",
     "organization": "Catholic Charities Archdiocese of New Orleans",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1914": {
     "enrollment": 7969,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1917": {
     "enrollment": 443,
     "parent_org": "WelbeHealth LLC.",
     "organization": "WelbeHealth LLC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1947": {
     "enrollment": 1573,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1951": {
     "enrollment": 159357,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1961": {
     "enrollment": 151597,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1969": {
     "enrollment": 690,
     "parent_org": "Cambia Health Solutions, Inc.",
     "organization": "Cambia Health Solutions, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1977": {
     "enrollment": 3775,
     "parent_org": "DLP Marquette General Hospital, LLC",
     "organization": "DLP Marquette General Hospital, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1980": {
     "enrollment": 54,
     "parent_org": "Hospice of the Bluegrass, Inc.",
     "organization": "Hospice of the Bluegrass, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1993": {
     "enrollment": 39351,
     "parent_org": "Astiva Health Holdings Incorporated",
     "organization": "Astiva Health Holdings Incorporated",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H1994": {
     "enrollment": 66175,
     "parent_org": "Intermountain Health Care, Inc.",
     "organization": "Intermountain Health Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H1997": {
     "enrollment": 549,
     "parent_org": "Cambia Health Solutions, Inc.",
     "organization": "Cambia Health Solutions, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2001": {
     "enrollment": 2571944,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2029": {
     "enrollment": 313,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2032": {
     "enrollment": 5421,
     "parent_org": "Baylor Scott & White Health",
     "organization": "Baylor Scott & White Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2034": {
     "enrollment": 453,
     "parent_org": "Community Care, Inc.",
     "organization": "Community Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2041": {
     "enrollment": 4622,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2056": {
     "enrollment": 7860,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2064": {
     "enrollment": 367,
     "parent_org": "Risant Health, Inc.",
     "organization": "Risant Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2085": {
     "enrollment": 63,
     "parent_org": "St. Joseph Home Care Network",
     "organization": "St. Joseph Home Care Network",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2096": {
     "enrollment": 0,
     "parent_org": "BlueCross BlueShield of Tennessee",
     "organization": "BlueCross BlueShield of Tennessee",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2108": {
     "enrollment": 12429,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2109": {
     "enrollment": 140,
     "parent_org": "The Johns Hopkins Health System Corporation",
     "organization": "The Johns Hopkins Health System Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2117": {
     "enrollment": 7537,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2128": {
     "enrollment": 1902,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2162": {
     "enrollment": 0,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2168": {
     "enrollment": 7549,
     "parent_org": "Village Care of New York, Inc.",
     "organization": "Village Care of New York, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2172": {
     "enrollment": 111089,
     "parent_org": "Kaiser Foundation Health Plan, Inc.",
     "organization": "Kaiser Foundation Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2174": {
     "enrollment": 2441,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2185": {
     "enrollment": 181,
     "parent_org": "Curana Health Holdings, LLC",
     "organization": "Curana Health Holdings, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2218": {
     "enrollment": 521,
     "parent_org": "Harbor Health Services, Inc.",
     "organization": "Harbor Health Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2219": {
     "enrollment": 1391,
     "parent_org": "Fallon Community Health Plan, Inc.",
     "organization": "Fallon Community Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2220": {
     "enrollment": 278,
     "parent_org": "Uphams Corner Health Committee, Inc.",
     "organization": "Uphams Corner Health Committee, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2221": {
     "enrollment": 657,
     "parent_org": "Cambridge Health Alliance",
     "organization": "Cambridge Health Alliance",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2222": {
     "enrollment": 1111,
     "parent_org": "Element Care, Inc.",
     "organization": "Element Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2223": {
     "enrollment": 846,
     "parent_org": "NEIGHBORHEALTH CORPORATION",
     "organization": "NEIGHBORHEALTH CORPORATION",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2224": {
     "enrollment": 10450,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2225": {
     "enrollment": 17179,
     "parent_org": "CareSource",
     "organization": "CareSource",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2226": {
     "enrollment": 24294,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2230": {
     "enrollment": 84001,
     "parent_org": "Blue Cross and Blue Shield of Massachusetts, Inc.",
     "organization": "Blue Cross and Blue Shield of Massachusetts, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2235": {
     "enrollment": 15232,
     "parent_org": "BayCare Health System, Inc.",
     "organization": "BayCare Health System, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2237": {
     "enrollment": 3108,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2246": {
     "enrollment": 2975,
     "parent_org": "Intermountain Health Care, Inc.",
     "organization": "Intermountain Health Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2247": {
     "enrollment": 41499,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2256": {
     "enrollment": 92629,
     "parent_org": "Point32Health, Inc.",
     "organization": "Point32Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2261": {
     "enrollment": 14710,
     "parent_org": "Blue Cross and Blue Shield of Massachusetts, Inc.",
     "organization": "Blue Cross and Blue Shield of Massachusetts, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2272": {
     "enrollment": 9364,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2292": {
     "enrollment": 8984,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2293": {
     "enrollment": 136224,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2318": {
     "enrollment": 2216,
     "parent_org": "Henry Ford Health System",
     "organization": "Henry Ford Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2320": {
     "enrollment": 147886,
     "parent_org": "Corewell Health",
     "organization": "Corewell Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2322": {
     "enrollment": 17086,
     "parent_org": "Henry Ford Health System",
     "organization": "Henry Ford Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2354": {
     "enrollment": 69111,
     "parent_org": "Henry Ford Health System",
     "organization": "Henry Ford Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2368": {
     "enrollment": 581,
     "parent_org": "Total Community Options, Inc.",
     "organization": "Total Community Options, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2384": {
     "enrollment": 777,
     "parent_org": "WelbeHealth LLC.",
     "organization": "WelbeHealth LLC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2386": {
     "enrollment": 148,
     "parent_org": "Appalachian Agency for Senior Citizens, Inc.",
     "organization": "Appalachian Agency for Senior Citizens, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2392": {
     "enrollment": 693,
     "parent_org": "Kansas Superior Select",
     "organization": "Kansas Superior Select",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2397": {
     "enrollment": 31,
     "parent_org": "PACE AT HUDSON HEADWATERS, INC.",
     "organization": "PACE AT HUDSON HEADWATERS, INC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2400": {
     "enrollment": 887,
     "parent_org": "BrightSpring Health Services, Inc.",
     "organization": "BrightSpring Health Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2406": {
     "enrollment": 713385,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2416": {
     "enrollment": 1997,
     "parent_org": "PrimeWest Rural MN Health Care Access Initiative",
     "organization": "PrimeWest Rural MN Health Care Access Initiative",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2417": {
     "enrollment": 323,
     "parent_org": "Itasca County",
     "organization": "Itasca County",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2419": {
     "enrollment": 962,
     "parent_org": "South Country Health Alliance",
     "organization": "South Country Health Alliance",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2422": {
     "enrollment": 5615,
     "parent_org": "HealthPartners, Inc.",
     "organization": "HealthPartners, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2425": {
     "enrollment": 11029,
     "parent_org": "Aware Integrated, Inc.",
     "organization": "Aware Integrated, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2441": {
     "enrollment": 619,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2445": {
     "enrollment": 38912,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2450": {
     "enrollment": 76132,
     "parent_org": "Medica Holding Company",
     "organization": "Medica Holding Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2456": {
     "enrollment": 17568,
     "parent_org": "UCare Minnesota",
     "organization": "UCare Minnesota",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2458": {
     "enrollment": 10117,
     "parent_org": "Medica Holding Company",
     "organization": "Medica Holding Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2459": {
     "enrollment": 94179,
     "parent_org": "UCare Minnesota",
     "organization": "UCare Minnesota",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2461": {
     "enrollment": 48395,
     "parent_org": "Aware Integrated, Inc.",
     "organization": "Aware Integrated, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2462": {
     "enrollment": 4503,
     "parent_org": "HealthPartners, Inc.",
     "organization": "HealthPartners, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2463": {
     "enrollment": 1702,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2478": {
     "enrollment": 25,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2486": {
     "enrollment": 6327,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2491": {
     "enrollment": 13119,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2506": {
     "enrollment": 13147,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2509": {
     "enrollment": 56403,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2526": {
     "enrollment": 5718,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2531": {
     "enrollment": 6316,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2533": {
     "enrollment": 2386,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2541": {
     "enrollment": 122,
     "parent_org": "AgeWell PACE",
     "organization": "AgeWell PACE",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2563": {
     "enrollment": 28139,
     "parent_org": "Sentara Health Care (SHC)",
     "organization": "Sentara Health Care (SHC)",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2582": {
     "enrollment": 9454,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2591": {
     "enrollment": 464,
     "parent_org": "The Carle Foundation",
     "organization": "The Carle Foundation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2593": {
     "enrollment": 8666,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2610": {
     "enrollment": 41086,
     "parent_org": "Lumeris Group Holdings Corporation",
     "organization": "Lumeris Group Holdings Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2624": {
     "enrollment": 7758,
     "parent_org": "Risant Health, Inc.",
     "organization": "Risant Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2663": {
     "enrollment": 127228,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2686": {
     "enrollment": 7891,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2694": {
     "enrollment": 1589,
     "parent_org": "Eternal Health of Delaware, Inc.",
     "organization": "Eternal Health of Delaware, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2697": {
     "enrollment": 28984,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2715": {
     "enrollment": 541,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2722": {
     "enrollment": 94,
     "parent_org": "Louisiana Health Service & Indemnity Company",
     "organization": "Louisiana Health Service & Indemnity Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2737": {
     "enrollment": 4081,
     "parent_org": "Baystate Health, Inc.",
     "organization": "Baystate Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2752": {
     "enrollment": 460,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2775": {
     "enrollment": 84153,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2802": {
     "enrollment": 358832,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2815": {
     "enrollment": 290,
     "parent_org": "Volunteers of America National Services",
     "organization": "Volunteers of America National Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2816": {
     "enrollment": 1429,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2819": {
     "enrollment": 15995,
     "parent_org": "California Physicians' Service",
     "organization": "California Physicians' Service",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2835": {
     "enrollment": 227,
     "parent_org": "United Methodist Retirement Communities, Inc.",
     "organization": "United Methodist Retirement Communities, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2836": {
     "enrollment": 7294,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2853": {
     "enrollment": 0,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2875": {
     "enrollment": 448,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2882": {
     "enrollment": 231,
     "parent_org": "PACE Central Michigan, Inc.",
     "organization": "PACE Central Michigan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2915": {
     "enrollment": 14245,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2918": {
     "enrollment": 38,
     "parent_org": "Advocates for a Healthy Community, Inc.",
     "organization": "Advocates for a Healthy Community, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2923": {
     "enrollment": 3051,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2926": {
     "enrollment": 578,
     "parent_org": "PrimeWest Rural MN Health Care Access Initiative",
     "organization": "PrimeWest Rural MN Health Care Access Initiative",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2936": {
     "enrollment": 462,
     "parent_org": "LifeCircles",
     "organization": "LifeCircles",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2937": {
     "enrollment": 160,
     "parent_org": "Senior LIFE Greensburg, Inc.",
     "organization": "Senior LIFE Greensburg, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2941": {
     "enrollment": 223,
     "parent_org": "Sentara Health Care (SHC)",
     "organization": "Sentara Health Care (SHC)",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2942": {
     "enrollment": 3795,
     "parent_org": "CoxHealth",
     "organization": "CoxHealth",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2960": {
     "enrollment": 19679,
     "parent_org": "Renown Health",
     "organization": "Renown Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H2962": {
     "enrollment": 7435,
     "parent_org": "Ultimate Healthcare Holdings, LLC",
     "organization": "Ultimate Healthcare Holdings, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H2992": {
     "enrollment": 525,
     "parent_org": "SeniorLife Washington, Inc.",
     "organization": "SeniorLife Washington, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3015": {
     "enrollment": 3929,
     "parent_org": "BlueCross BlueShield of Tennessee",
     "organization": "BlueCross BlueShield of Tennessee",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3038": {
     "enrollment": 24380,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3041": {
     "enrollment": 1313,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3047": {
     "enrollment": 1222,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3048": {
     "enrollment": 234,
     "parent_org": "Chapters CareNu Inc",
     "organization": "Chapters CareNu Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3060": {
     "enrollment": 150,
     "parent_org": "Lutheran SeniorLife",
     "organization": "Lutheran SeniorLife",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3071": {
     "enrollment": 2169,
     "parent_org": "Group 1001",
     "organization": "Group 1001",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3080": {
     "enrollment": 8803,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3084": {
     "enrollment": 114,
     "parent_org": "International Community Health Services",
     "organization": "International Community Health Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3113": {
     "enrollment": 89403,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3124": {
     "enrollment": 856,
     "parent_org": "Thomas Jefferson University",
     "organization": "Thomas Jefferson University",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3138": {
     "enrollment": 1002,
     "parent_org": "Kaiser Foundation Health Plan, Inc.",
     "organization": "Kaiser Foundation Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3146": {
     "enrollment": 61029,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3152": {
     "enrollment": 26468,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3170": {
     "enrollment": 3264,
     "parent_org": "Blue Cross Blue Shield of Nebraska",
     "organization": "Blue Cross Blue Shield of Nebraska",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3186": {
     "enrollment": 1630,
     "parent_org": "Sanford Health",
     "organization": "Sanford Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3189": {
     "enrollment": 38,
     "parent_org": "Lumeris Group Holdings Corporation",
     "organization": "Lumeris Group Holdings Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3192": {
     "enrollment": 39129,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3204": {
     "enrollment": 56269,
     "parent_org": "Presbyterian Healthcare Services",
     "organization": "Presbyterian Healthcare Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3219": {
     "enrollment": 30017,
     "parent_org": "Allina Health and Aetna Insurance Holding Company",
     "organization": "Allina Health and Aetna Insurance Holding Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3239": {
     "enrollment": 37772,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3240": {
     "enrollment": 17566,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3251": {
     "enrollment": 20558,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3256": {
     "enrollment": 69588,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3259": {
     "enrollment": 28034,
     "parent_org": "BlueCross BlueShield of Tennessee",
     "organization": "BlueCross BlueShield of Tennessee",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3274": {
     "enrollment": 471,
     "parent_org": "Curana Health Holdings, LLC",
     "organization": "Curana Health Holdings, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3276": {
     "enrollment": 465,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3284": {
     "enrollment": 237,
     "parent_org": "MultiCare Health Systems",
     "organization": "MultiCare Health Systems",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3288": {
     "enrollment": 65133,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3291": {
     "enrollment": 2057,
     "parent_org": "UNICO Services, Inc.",
     "organization": "UNICO Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3305": {
     "enrollment": 29674,
     "parent_org": "MVP Health Care, Inc.",
     "organization": "MVP Health Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3307": {
     "enrollment": 87,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3312": {
     "enrollment": 81837,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3321": {
     "enrollment": 586,
     "parent_org": "Loretto Rest Realty Corporation",
     "organization": "Loretto Rest Realty Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3322": {
     "enrollment": 428,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3329": {
     "enrollment": 2494,
     "parent_org": "CenterLight Health System, Inc.",
     "organization": "CenterLight Health System, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3330": {
     "enrollment": 36659,
     "parent_org": "EmblemHealth, Inc.",
     "organization": "EmblemHealth, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3331": {
     "enrollment": 773,
     "parent_org": "Rochester Regional Health",
     "organization": "Rochester Regional Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3335": {
     "enrollment": 96290,
     "parent_org": "Lifetime Healthcare, Inc.",
     "organization": "Lifetime Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3342": {
     "enrollment": 394,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3344": {
     "enrollment": 5714,
     "parent_org": "Independent Health Association, Inc.",
     "organization": "Independent Health Association, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3347": {
     "enrollment": 23973,
     "parent_org": "Elderplan, Inc.",
     "organization": "Elderplan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3351": {
     "enrollment": 107958,
     "parent_org": "Lifetime Healthcare, Inc.",
     "organization": "Lifetime Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3359": {
     "enrollment": 319375,
     "parent_org": "Healthfirst, Inc.",
     "organization": "Healthfirst, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3362": {
     "enrollment": 64211,
     "parent_org": "Independent Health Association, Inc.",
     "organization": "Independent Health Association, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3379": {
     "enrollment": 115280,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3384": {
     "enrollment": 45333,
     "parent_org": "Highmark Health",
     "organization": "Highmark Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3387": {
     "enrollment": 170328,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3388": {
     "enrollment": 60083,
     "parent_org": "Lifetime Healthcare, Inc.",
     "organization": "Lifetime Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3404": {
     "enrollment": 33659,
     "parent_org": "CuraCor Solutions Corp.",
     "organization": "CuraCor Solutions Corp.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3407": {
     "enrollment": 988,
     "parent_org": "El Paso County Hospital District",
     "organization": "El Paso County Hospital District",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3418": {
     "enrollment": 65331,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3419": {
     "enrollment": 120,
     "parent_org": "Perennial Consortium, LLC",
     "organization": "Perennial Consortium, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3430": {
     "enrollment": 282,
     "parent_org": "Empath Health, Inc.",
     "organization": "Empath Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3443": {
     "enrollment": 6288,
     "parent_org": "Alignment Healthcare USA, LLC",
     "organization": "Alignment Healthcare USA, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3447": {
     "enrollment": 265991,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3449": {
     "enrollment": 128365,
     "parent_org": "CuraCor Solutions Corp.",
     "organization": "CuraCor Solutions Corp.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3467": {
     "enrollment": 1079,
     "parent_org": "First Sacramento Capital Funding LLC",
     "organization": "First Sacramento Capital Funding LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3473": {
     "enrollment": 260,
     "parent_org": "Total Community Options, Inc.",
     "organization": "Total Community Options, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3493": {
     "enrollment": 164,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3499": {
     "enrollment": 1434,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3517": {
     "enrollment": 358,
     "parent_org": "Humboldt Senior Resource Center, Inc.",
     "organization": "Humboldt Senior Resource Center, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3522": {
     "enrollment": 90,
     "parent_org": "Reid Hospital & Health Care Services, Inc.",
     "organization": "Reid Hospital & Health Care Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3528": {
     "enrollment": 47282,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3533": {
     "enrollment": 24570,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3536": {
     "enrollment": 9050,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3551": {
     "enrollment": 985,
     "parent_org": "Eternal Health of Delaware, Inc.",
     "organization": "Eternal Health of Delaware, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3554": {
     "enrollment": 8199,
     "parent_org": "USAble Mutual Insurance Company",
     "organization": "USAble Mutual Insurance Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3557": {
     "enrollment": 2201,
     "parent_org": "Blue Cross & Blue Shield of Rhode Island",
     "organization": "Blue Cross & Blue Shield of Rhode Island",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3561": {
     "enrollment": 53197,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3563": {
     "enrollment": 403,
     "parent_org": "Gary and Mary West Senior Services, Inc.",
     "organization": "Gary and Mary West Senior Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3597": {
     "enrollment": 22705,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3613": {
     "enrollment": 596,
     "parent_org": "McGregor at Overlook",
     "organization": "McGregor at Overlook",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3653": {
     "enrollment": 16922,
     "parent_org": "MEDICAL MUTUAL OF OHIO",
     "organization": "MEDICAL MUTUAL OF OHIO",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3655": {
     "enrollment": 278582,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3660": {
     "enrollment": 26534,
     "parent_org": "Summa Health",
     "organization": "Summa Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3664": {
     "enrollment": 14148,
     "parent_org": "Aultman Health Foundation",
     "organization": "Aultman Health Foundation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3668": {
     "enrollment": 41630,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3672": {
     "enrollment": 7154,
     "parent_org": "The Health Plan of West Virginia, Inc.",
     "organization": "The Health Plan of West Virginia, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3706": {
     "enrollment": 16613,
     "parent_org": "MHH Healthcare, L.P.",
     "organization": "MHH Healthcare, L.P.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3708": {
     "enrollment": 348,
     "parent_org": "Mitchell Family Office",
     "organization": "Mitchell Family Office",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3727": {
     "enrollment": 2387,
     "parent_org": "SNP Holdings, LLC",
     "organization": "SNP Holdings, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3740": {
     "enrollment": 28,
     "parent_org": "West Baltimore PACE Community Coalition LLC",
     "organization": "West Baltimore PACE Community Coalition LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3748": {
     "enrollment": 7773,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3755": {
     "enrollment": 34880,
     "parent_org": "St Francis Health System & St John Health System",
     "organization": "St Francis Health System & St John Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3777": {
     "enrollment": 3054,
     "parent_org": "CuraCor Solutions Corp.",
     "organization": "CuraCor Solutions Corp.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3794": {
     "enrollment": 47320,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3800": {
     "enrollment": 1225,
     "parent_org": "Rifkin Managed Care Holding, LLC",
     "organization": "Rifkin Managed Care Holding, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3805": {
     "enrollment": 219926,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3809": {
     "enrollment": 1731,
     "parent_org": "Providence Health & Services",
     "organization": "Providence Health & Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3810": {
     "enrollment": 2578,
     "parent_org": "AllCare Health, Inc.",
     "organization": "AllCare Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3811": {
     "enrollment": 13570,
     "parent_org": "Samaritan Health Services, Inc.",
     "organization": "Samaritan Health Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3814": {
     "enrollment": 2179,
     "parent_org": "ATRIO Health Plans",
     "organization": "ATRIO Health Plans",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3815": {
     "enrollment": 189315,
     "parent_org": "Alignment Healthcare USA, LLC",
     "organization": "Alignment Healthcare USA, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3817": {
     "enrollment": 53674,
     "parent_org": "Cambia Health Solutions, Inc.",
     "organization": "Cambia Health Solutions, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3822": {
     "enrollment": 19900,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3828": {
     "enrollment": 260,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3832": {
     "enrollment": 38701,
     "parent_org": "Hawaii Medical Service Association",
     "organization": "Hawaii Medical Service Association",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3864": {
     "enrollment": 48385,
     "parent_org": "PacificSource",
     "organization": "PacificSource",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3890": {
     "enrollment": 5709,
     "parent_org": "Johns Hopkins Healthcare LLC",
     "organization": "Johns Hopkins Healthcare LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3907": {
     "enrollment": 124165,
     "parent_org": "UPMC Health System",
     "organization": "UPMC Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3908": {
     "enrollment": 224,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3909": {
     "enrollment": 45056,
     "parent_org": "Independence Health Group, Inc.",
     "organization": "Independence Health Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3916": {
     "enrollment": 271626,
     "parent_org": "Highmark Health",
     "organization": "Highmark Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3917": {
     "enrollment": 806,
     "parent_org": "UPMC Health System",
     "organization": "UPMC Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3918": {
     "enrollment": 535,
     "parent_org": "Living Independence for the Elderly Pittsburgh Inc",
     "organization": "Living Independence for the Elderly Pittsburgh Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3919": {
     "enrollment": 769,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3923": {
     "enrollment": 27923,
     "parent_org": "CAPITAL BLUE CROSS",
     "organization": "CAPITAL BLUE CROSS",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3924": {
     "enrollment": 36209,
     "parent_org": "Risant Health, Inc.",
     "organization": "Risant Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3925": {
     "enrollment": 212,
     "parent_org": "Pennsylvania PACE, Inc.",
     "organization": "Pennsylvania PACE, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3928": {
     "enrollment": 3706,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3931": {
     "enrollment": 108455,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3933": {
     "enrollment": 18,
     "parent_org": "OSF Healthcare System",
     "organization": "OSF Healthcare System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3942": {
     "enrollment": 113,
     "parent_org": "EveryAge",
     "organization": "EveryAge",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3949": {
     "enrollment": 39166,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3952": {
     "enrollment": 72811,
     "parent_org": "Independence Health Group, Inc.",
     "organization": "Independence Health Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3954": {
     "enrollment": 58514,
     "parent_org": "Risant Health, Inc.",
     "organization": "Risant Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3957": {
     "enrollment": 57699,
     "parent_org": "Highmark Health",
     "organization": "Highmark Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3959": {
     "enrollment": 210008,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3962": {
     "enrollment": 6874,
     "parent_org": "CAPITAL BLUE CROSS",
     "organization": "CAPITAL BLUE CROSS",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3975": {
     "enrollment": 2833,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H3979": {
     "enrollment": 3894,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H3991": {
     "enrollment": 40,
     "parent_org": "Valir PACE Virginia, LLC",
     "organization": "Valir PACE Virginia, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4003": {
     "enrollment": 98967,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4004": {
     "enrollment": 112885,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4005": {
     "enrollment": 5885,
     "parent_org": "Guidewell Mutual Holding Corporation",
     "organization": "Guidewell Mutual Holding Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4007": {
     "enrollment": 12617,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4036": {
     "enrollment": 390221,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4045": {
     "enrollment": 11575,
     "parent_org": "SANTA CLARA COUNTY HEALTH AUTHORITY",
     "organization": "SANTA CLARA COUNTY HEALTH AUTHORITY",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4053": {
     "enrollment": 163,
     "parent_org": "Prisma Health",
     "organization": "Prisma Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4054": {
     "enrollment": 3038,
     "parent_org": "Rifkin Managed Care Holding, LLC",
     "organization": "Rifkin Managed Care Holding, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4073": {
     "enrollment": 4675,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4074": {
     "enrollment": 156,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4091": {
     "enrollment": 2831,
     "parent_org": "Associated Care Ventures, Inc.",
     "organization": "Associated Care Ventures, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4093": {
     "enrollment": 775,
     "parent_org": "Rifkin Managed Care Holding, LLC",
     "organization": "Rifkin Managed Care Holding, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4105": {
     "enrollment": 428,
     "parent_org": "PACE Organization of Rhode Island",
     "organization": "PACE Organization of Rhode Island",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4118": {
     "enrollment": 285,
     "parent_org": "Utd Methodist Retirement Communities of SE MI",
     "organization": "Utd Methodist Retirement Communities of SE MI",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4140": {
     "enrollment": 19930,
     "parent_org": "DOCTORS HEALTHCARE PLANS, INC.",
     "organization": "DOCTORS HEALTHCARE PLANS, INC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4141": {
     "enrollment": 87319,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4142": {
     "enrollment": 156,
     "parent_org": "Cherokee Nation Comprehensive Care Agency",
     "organization": "Cherokee Nation Comprehensive Care Agency",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4152": {
     "enrollment": 76935,
     "parent_org": "Blue Cross & Blue Shield of Rhode Island",
     "organization": "Blue Cross & Blue Shield of Rhode Island",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4161": {
     "enrollment": 53984,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4172": {
     "enrollment": 1219,
     "parent_org": "Missouri Healthcare Advisors, LLC",
     "organization": "Missouri Healthcare Advisors, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4185": {
     "enrollment": 318,
     "parent_org": "Neighborhood HealthCare",
     "organization": "Neighborhood HealthCare",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4203": {
     "enrollment": 244,
     "parent_org": "Prisma Health",
     "organization": "Prisma Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4213": {
     "enrollment": 1591,
     "parent_org": "USAble Mutual Insurance Company",
     "organization": "USAble Mutual Insurance Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4227": {
     "enrollment": 25395,
     "parent_org": "Independence Health Group, Inc.",
     "organization": "Independence Health Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4232": {
     "enrollment": 146,
     "parent_org": "Mitchell Family Office",
     "organization": "Mitchell Family Office",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4235": {
     "enrollment": 341,
     "parent_org": "CaroMont Health, Inc.",
     "organization": "CaroMont Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4256": {
     "enrollment": 219,
     "parent_org": "PACE North",
     "organization": "PACE North",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4279": {
     "enrollment": 37961,
     "parent_org": "UPMC Health System",
     "organization": "UPMC Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4286": {
     "enrollment": 39422,
     "parent_org": "LMC Family Holdings, LLC",
     "organization": "LMC Family Holdings, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4305": {
     "enrollment": 336,
     "parent_org": "St. Bernard's Healthcare",
     "organization": "St. Bernard's Healthcare",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4326": {
     "enrollment": 198,
     "parent_org": "PACE @ Home",
     "organization": "PACE @ Home",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4346": {
     "enrollment": 7590,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4393": {
     "enrollment": 739,
     "parent_org": "Catholic Health Care System",
     "organization": "Catholic Health Care System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4402": {
     "enrollment": 251,
     "parent_org": "Ascension Health Alliance",
     "organization": "Ascension Health Alliance",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4407": {
     "enrollment": 12756,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4439": {
     "enrollment": 69,
     "parent_org": "Rifkin Managed Care Holding, LLC",
     "organization": "Rifkin Managed Care Holding, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4444": {
     "enrollment": 2743,
     "parent_org": "Rifkin Managed Care Holding, LLC",
     "organization": "Rifkin Managed Care Holding, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4461": {
     "enrollment": 153531,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4471": {
     "enrollment": 105557,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4490": {
     "enrollment": 541,
     "parent_org": "Mitchell Family Office",
     "organization": "Mitchell Family Office",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4497": {
     "enrollment": 14087,
     "parent_org": "MEDICAL MUTUAL OF OHIO",
     "organization": "MEDICAL MUTUAL OF OHIO",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4499": {
     "enrollment": 8876,
     "parent_org": "Sentara Health Care (SHC)",
     "organization": "Sentara Health Care (SHC)",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4506": {
     "enrollment": 26427,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4513": {
     "enrollment": 364344,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4514": {
     "enrollment": 153073,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4517": {
     "enrollment": 118,
     "parent_org": "Amarillo Multisvc Ctr Fr the Aging Inc",
     "organization": "Amarillo Multisvc Ctr Fr the Aging Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4518": {
     "enrollment": 806,
     "parent_org": "Bienvivir Senior Health Services",
     "organization": "Bienvivir Senior Health Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4523": {
     "enrollment": 32303,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4527": {
     "enrollment": 185584,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4537": {
     "enrollment": 2139,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4538": {
     "enrollment": 71,
     "parent_org": "Seen Health San Gabriel Valley, LLC",
     "organization": "Seen Health San Gabriel Valley, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4544": {
     "enrollment": 7139,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4545": {
     "enrollment": 56,
     "parent_org": "K-DAY INC",
     "organization": "K-DAY INC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4604": {
     "enrollment": 143954,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4605": {
     "enrollment": 7012,
     "parent_org": "Cambia Health Solutions, Inc.",
     "organization": "Cambia Health Solutions, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4620": {
     "enrollment": 79,
     "parent_org": "Lumeris Group Holdings Corporation",
     "organization": "Lumeris Group Holdings Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4623": {
     "enrollment": 13638,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4624": {
     "enrollment": 28705,
     "parent_org": "Zing Health Consolidator, Inc",
     "organization": "Zing Health Consolidator, Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4626": {
     "enrollment": 92,
     "parent_org": "SCAN Group",
     "organization": "SCAN Group",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4647": {
     "enrollment": 7244,
     "parent_org": "The Regents of the University of California",
     "organization": "The Regents of the University of California",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4661": {
     "enrollment": 1695,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4676": {
     "enrollment": 1334,
     "parent_org": "Troy Holdings, Inc.",
     "organization": "Troy Holdings, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4694": {
     "enrollment": 34729,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4704": {
     "enrollment": 9694,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4711": {
     "enrollment": 9223,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4714": {
     "enrollment": 249,
     "parent_org": "PACE of the Southern Piedmont, Inc.",
     "organization": "PACE of the Southern Piedmont, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4733": {
     "enrollment": 9299,
     "parent_org": "Community Health Group",
     "organization": "Community Health Group",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4739": {
     "enrollment": 141,
     "parent_org": "Independence Health Group, Inc.",
     "organization": "Independence Health Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4754": {
     "enrollment": 3117,
     "parent_org": "PacificSource",
     "organization": "PacificSource",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4801": {
     "enrollment": 20006,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4808": {
     "enrollment": 8406,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4835": {
     "enrollment": 2572,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4847": {
     "enrollment": 6464,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4868": {
     "enrollment": 36503,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4869": {
     "enrollment": 2794,
     "parent_org": "Gold Kidney Health Plan",
     "organization": "Gold Kidney Health Plan",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4875": {
     "enrollment": 97746,
     "parent_org": "Corewell Health",
     "organization": "Corewell Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4882": {
     "enrollment": 45823,
     "parent_org": "HealthPartners, Inc.",
     "organization": "HealthPartners, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4909": {
     "enrollment": 11944,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4919": {
     "enrollment": 105,
     "parent_org": "Total Community Options, Inc.",
     "organization": "Total Community Options, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4931": {
     "enrollment": 11352,
     "parent_org": "Banner Health",
     "organization": "Banner Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4937": {
     "enrollment": 44990,
     "parent_org": "California Physicians' Service",
     "organization": "California Physicians' Service",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4943": {
     "enrollment": 166,
     "parent_org": "Baylor Scott & White Health",
     "organization": "Baylor Scott & White Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H4961": {
     "enrollment": 4838,
     "parent_org": "Alignment Healthcare USA, LLC",
     "organization": "Alignment Healthcare USA, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4982": {
     "enrollment": 18596,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H4999": {
     "enrollment": 682,
     "parent_org": "One Senior Care, Inc.",
     "organization": "One Senior Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5007": {
     "enrollment": 1226,
     "parent_org": "Providence Health & Services",
     "organization": "Providence Health & Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5008": {
     "enrollment": 91844,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5009": {
     "enrollment": 12059,
     "parent_org": "Cambia Health Solutions, Inc.",
     "organization": "Cambia Health Solutions, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5010": {
     "enrollment": 423,
     "parent_org": "Cambia Health Solutions, Inc.",
     "organization": "Cambia Health Solutions, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5015": {
     "enrollment": 2616,
     "parent_org": "Regency ISNP Holdings LLC",
     "organization": "Regency ISNP Holdings LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5037": {
     "enrollment": 97,
     "parent_org": "Mountain Empire Older Citizens, Inc",
     "organization": "Mountain Empire Older Citizens, Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5042": {
     "enrollment": 16322,
     "parent_org": "Lifetime Healthcare, Inc.",
     "organization": "Lifetime Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5050": {
     "enrollment": 100509,
     "parent_org": "Kaiser Foundation Health Plan, Inc.",
     "organization": "Kaiser Foundation Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5080": {
     "enrollment": 47,
     "parent_org": "Beacon Care Ventures LLC DBA BoldAge PACE",
     "organization": "Beacon Care Ventures LLC DBA BoldAge PACE",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5085": {
     "enrollment": 77,
     "parent_org": "Community PACE at Home, Inc",
     "organization": "Community PACE at Home, Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5087": {
     "enrollment": 21315,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5106": {
     "enrollment": 23425,
     "parent_org": "Highmark Health",
     "organization": "Highmark Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5117": {
     "enrollment": 0,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5124": {
     "enrollment": 318,
     "parent_org": "Franciscan Alliance, Inc.",
     "organization": "Franciscan Alliance, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5141": {
     "enrollment": 108826,
     "parent_org": "Clover Health Holdings, Inc.",
     "organization": "Clover Health Holdings, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5163": {
     "enrollment": 3330,
     "parent_org": "Verda Healthcare, Inc.",
     "organization": "Verda Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5167": {
     "enrollment": 1010,
     "parent_org": "Rocky Mountain Health Care Services",
     "organization": "Rocky Mountain Health Care Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5178": {
     "enrollment": 317,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5190": {
     "enrollment": 0,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5209": {
     "enrollment": 2207,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5211": {
     "enrollment": 71518,
     "parent_org": "Marshfield Clinic Health System, Inc.",
     "organization": "Marshfield Clinic Health System, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5212": {
     "enrollment": 481,
     "parent_org": "Community Care, Inc.",
     "organization": "Community Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5213": {
     "enrollment": 405,
     "parent_org": "Total Community Options, Inc.",
     "organization": "Total Community Options, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5215": {
     "enrollment": 90838,
     "parent_org": "Network Health, Inc.",
     "organization": "Network Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5216": {
     "enrollment": 2748647,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5232": {
     "enrollment": 2080,
     "parent_org": "MEDICAL MUTUAL OF OHIO",
     "organization": "MEDICAL MUTUAL OF OHIO",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5244": {
     "enrollment": 327,
     "parent_org": "SCAN Group",
     "organization": "SCAN Group",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5253": {
     "enrollment": 1156826,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5256": {
     "enrollment": 4485,
     "parent_org": "Medical Associates Clinic, P.C.",
     "organization": "Medical Associates Clinic, P.C.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5262": {
     "enrollment": 32098,
     "parent_org": "University of Wisconsin Hospitals and Clincs Autho",
     "organization": "University of Wisconsin Hospitals and Clincs Autho",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5264": {
     "enrollment": 10894,
     "parent_org": "Medica Holding Company",
     "organization": "Medica Holding Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5273": {
     "enrollment": 9816,
     "parent_org": "Point32Health, Inc.",
     "organization": "Point32Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5280": {
     "enrollment": 10415,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5294": {
     "enrollment": 24122,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5296": {
     "enrollment": 22408,
     "parent_org": "Alignment Healthcare USA, LLC",
     "organization": "Alignment Healthcare USA, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5299": {
     "enrollment": 3673,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5302": {
     "enrollment": 25137,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5309": {
     "enrollment": 6171,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5322": {
     "enrollment": 194867,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5325": {
     "enrollment": 20730,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5361": {
     "enrollment": 9815,
     "parent_org": "Independence Health Group, Inc.",
     "organization": "Independence Health Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5374": {
     "enrollment": 1136,
     "parent_org": "Longevity Health Founders, LLC",
     "organization": "Longevity Health Founders, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5377": {
     "enrollment": 740,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5386": {
     "enrollment": 17541,
     "parent_org": "Sharp Healthcare",
     "organization": "Sharp Healthcare",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5398": {
     "enrollment": 254,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5403": {
     "enrollment": 1686,
     "parent_org": "On Lok, Inc.",
     "organization": "On Lok, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5405": {
     "enrollment": 1206,
     "parent_org": "Center For Elders Independence",
     "organization": "Center For Elders Independence",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5406": {
     "enrollment": 453,
     "parent_org": "Sutter Valley Hospitals",
     "organization": "Sutter Valley Hospitals",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5410": {
     "enrollment": 33117,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5420": {
     "enrollment": 51883,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5422": {
     "enrollment": 14106,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5425": {
     "enrollment": 284819,
     "parent_org": "SCAN Group",
     "organization": "SCAN Group",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5427": {
     "enrollment": 81467,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5431": {
     "enrollment": 63963,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5433": {
     "enrollment": 18440,
     "parent_org": "Orange County Health Authority",
     "organization": "Orange County Health Authority",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5434": {
     "enrollment": 77671,
     "parent_org": "Guidewell Mutual Holding Corporation",
     "organization": "Guidewell Mutual Holding Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5435": {
     "enrollment": 1522,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5439": {
     "enrollment": 23159,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5447": {
     "enrollment": 491,
     "parent_org": "Bexar County Hospital District",
     "organization": "Bexar County Hospital District",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5453": {
     "enrollment": 7483,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5454": {
     "enrollment": 775,
     "parent_org": "Group 1001",
     "organization": "Group 1001",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5471": {
     "enrollment": 48449,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5472": {
     "enrollment": 6891,
     "parent_org": "Alignment Healthcare USA, LLC",
     "organization": "Alignment Healthcare USA, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5475": {
     "enrollment": 19010,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5493": {
     "enrollment": 296,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5496": {
     "enrollment": 26159,
     "parent_org": "Imperial Health Plan of California",
     "organization": "Imperial Health Plan of California",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5521": {
     "enrollment": 1097238,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5522": {
     "enrollment": 1402299,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5525": {
     "enrollment": 185540,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5526": {
     "enrollment": 22724,
     "parent_org": "Highmark Health",
     "organization": "Highmark Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5528": {
     "enrollment": 0,
     "parent_org": "EmblemHealth, Inc.",
     "organization": "EmblemHealth, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5533": {
     "enrollment": 64431,
     "parent_org": "UPMC Health System",
     "organization": "UPMC Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5538": {
     "enrollment": 31,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5549": {
     "enrollment": 43078,
     "parent_org": "Visiting Nurse Service of New York",
     "organization": "Visiting Nurse Service of New York",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5577": {
     "enrollment": 336283,
     "parent_org": "MHH Healthcare, L.P.",
     "organization": "MHH Healthcare, L.P.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5580": {
     "enrollment": 10768,
     "parent_org": "Mercy Care",
     "organization": "Mercy Care",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5587": {
     "enrollment": 9095,
     "parent_org": "Blue Cross Blue Shield of Arizona",
     "organization": "Blue Cross Blue Shield of Arizona",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5590": {
     "enrollment": 24869,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5591": {
     "enrollment": 79745,
     "parent_org": "Martin's Point Health Care, Inc.",
     "organization": "Martin's Point Health Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5593": {
     "enrollment": 3064,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5594": {
     "enrollment": 80391,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5599": {
     "enrollment": 61369,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5608": {
     "enrollment": 5064,
     "parent_org": "Denver Health and Hospital Authority",
     "organization": "Denver Health and Hospital Authority",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5610": {
     "enrollment": 375,
     "parent_org": "Care Resources",
     "organization": "Care Resources",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5619": {
     "enrollment": 495163,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5622": {
     "enrollment": 32,
     "parent_org": "Hosparus Health Inc",
     "organization": "Hosparus Health Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5628": {
     "enrollment": 18108,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5629": {
     "enrollment": 1212,
     "parent_org": "St. Paul\u00e2\u20ac\u2122s Episcopal Home",
     "organization": "St. Paul\u00e2\u20ac\u2122s Episcopal Home",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5644": {
     "enrollment": 0,
     "parent_org": "Network Health, Inc.",
     "organization": "Network Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5649": {
     "enrollment": 79784,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5652": {
     "enrollment": 6735,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5703": {
     "enrollment": 481,
     "parent_org": "South Country Health Alliance",
     "organization": "South Country Health Alliance",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5718": {
     "enrollment": 2111,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5774": {
     "enrollment": 97633,
     "parent_org": "Guidewell Mutual Holding Corporation",
     "organization": "Guidewell Mutual Holding Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5779": {
     "enrollment": 7160,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5793": {
     "enrollment": 33505,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5810": {
     "enrollment": 1124,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5822": {
     "enrollment": 558,
     "parent_org": "Midland Care Connection, Inc.",
     "organization": "Midland Care Connection, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5823": {
     "enrollment": 13999,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5826": {
     "enrollment": 13983,
     "parent_org": "Community Health Plan of Washington",
     "organization": "Community Health Plan of Washington",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5828": {
     "enrollment": 28969,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5843": {
     "enrollment": 13437,
     "parent_org": "Banner Health",
     "organization": "Banner Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5852": {
     "enrollment": 590,
     "parent_org": "AIDS Healthcare Foundation",
     "organization": "AIDS Healthcare Foundation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5854": {
     "enrollment": 33951,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5859": {
     "enrollment": 15650,
     "parent_org": "CareOregon, Inc.",
     "organization": "CareOregon, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5883": {
     "enrollment": 115019,
     "parent_org": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
     "organization": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5900": {
     "enrollment": 46719,
     "parent_org": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
     "organization": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5902": {
     "enrollment": 506,
     "parent_org": "Senior LIFE Altoona, Inc.",
     "organization": "Senior LIFE Altoona, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5926": {
     "enrollment": 9849,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5928": {
     "enrollment": 8985,
     "parent_org": "California Physicians' Service",
     "organization": "California Physicians' Service",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5932": {
     "enrollment": 38565,
     "parent_org": "Highmark Health",
     "organization": "Highmark Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5934": {
     "enrollment": 557,
     "parent_org": "Chapters Health System, Inc.",
     "organization": "Chapters Health System, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5937": {
     "enrollment": 9978,
     "parent_org": "UCare Minnesota",
     "organization": "UCare Minnesota",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5938": {
     "enrollment": 24667,
     "parent_org": "Guidewell Mutual Holding Corporation",
     "organization": "Guidewell Mutual Holding Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5943": {
     "enrollment": 656,
     "parent_org": "SCAN Group",
     "organization": "SCAN Group",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5945": {
     "enrollment": 22804,
     "parent_org": "Universal Health Services, Inc.",
     "organization": "Universal Health Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5959": {
     "enrollment": 196244,
     "parent_org": "Aware Integrated, Inc.",
     "organization": "Aware Integrated, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5965": {
     "enrollment": 15734,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5969": {
     "enrollment": 2394,
     "parent_org": "AlohaCare",
     "organization": "AlohaCare",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5970": {
     "enrollment": 54380,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H5978": {
     "enrollment": 608,
     "parent_org": "Senior LIFE Lehigh Valley, Inc.",
     "organization": "Senior LIFE Lehigh Valley, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5989": {
     "enrollment": 33700,
     "parent_org": "Healthfirst, Inc.",
     "organization": "Healthfirst, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5991": {
     "enrollment": 2319,
     "parent_org": "EmblemHealth, Inc.",
     "organization": "EmblemHealth, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5992": {
     "enrollment": 648,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5993": {
     "enrollment": 35,
     "parent_org": "Lawndale Christian Health Center",
     "organization": "Lawndale Christian Health Center",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H5995": {
     "enrollment": 52,
     "parent_org": "ATRIO Health Plans",
     "organization": "ATRIO Health Plans",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6018": {
     "enrollment": 4109,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6019": {
     "enrollment": 8422,
     "parent_org": "Health Plan of San Mateo",
     "organization": "Health Plan of San Mateo",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6059": {
     "enrollment": 202,
     "parent_org": "Well-Spring Services, Inc.",
     "organization": "Well-Spring Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6078": {
     "enrollment": 20969,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H6079": {
     "enrollment": 1268,
     "parent_org": "Total Community Options, Inc.",
     "organization": "Total Community Options, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6080": {
     "enrollment": 13405,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6081": {
     "enrollment": 196,
     "parent_org": "High Desert PACE, Inc.",
     "organization": "High Desert PACE, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6130": {
     "enrollment": 173,
     "parent_org": "Fenyx Health Holdings, Inc.",
     "organization": "Fenyx Health Holdings, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H6147": {
     "enrollment": 121,
     "parent_org": "Loma Linda University Medical Center",
     "organization": "Loma Linda University Medical Center",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6154": {
     "enrollment": 740,
     "parent_org": "Medica Holding Company",
     "organization": "Medica Holding Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6158": {
     "enrollment": 11021,
     "parent_org": "USAble Mutual Insurance Company",
     "organization": "USAble Mutual Insurance Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6170": {
     "enrollment": 227,
     "parent_org": "Champion Health Plans-USA, LLC.",
     "organization": "Champion Health Plans-USA, LLC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6188": {
     "enrollment": 83,
     "parent_org": "Lutheran SeniorLife",
     "organization": "Lutheran SeniorLife",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6200": {
     "enrollment": 13959,
     "parent_org": "Lumeris Group Holdings Corporation",
     "organization": "Lumeris Group Holdings Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H6202": {
     "enrollment": 20610,
     "parent_org": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
     "organization": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H6231": {
     "enrollment": 223,
     "parent_org": "Franciscan Missionaries of Our Lady Health System",
     "organization": "Franciscan Missionaries of Our Lady Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6237": {
     "enrollment": 1071,
     "parent_org": "Cambia Health Solutions, Inc.",
     "organization": "Cambia Health Solutions, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6248": {
     "enrollment": 412,
     "parent_org": "Community Health Group",
     "organization": "Community Health Group",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6251": {
     "enrollment": 47,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6306": {
     "enrollment": 5155,
     "parent_org": "The Carle Foundation",
     "organization": "The Carle Foundation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H6316": {
     "enrollment": 2298,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6317": {
     "enrollment": 196,
     "parent_org": "WelbeHealth LLC.",
     "organization": "WelbeHealth LLC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6322": {
     "enrollment": 2495,
     "parent_org": "McLaren Health Care Corporation",
     "organization": "McLaren Health Care Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6342": {
     "enrollment": 103,
     "parent_org": "Baptist Health (Arkansas)",
     "organization": "Baptist Health (Arkansas)",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6345": {
     "enrollment": 735,
     "parent_org": "UNICO Services, Inc.",
     "organization": "UNICO Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6348": {
     "enrollment": 3437,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6351": {
     "enrollment": 3091,
     "parent_org": "Liberty Healthcare Insurance",
     "organization": "Liberty Healthcare Insurance",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6371": {
     "enrollment": 90,
     "parent_org": "Lutheran Social Ministries of New Jersey",
     "organization": "Lutheran Social Ministries of New Jersey",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6378": {
     "enrollment": 23,
     "parent_org": "Independence Health Group, Inc.",
     "organization": "Independence Health Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6379": {
     "enrollment": 1960,
     "parent_org": "Group 1001",
     "organization": "Group 1001",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6396": {
     "enrollment": 8624,
     "parent_org": "CareSource",
     "organization": "CareSource",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6399": {
     "enrollment": 5486,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6425": {
     "enrollment": 102,
     "parent_org": "Washington Regional Medical System",
     "organization": "Washington Regional Medical System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6453": {
     "enrollment": 34479,
     "parent_org": "Louisiana Health Service & Indemnity Company",
     "organization": "Louisiana Health Service & Indemnity Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H6474": {
     "enrollment": 27,
     "parent_org": "Champion Health Plans-USA, LLC.",
     "organization": "Champion Health Plans-USA, LLC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6517": {
     "enrollment": 86,
     "parent_org": "Family Healthcare Network",
     "organization": "Family Healthcare Network",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6529": {
     "enrollment": 1287,
     "parent_org": "SIHO Holding, Inc.",
     "organization": "SIHO Holding, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6537": {
     "enrollment": 154,
     "parent_org": "Tungsten Health Holdings, LLC",
     "organization": "Tungsten Health Holdings, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6541": {
     "enrollment": 141,
     "parent_org": "American Health Management, Inc.",
     "organization": "American Health Management, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6545": {
     "enrollment": 1854,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6550": {
     "enrollment": 3517,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6551": {
     "enrollment": 258,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6586": {
     "enrollment": 4767,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6595": {
     "enrollment": 28693,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6596": {
     "enrollment": 228,
     "parent_org": "Fallon Community Health Plan, Inc.",
     "organization": "Fallon Community Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6622": {
     "enrollment": 319394,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H6652": {
     "enrollment": 0,
     "parent_org": "Mitchell Family Office",
     "organization": "Mitchell Family Office",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6672": {
     "enrollment": 4063,
     "parent_org": "Group 1001",
     "organization": "Group 1001",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6706": {
     "enrollment": 451,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6713": {
     "enrollment": 8222,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6723": {
     "enrollment": 69961,
     "parent_org": "MEDICAL MUTUAL OF OHIO",
     "organization": "MEDICAL MUTUAL OF OHIO",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H6727": {
     "enrollment": 167,
     "parent_org": "University of Michigan Health",
     "organization": "University of Michigan Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H6743": {
     "enrollment": 26152,
     "parent_org": "ATRIO Health Plans",
     "organization": "ATRIO Health Plans",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6759": {
     "enrollment": 70,
     "parent_org": "Volunteers of America National Services",
     "organization": "Volunteers of America National Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6765": {
     "enrollment": 1201,
     "parent_org": "Mitchell Family Office",
     "organization": "Mitchell Family Office",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6776": {
     "enrollment": 836,
     "parent_org": "CareSource",
     "organization": "CareSource",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6787": {
     "enrollment": 215,
     "parent_org": "Volunteers of America National Services",
     "organization": "Volunteers of America National Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6813": {
     "enrollment": 2808,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6815": {
     "enrollment": 14385,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6830": {
     "enrollment": 66,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6832": {
     "enrollment": 1117,
     "parent_org": "Curana Health Holdings, LLC",
     "organization": "Curana Health Holdings, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6846": {
     "enrollment": 211,
     "parent_org": "HCA Healthcare, Inc.",
     "organization": "HCA Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6847": {
     "enrollment": 1121,
     "parent_org": "Mass General Brigham Incorporated",
     "organization": "Mass General Brigham Incorporated",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H6851": {
     "enrollment": 4277,
     "parent_org": "BMC Health System, Inc.",
     "organization": "BMC Health System, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6852": {
     "enrollment": 1676,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6868": {
     "enrollment": 84,
     "parent_org": "Beacon Care Ventures LLC DBA BoldAge PACE",
     "organization": "Beacon Care Ventures LLC DBA BoldAge PACE",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6870": {
     "enrollment": 2594,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6874": {
     "enrollment": 2268,
     "parent_org": "Aspirus, Inc.",
     "organization": "Aspirus, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6876": {
     "enrollment": 5312,
     "parent_org": "Zing Health Consolidator, Inc",
     "organization": "Zing Health Consolidator, Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6887": {
     "enrollment": 282,
     "parent_org": "Inspira Health Network, Inc.",
     "organization": "Inspira Health Network, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6891": {
     "enrollment": 515,
     "parent_org": "Mitchell Family Office",
     "organization": "Mitchell Family Office",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6898": {
     "enrollment": 32850,
     "parent_org": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
     "organization": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H6910": {
     "enrollment": 3758,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H6941": {
     "enrollment": 255,
     "parent_org": "LIFE Senior Services, Inc.",
     "organization": "LIFE Senior Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6959": {
     "enrollment": 482,
     "parent_org": "ISNP Holdings, LLC",
     "organization": "ISNP Holdings, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H6988": {
     "enrollment": 2872,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7003": {
     "enrollment": 175,
     "parent_org": "Immanuel",
     "organization": "Immanuel",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7006": {
     "enrollment": 10459,
     "parent_org": "ATRIO Health Plans",
     "organization": "ATRIO Health Plans",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7020": {
     "enrollment": 11769,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7027": {
     "enrollment": 26,
     "parent_org": "Esperanza Health Centers",
     "organization": "Esperanza Health Centers",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7028": {
     "enrollment": 8039,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7059": {
     "enrollment": 0,
     "parent_org": "Empath Health, Inc.",
     "organization": "Empath Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7063": {
     "enrollment": 7731,
     "parent_org": "Blue Cross Blue Shield of Kansas",
     "organization": "Blue Cross Blue Shield of Kansas",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7074": {
     "enrollment": 136,
     "parent_org": "Alignment Healthcare USA, LLC",
     "organization": "Alignment Healthcare USA, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7093": {
     "enrollment": 12267,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7114": {
     "enrollment": 248,
     "parent_org": "Valir PACE, LLC.",
     "organization": "Valir PACE, LLC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7115": {
     "enrollment": 12788,
     "parent_org": "Memorial Hermann Health System",
     "organization": "Memorial Hermann Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7123": {
     "enrollment": 1466,
     "parent_org": "UPMC Health System",
     "organization": "UPMC Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7147": {
     "enrollment": 6508,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7149": {
     "enrollment": 8880,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7151": {
     "enrollment": 5764,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7163": {
     "enrollment": 97,
     "parent_org": "Louisiana Health Service & Indemnity Company",
     "organization": "Louisiana Health Service & Indemnity Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7169": {
     "enrollment": 1529,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7172": {
     "enrollment": 10153,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7195": {
     "enrollment": 179,
     "parent_org": "Northland Healthcare Alliance",
     "organization": "Northland Healthcare Alliance",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7199": {
     "enrollment": 2804,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7220": {
     "enrollment": 19521,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7233": {
     "enrollment": 12,
     "parent_org": "Volunteers of America National Services",
     "organization": "Volunteers of America National Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7239": {
     "enrollment": 1842,
     "parent_org": "Universal Health Services, Inc.",
     "organization": "Universal Health Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7262": {
     "enrollment": 317,
     "parent_org": "TRU Community Care",
     "organization": "TRU Community Care",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7284": {
     "enrollment": 17701,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7296": {
     "enrollment": 36,
     "parent_org": "Hospice of Metro Denver, Inc",
     "organization": "Hospice of Metro Denver, Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7301": {
     "enrollment": 94689,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7323": {
     "enrollment": 4962,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7326": {
     "enrollment": 15960,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7330": {
     "enrollment": 1102,
     "parent_org": "Zing Health Consolidator, Inc",
     "organization": "Zing Health Consolidator, Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7355": {
     "enrollment": 2026,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7366": {
     "enrollment": 80,
     "parent_org": "Total Community Options, Inc.",
     "organization": "Total Community Options, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7379": {
     "enrollment": 26399,
     "parent_org": "CareFirst, Inc.",
     "organization": "CareFirst, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7389": {
     "enrollment": 4902,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7397": {
     "enrollment": 911,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7419": {
     "enrollment": 6756,
     "parent_org": "Point32Health, Inc.",
     "organization": "Point32Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7464": {
     "enrollment": 23510,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7469": {
     "enrollment": 85,
     "parent_org": "Community Hospice of Northeast Florida, Inc.",
     "organization": "Community Hospice of Northeast Florida, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7471": {
     "enrollment": 2102,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7501": {
     "enrollment": 248,
     "parent_org": "Orange County Health Authority",
     "organization": "Orange County Health Authority",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7511": {
     "enrollment": 363,
     "parent_org": "Sanford Health",
     "organization": "Sanford Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7512": {
     "enrollment": 0,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7518": {
     "enrollment": 1784,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7522": {
     "enrollment": 269,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7524": {
     "enrollment": 1573,
     "parent_org": "Lifetime Healthcare, Inc.",
     "organization": "Lifetime Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7557": {
     "enrollment": 1332,
     "parent_org": "Longevity Health Founders, LLC",
     "organization": "Longevity Health Founders, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7598": {
     "enrollment": 135,
     "parent_org": "Group Health Cooperative of Eau Claire",
     "organization": "Group Health Cooperative of Eau Claire",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7605": {
     "enrollment": 2415,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7607": {
     "enrollment": 30678,
     "parent_org": "Clever Care Health Plan, Inc.",
     "organization": "Clever Care Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7617": {
     "enrollment": 8641,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7619": {
     "enrollment": 153,
     "parent_org": "AtlantiCare Health Services, Inc.",
     "organization": "AtlantiCare Health Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7646": {
     "enrollment": 8486,
     "parent_org": "University of Michigan Health",
     "organization": "University of Michigan Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7656": {
     "enrollment": 74,
     "parent_org": "Valley PACE, LLC",
     "organization": "Valley PACE, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7660": {
     "enrollment": 382,
     "parent_org": "Lutheran SeniorLife",
     "organization": "Lutheran SeniorLife",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7670": {
     "enrollment": 1840,
     "parent_org": "Central Mass Health Holding LLC",
     "organization": "Central Mass Health Holding LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7678": {
     "enrollment": 4708,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7680": {
     "enrollment": 12765,
     "parent_org": "Universal Health Services, Inc.",
     "organization": "Universal Health Services, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7710": {
     "enrollment": 2252,
     "parent_org": "Highmark Health",
     "organization": "Highmark Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7725": {
     "enrollment": 26,
     "parent_org": "Volunteers of America National Services",
     "organization": "Volunteers of America National Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7777": {
     "enrollment": 17,
     "parent_org": "TriHealth, Inc.",
     "organization": "TriHealth, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7779": {
     "enrollment": 373,
     "parent_org": "Mitchell Family Office",
     "organization": "Mitchell Family Office",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7787": {
     "enrollment": 15928,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7813": {
     "enrollment": 0,
     "parent_org": "CDS Monarch, Inc.",
     "organization": "CDS Monarch, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7831": {
     "enrollment": 84,
     "parent_org": "Midwest Christian Villages, Inc.",
     "organization": "Midwest Christian Villages, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7833": {
     "enrollment": 2206,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7844": {
     "enrollment": 8087,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7849": {
     "enrollment": 83146,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7855": {
     "enrollment": 323,
     "parent_org": "Los Angeles Jewish Home for the Aging",
     "organization": "Los Angeles Jewish Home for the Aging",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7917": {
     "enrollment": 175509,
     "parent_org": "BlueCross BlueShield of Tennessee",
     "organization": "BlueCross BlueShield of Tennessee",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H7925": {
     "enrollment": 449,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7980": {
     "enrollment": 5996,
     "parent_org": "BMC Health System, Inc.",
     "organization": "BMC Health System, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H7993": {
     "enrollment": 24403,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8003": {
     "enrollment": 35108,
     "parent_org": "BlueCross BlueShield of South Carolina (BCBSSC)",
     "organization": "BlueCross BlueShield of South Carolina (BCBSSC)",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8010": {
     "enrollment": 3046,
     "parent_org": "Clover Health Holdings, Inc.",
     "organization": "Clover Health Holdings, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8014": {
     "enrollment": 52,
     "parent_org": "Group 1001",
     "organization": "Group 1001",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8019": {
     "enrollment": 269,
     "parent_org": "Medica Holding Company",
     "organization": "Medica Holding Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8026": {
     "enrollment": 6852,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8046": {
     "enrollment": 13391,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8048": {
     "enrollment": 0,
     "parent_org": "CitiPACE Holding Company",
     "organization": "CitiPACE Holding Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8064": {
     "enrollment": 313,
     "parent_org": "The Carle Foundation",
     "organization": "The Carle Foundation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8067": {
     "enrollment": 238,
     "parent_org": "Rifkin Managed Care Holding, LLC",
     "organization": "Rifkin Managed Care Holding, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8070": {
     "enrollment": 59322,
     "parent_org": "UCare Minnesota",
     "organization": "UCare Minnesota",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8082": {
     "enrollment": 1084,
     "parent_org": "WelbeHealth LLC.",
     "organization": "WelbeHealth LLC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8093": {
     "enrollment": 1616,
     "parent_org": "Mitchell Family Office",
     "organization": "Mitchell Family Office",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8095": {
     "enrollment": 1214,
     "parent_org": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
     "organization": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8096": {
     "enrollment": 363,
     "parent_org": "Centra Health, Inc.",
     "organization": "Centra Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8099": {
     "enrollment": 18,
     "parent_org": "Volunteers of America National Services",
     "organization": "Volunteers of America National Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8121": {
     "enrollment": 0,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8133": {
     "enrollment": 3547,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8142": {
     "enrollment": 33415,
     "parent_org": "Baylor Scott & White Health",
     "organization": "Baylor Scott & White Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8145": {
     "enrollment": 32989,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8166": {
     "enrollment": 15750,
     "parent_org": "Highmark Health",
     "organization": "Highmark Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8171": {
     "enrollment": 0,
     "parent_org": "Beacon Care Ventures LLC DBA BoldAge PACE",
     "organization": "Beacon Care Ventures LLC DBA BoldAge PACE",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8173": {
     "enrollment": 6972,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8176": {
     "enrollment": 923,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8181": {
     "enrollment": 17059,
     "parent_org": "Blue Cross Blue Shield of Nebraska",
     "organization": "Blue Cross Blue Shield of Nebraska",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8189": {
     "enrollment": 8143,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8197": {
     "enrollment": 7887,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8211": {
     "enrollment": 23781,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8213": {
     "enrollment": 2700,
     "parent_org": "Independence Health Group, Inc.",
     "organization": "Independence Health Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8298": {
     "enrollment": 23214,
     "parent_org": "Horizon Mutual Holdings, Inc",
     "organization": "Horizon Mutual Holdings, Inc",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8320": {
     "enrollment": 553,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8330": {
     "enrollment": 14456,
     "parent_org": "Point32Health, Inc.",
     "organization": "Point32Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8332": {
     "enrollment": 271,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8379": {
     "enrollment": 8213,
     "parent_org": "Corewell Health",
     "organization": "Corewell Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8385": {
     "enrollment": 6837,
     "parent_org": "Sanford Health",
     "organization": "Sanford Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8390": {
     "enrollment": 86,
     "parent_org": "CareSource",
     "organization": "CareSource",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8421": {
     "enrollment": 15,
     "parent_org": "Beacon Care Ventures LLC DBA BoldAge PACE",
     "organization": "Beacon Care Ventures LLC DBA BoldAge PACE",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8424": {
     "enrollment": 291,
     "parent_org": "Iowa Health System",
     "organization": "Iowa Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8432": {
     "enrollment": 46441,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8452": {
     "enrollment": 12544,
     "parent_org": "CareSource",
     "organization": "CareSource",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8457": {
     "enrollment": 783,
     "parent_org": "Longevity Health Founders, LLC",
     "organization": "Longevity Health Founders, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8492": {
     "enrollment": 605,
     "parent_org": "Mitchell Family Office",
     "organization": "Mitchell Family Office",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8547": {
     "enrollment": 1789,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8552": {
     "enrollment": 12055,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8553": {
     "enrollment": 1740,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8554": {
     "enrollment": 832,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8578": {
     "enrollment": 8706,
     "parent_org": "Baystate Health, Inc.",
     "organization": "Baystate Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8597": {
     "enrollment": 17518,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8604": {
     "enrollment": 2735,
     "parent_org": "The Health Plan of West Virginia, Inc.",
     "organization": "The Health Plan of West Virginia, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8614": {
     "enrollment": 61,
     "parent_org": "Milford Wellness Village PACE, LLC",
     "organization": "Milford Wellness Village PACE, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8634": {
     "enrollment": 29931,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8649": {
     "enrollment": 5084,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8655": {
     "enrollment": 539,
     "parent_org": "Total Community Options, Inc.",
     "organization": "Total Community Options, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8711": {
     "enrollment": 0,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8764": {
     "enrollment": 7995,
     "parent_org": "Montage Health",
     "organization": "Montage Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8768": {
     "enrollment": 518351,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8769": {
     "enrollment": 221,
     "parent_org": "Ascension Health Alliance",
     "organization": "Ascension Health Alliance",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8777": {
     "enrollment": 138,
     "parent_org": "Health Association of Niagara County, Incorp.",
     "organization": "Health Association of Niagara County, Incorp.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8783": {
     "enrollment": 2542,
     "parent_org": "UCare Minnesota",
     "organization": "UCare Minnesota",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8794": {
     "enrollment": 126991,
     "parent_org": "Kaiser Foundation Health Plan, Inc.",
     "organization": "Kaiser Foundation Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8797": {
     "enrollment": 605,
     "parent_org": "Perennial Consortium, LLC",
     "organization": "Perennial Consortium, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8800": {
     "enrollment": 118,
     "parent_org": "Community Care of Western New York, Inc.",
     "organization": "Community Care of Western New York, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8811": {
     "enrollment": 41,
     "parent_org": "SCAN Group",
     "organization": "SCAN Group",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8823": {
     "enrollment": 0,
     "parent_org": "Sentara Health Care (SHC)",
     "organization": "Sentara Health Care (SHC)",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8832": {
     "enrollment": 1551,
     "parent_org": "Alignment Healthcare USA, LLC",
     "organization": "Alignment Healthcare USA, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8845": {
     "enrollment": 885,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8849": {
     "enrollment": 52982,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8854": {
     "enrollment": 5150,
     "parent_org": "CareFirst, Inc.",
     "organization": "CareFirst, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8879": {
     "enrollment": 52,
     "parent_org": "Singh Holdings LLC",
     "organization": "Singh Holdings LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8889": {
     "enrollment": 59800,
     "parent_org": "Medica Holding Company",
     "organization": "Medica Holding Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8894": {
     "enrollment": 38881,
     "parent_org": "INLAND EMPIRE HEALTH PLAN",
     "organization": "INLAND EMPIRE HEALTH PLAN",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8902": {
     "enrollment": 698,
     "parent_org": "SCAN Group",
     "organization": "SCAN Group",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8908": {
     "enrollment": 33939,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H8917": {
     "enrollment": 1974,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8928": {
     "enrollment": 9683,
     "parent_org": "Fallon Community Health Plan, Inc.",
     "organization": "Fallon Community Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8947": {
     "enrollment": 3472,
     "parent_org": "West Virginia United Health System, Inc.",
     "organization": "West Virginia United Health System, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8967": {
     "enrollment": 243,
     "parent_org": "Sanford Health",
     "organization": "Sanford Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8982": {
     "enrollment": 94,
     "parent_org": "SFH PACE Holdings LLC",
     "organization": "SFH PACE Holdings LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H8992": {
     "enrollment": 28,
     "parent_org": "Swope Health Services",
     "organization": "Swope Health Services",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9001": {
     "enrollment": 11693,
     "parent_org": "Fallon Community Health Plan, Inc.",
     "organization": "Fallon Community Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9003": {
     "enrollment": 107032,
     "parent_org": "Kaiser Foundation Health Plan, Inc.",
     "organization": "Kaiser Foundation Health Plan, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9042": {
     "enrollment": 3709,
     "parent_org": "SIHO Holding, Inc.",
     "organization": "SIHO Holding, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9047": {
     "enrollment": 79479,
     "parent_org": "Providence St Joseph Health",
     "organization": "Providence St Joseph Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9052": {
     "enrollment": 113,
     "parent_org": "Region VII Area Agency on Aging, Inc.",
     "organization": "Region VII Area Agency on Aging, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9065": {
     "enrollment": 18161,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9066": {
     "enrollment": 469,
     "parent_org": "VISITING NURSE ASSOCIATION OF CENTRAL NEW YORK",
     "organization": "VISITING NURSE ASSOCIATION OF CENTRAL NEW YORK",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9068": {
     "enrollment": 186,
     "parent_org": "Asbury Communities, Inc.",
     "organization": "Asbury Communities, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9096": {
     "enrollment": 10830,
     "parent_org": "Medica Holding Company",
     "organization": "Medica Holding Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9147": {
     "enrollment": 1779,
     "parent_org": "CuraCor Solutions Corp.",
     "organization": "CuraCor Solutions Corp.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9153": {
     "enrollment": 1594,
     "parent_org": "SNP Holdings, LLC",
     "organization": "SNP Holdings, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9179": {
     "enrollment": 6105,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9185": {
     "enrollment": 178,
     "parent_org": "A&D Charitable Foundation, Inc.",
     "organization": "A&D Charitable Foundation, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9191": {
     "enrollment": 1411,
     "parent_org": "Rifkin Managed Care Holding, LLC",
     "organization": "Rifkin Managed Care Holding, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9207": {
     "enrollment": 15029,
     "parent_org": "Thomas Jefferson University",
     "organization": "Thomas Jefferson University",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9219": {
     "enrollment": 1157,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9231": {
     "enrollment": 3631,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9239": {
     "enrollment": 4244,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9252": {
     "enrollment": 114,
     "parent_org": "Mount Sinai Medical Center of Florida, Inc.",
     "organization": "Mount Sinai Medical Center of Florida, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9266": {
     "enrollment": 252,
     "parent_org": "PIEDMONT HEALTH SERVICES, INC.",
     "organization": "PIEDMONT HEALTH SERVICES, INC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9306": {
     "enrollment": 9879,
     "parent_org": "LifeBridge Health, Inc.",
     "organization": "LifeBridge Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9317": {
     "enrollment": 38,
     "parent_org": "Beacon Care Ventures LLC DBA BoldAge PACE",
     "organization": "Beacon Care Ventures LLC DBA BoldAge PACE",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9323": {
     "enrollment": 389,
     "parent_org": "Beacon Care Ventures LLC DBA BoldAge PACE",
     "organization": "Beacon Care Ventures LLC DBA BoldAge PACE",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9360": {
     "enrollment": 65,
     "parent_org": "CHINATOWN SERVICE CENTER",
     "organization": "CHINATOWN SERVICE CENTER",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9364": {
     "enrollment": 13047,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9387": {
     "enrollment": 931,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9411": {
     "enrollment": 64,
     "parent_org": "1818 WESTERN LLC",
     "organization": "1818 WESTERN LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9412": {
     "enrollment": 0,
     "parent_org": "Risant Health, Inc.",
     "organization": "Risant Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9431": {
     "enrollment": 1185,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9438": {
     "enrollment": 99,
     "parent_org": "Bluestem Communities, Inc.",
     "organization": "Bluestem Communities, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9460": {
     "enrollment": 1249,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9468": {
     "enrollment": 168,
     "parent_org": "One Senior Care, Inc.",
     "organization": "One Senior Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9469": {
     "enrollment": 496,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9485": {
     "enrollment": 7048,
     "parent_org": "Mass General Brigham Incorporated",
     "organization": "Mass General Brigham Incorporated",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9489": {
     "enrollment": 1606,
     "parent_org": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
     "organization": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9525": {
     "enrollment": 145834,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9564": {
     "enrollment": 37,
     "parent_org": "Element Care INC.",
     "organization": "Element Care INC.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9572": {
     "enrollment": 566685,
     "parent_org": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
     "organization": "Blue Cross Blue Shield of Michigan Mutual Ins. Co.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9576": {
     "enrollment": 11417,
     "parent_org": "NEIGHBORHOOD HEALTH PLAN OF RHODE ISLAND",
     "organization": "NEIGHBORHOOD HEALTH PLAN OF RHODE ISLAND",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9585": {
     "enrollment": 551,
     "parent_org": "BMC Health System, Inc.",
     "organization": "BMC Health System, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9589": {
     "enrollment": 79,
     "parent_org": "Group 1001",
     "organization": "Group 1001",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9590": {
     "enrollment": 1161,
     "parent_org": "Longevity Health Founders, LLC",
     "organization": "Longevity Health Founders, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9592": {
     "enrollment": 1446,
     "parent_org": "Innovative Integrated Health, Inc.",
     "organization": "Innovative Integrated Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9615": {
     "enrollment": 43988,
     "parent_org": "MVP Health Care, Inc.",
     "organization": "MVP Health Care, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9616": {
     "enrollment": 2374,
     "parent_org": "Centro de Salud de la Comunidad de San Ysidro",
     "organization": "Centro de Salud de la Comunidad de San Ysidro",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9630": {
     "enrollment": 22843,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9649": {
     "enrollment": 207,
     "parent_org": "Hopewest",
     "organization": "Hopewest",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9678": {
     "enrollment": 6938,
     "parent_org": "Healthfirst, Inc.",
     "organization": "Healthfirst, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9686": {
     "enrollment": 2126,
     "parent_org": "Alignment Healthcare USA, LLC",
     "organization": "Alignment Healthcare USA, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9690": {
     "enrollment": 452,
     "parent_org": "Mitchell Family Office",
     "organization": "Mitchell Family Office",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9699": {
     "enrollment": 2068,
     "parent_org": "USAble Mutual Insurance Company",
     "organization": "USAble Mutual Insurance Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9700": {
     "enrollment": 5419,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9706": {
     "enrollment": 4856,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9712": {
     "enrollment": 3292,
     "parent_org": "Henry Ford Health System",
     "organization": "Henry Ford Health System",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9725": {
     "enrollment": 28244,
     "parent_org": "Health Care Service Corporation",
     "organization": "Health Care Service Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9730": {
     "enrollment": 34950,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9763": {
     "enrollment": 5708,
     "parent_org": "Ochsner Clinic Foundation",
     "organization": "Ochsner Clinic Foundation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9808": {
     "enrollment": 15191,
     "parent_org": "Risant Health, Inc.",
     "organization": "Risant Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9811": {
     "enrollment": 0,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9826": {
     "enrollment": 737,
     "parent_org": "Harris County Hospital District",
     "organization": "Harris County Hospital District",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9827": {
     "enrollment": 1355,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9830": {
     "enrollment": 514,
     "parent_org": "Total Community Options, Inc.",
     "organization": "Total Community Options, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9834": {
     "enrollment": 3652,
     "parent_org": "University of Wisconsin Hospitals and Clincs Autho",
     "organization": "University of Wisconsin Hospitals and Clincs Autho",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9842": {
     "enrollment": 172,
     "parent_org": "Trinity Health Corporation",
     "organization": "Trinity Health Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9869": {
     "enrollment": 1062,
     "parent_org": "PHSI, Inc.",
     "organization": "PHSI, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9884": {
     "enrollment": 1759,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9888": {
     "enrollment": 3868,
     "parent_org": "Devoted Health, Inc.",
     "organization": "Devoted Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9900": {
     "enrollment": 1160,
     "parent_org": "Centene Corporation",
     "organization": "Centene Corporation",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9904": {
     "enrollment": 2012,
     "parent_org": "Central Mass Health Holding LLC",
     "organization": "Central Mass Health Holding LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9907": {
     "enrollment": 19805,
     "parent_org": "Point32Health, Inc.",
     "organization": "Point32Health, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": true
   },
   "H9909": {
     "enrollment": 622,
     "parent_org": "Mitchell Family Office",
     "organization": "Mitchell Family Office",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9917": {
     "enrollment": 121,
     "parent_org": "Curana Health Holdings, LLC",
     "organization": "Curana Health Holdings, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9942": {
     "enrollment": 1140,
     "parent_org": "Longevity Health Founders, LLC",
     "organization": "Longevity Health Founders, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9946": {
     "enrollment": 566,
     "parent_org": "BlueCross BlueShield of Tennessee",
     "organization": "BlueCross BlueShield of Tennessee",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9952": {
     "enrollment": 1837,
     "parent_org": "Medica Holding Company",
     "organization": "Medica Holding Company",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9955": {
     "enrollment": 1144,
     "parent_org": "Molina Healthcare, Inc.",
     "organization": "Molina Healthcare, Inc.",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9968": {
     "enrollment": 331,
     "parent_org": "Mitchell Family Office",
     "organization": "Mitchell Family Office",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9986": {
     "enrollment": 1117,
     "parent_org": "Independent Living Systems, LLC",
     "organization": "Independent Living Systems, LLC",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "H9998": {
     "enrollment": 141,
     "parent_org": "Lubbock Regional Mental Health",
     "organization": "Lubbock Regional Mental Health",
-    "plan_type": "HMO"
+    "plan_type": "HMO",
+    "is_group": false
   },
   "R0110": {
     "enrollment": 37069,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": true
   },
   "R0759": {
     "enrollment": 25588,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": false
   },
   "R1532": {
     "enrollment": 3560,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": true
   },
   "R2604": {
     "enrollment": 18162,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": false
   },
   "R3175": {
     "enrollment": 0,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": true
   },
   "R3444": {
     "enrollment": 4283,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": false
   },
   "R4182": {
     "enrollment": 11254,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": true
   },
   "R4487": {
     "enrollment": 8227,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": false
   },
   "R5342": {
     "enrollment": 15418,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": false
   },
   "R5361": {
     "enrollment": 4293,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": true
   },
   "R5826": {
     "enrollment": 4488,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": true
   },
   "R5941": {
     "enrollment": 6814,
     "parent_org": "Elevance Health, Inc.",
     "organization": "Elevance Health, Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": false
   },
   "R6694": {
     "enrollment": 1039,
     "parent_org": "CVS Health Corporation",
     "organization": "CVS Health Corporation",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": false
   },
   "R6801": {
     "enrollment": 51118,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": false
   },
   "R7220": {
     "enrollment": 1760,
     "parent_org": "Humana Inc.",
     "organization": "Humana Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": true
   },
   "R7444": {
     "enrollment": 0,
     "parent_org": "UnitedHealth Group, Inc.",
     "organization": "UnitedHealth Group, Inc.",
-    "plan_type": "PPO"
+    "plan_type": "PPO",
+    "is_group": true
   }
 }

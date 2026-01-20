@@ -93,7 +93,8 @@ const App = {
             organization: filters.organization,
             contract: filters.contract,
             planTypes: filters.planTypes,
-            state: filters.state
+            state: filters.state,
+            groupFilter: filters.groupFilter
         });
 
         this.currentData = filteredCounties;
@@ -108,17 +109,18 @@ const App = {
             MapModule.setDisplayMode(filters.displayMode, filteredCounties);
         }
 
-        // Update info panel
-        this.updateInfoPanel(filteredCounties);
+        // Update info panel with filters for dynamic change calculation
+        this.updateInfoPanel(filteredCounties, filters);
     },
 
     /**
      * Update the info panel with current data
      * @param {Object} filteredCounties - Filtered county data
+     * @param {Object} filters - Current filter settings
      */
-    updateInfoPanel(filteredCounties) {
-        // Summary statistics
-        const summary = DataLoader.calculateSummary(filteredCounties);
+    updateInfoPanel(filteredCounties, filters = {}) {
+        // Summary statistics (pass filters for dynamic change calculation)
+        const summary = DataLoader.calculateSummary(filteredCounties, filters);
 
         document.getElementById('stat-total-enrollment').textContent =
             Utils.formatNumber(summary.totalEnrollment);
@@ -259,12 +261,23 @@ const App = {
             html += '</ul></div>';
         }
 
-        // Add breakdown by organization if available
+        // Add breakdown by organization with changes if available
         if (county.by_org && Object.keys(county.by_org).length > 0) {
+            // Get December county data for comparison
+            const decCounty = DataLoader.decemberEnrollment?.counties?.[fips];
+
             html += `
                 <div style="margin-top: 12px;">
                     <strong>By Organization:</strong>
-                    <ul style="list-style: none; padding-left: 0; margin: 4px 0 0 0; font-size: 0.85rem;">
+                    <table class="county-org-table">
+                        <thead>
+                            <tr>
+                                <th>Organization</th>
+                                <th>Enrollment</th>
+                                <th>Change</th>
+                            </tr>
+                        </thead>
+                        <tbody>
             `;
 
             const sortedOrgs = Object.entries(county.by_org)
@@ -272,14 +285,30 @@ const App = {
                 .slice(0, 5);
 
             for (const [org, enrollment] of sortedOrgs) {
-                html += `<li>${org}: ${Utils.formatNumber(enrollment)}</li>`;
+                // Get December enrollment for this org
+                const decEnrollment = decCounty?.by_org?.[org] || 0;
+                const orgChange = enrollment - decEnrollment;
+                const changeClass = orgChange > 0 ? 'positive' : orgChange < 0 ? 'negative' : '';
+                const changeText = decCounty ? Utils.formatChange(orgChange) : '-';
+
+                html += `
+                    <tr>
+                        <td class="org-name-cell" title="${org}">${org}</td>
+                        <td class="enrollment-cell">${Utils.formatNumber(enrollment)}</td>
+                        <td class="change-cell ${changeClass}">${changeText}</td>
+                    </tr>
+                `;
             }
 
             if (Object.keys(county.by_org).length > 5) {
-                html += `<li><em>+ ${Object.keys(county.by_org).length - 5} more</em></li>`;
+                html += `
+                    <tr>
+                        <td colspan="3" class="more-orgs"><em>+ ${Object.keys(county.by_org).length - 5} more</em></td>
+                    </tr>
+                `;
             }
 
-            html += '</ul></div>';
+            html += '</tbody></table></div>';
         }
 
         html += '</div>';

@@ -5,6 +5,7 @@
 const DataLoader = {
     // Data storage
     enrollment: null,
+    decemberEnrollment: null,
     changes: null,
     contracts: null,
     geoData: null,
@@ -26,8 +27,9 @@ const DataLoader = {
      */
     async loadAll() {
         try {
-            const [enrollment, changes, contracts, geoData] = await Promise.all([
+            const [enrollment, decemberEnrollment, changes, contracts, geoData] = await Promise.all([
                 this.loadEnrollment(),
+                this.loadDecemberEnrollment(),
                 this.loadChanges(),
                 this.loadContracts(),
                 this.loadGeoData()
@@ -35,6 +37,7 @@ const DataLoader = {
 
             return {
                 enrollment,
+                decemberEnrollment,
                 changes,
                 contracts,
                 geoData,
@@ -44,6 +47,7 @@ const DataLoader = {
             console.error('Error loading data:', error);
             return {
                 enrollment: null,
+                decemberEnrollment: null,
                 changes: null,
                 contracts: null,
                 geoData: null,
@@ -64,6 +68,25 @@ const DataLoader = {
         }
         this.enrollment = await response.json();
         return this.enrollment;
+    },
+
+    /**
+     * Load December baseline enrollment data
+     * @returns {Promise<Object>} December enrollment data
+     */
+    async loadDecemberEnrollment() {
+        try {
+            const response = await fetch(`${this.basePath}data/processed/enrollment-december.json`);
+            if (!response.ok) {
+                console.warn('December enrollment data not available');
+                return null;
+            }
+            this.decemberEnrollment = await response.json();
+            return this.decemberEnrollment;
+        } catch (error) {
+            console.warn('Could not load December enrollment data:', error);
+            return null;
+        }
     },
 
     /**
@@ -201,7 +224,7 @@ const DataLoader = {
     filterCounties(filters = {}) {
         if (!this.enrollment || !this.enrollment.counties) return {};
 
-        const { organization, contract, planTypes, state } = filters;
+        const { organization, contract, planTypes, state, groupFilter } = filters;
         const result = {};
 
         for (const [fips, county] of Object.entries(this.enrollment.counties)) {
@@ -211,21 +234,30 @@ const DataLoader = {
             // Calculate filtered enrollment
             let filteredEnrollment = 0;
 
-            // Plan type filter
-            if (planTypes && planTypes.length > 0) {
-                for (const type of planTypes) {
-                    filteredEnrollment += county.by_plan_type[type] || 0;
+            // Group filter (individual/group/all)
+            if (groupFilter && groupFilter !== 'all' && county.by_group) {
+                if (groupFilter === 'individual') {
+                    filteredEnrollment = county.by_group.individual || 0;
+                } else if (groupFilter === 'group') {
+                    filteredEnrollment = county.by_group.group || 0;
                 }
             } else {
-                filteredEnrollment = county.total;
+                // Plan type filter
+                if (planTypes && planTypes.length > 0) {
+                    for (const type of planTypes) {
+                        filteredEnrollment += county.by_plan_type[type] || 0;
+                    }
+                } else {
+                    filteredEnrollment = county.total;
+                }
             }
 
-            // Organization filter
+            // Organization filter (takes precedence when set)
             if (organization && county.by_org) {
                 filteredEnrollment = county.by_org[organization] || 0;
             }
 
-            // Contract filter
+            // Contract filter (takes precedence when set)
             if (contract && county.contracts) {
                 filteredEnrollment = county.contracts[contract] || 0;
             }
@@ -245,32 +277,81 @@ const DataLoader = {
     /**
      * Calculate summary statistics for filtered data
      * @param {Object} filteredCounties - Filtered county data
+     * @param {Object} filters - Current filter settings (optional, for dynamic change calculation)
      * @returns {Object} Summary statistics
      */
-    calculateSummary(filteredCounties) {
+    calculateSummary(filteredCounties, filters = {}) {
         let totalEnrollment = 0;
-        let totalChange = 0;
+        let totalDecember = 0;
         let countyCount = 0;
 
         for (const [fips, county] of Object.entries(filteredCounties)) {
             totalEnrollment += county.filteredEnrollment || county.total;
             countyCount++;
 
-            const change = this.getCountyChange(fips);
-            if (change) {
-                totalChange += change.change || 0;
-            }
+            // Calculate filtered December enrollment for this county
+            const decEnrollment = this.getFilteredDecemberEnrollment(fips, filters);
+            totalDecember += decEnrollment;
         }
 
-        const decemberTotal = totalEnrollment - totalChange;
-        const changePercent = decemberTotal > 0 ? (totalChange / decemberTotal * 100) : 0;
+        const totalChange = totalEnrollment - totalDecember;
+        const changePercent = totalDecember > 0 ? (totalChange / totalDecember * 100) : 0;
 
         return {
             totalEnrollment,
             totalChange,
             changePercent,
-            countyCount
+            countyCount,
+            totalDecember
         };
+    },
+
+    /**
+     * Get filtered December enrollment for a county
+     * @param {string} fips - County FIPS code
+     * @param {Object} filters - Current filter settings
+     * @returns {number} Filtered December enrollment
+     */
+    getFilteredDecemberEnrollment(fips, filters = {}) {
+        if (!this.decemberEnrollment || !this.decemberEnrollment.counties) return 0;
+
+        const decCounty = this.decemberEnrollment.counties[fips];
+        if (!decCounty) return 0;
+
+        const { organization, contract, planTypes, groupFilter } = filters;
+
+        // Apply the same filtering logic as filterCounties
+        let decEnrollment = 0;
+
+        // Group filter (individual/group/all)
+        if (groupFilter && groupFilter !== 'all' && decCounty.by_group) {
+            if (groupFilter === 'individual') {
+                decEnrollment = decCounty.by_group.individual || 0;
+            } else if (groupFilter === 'group') {
+                decEnrollment = decCounty.by_group.group || 0;
+            }
+        } else {
+            // Plan type filter
+            if (planTypes && planTypes.length > 0) {
+                for (const type of planTypes) {
+                    decEnrollment += (decCounty.by_plan_type && decCounty.by_plan_type[type]) || 0;
+                }
+            } else {
+                decEnrollment = decCounty.total;
+            }
+        }
+
+        // Organization filter (takes precedence when set)
+        if (organization && decCounty.by_org) {
+            decEnrollment = decCounty.by_org[organization] || 0;
+        }
+
+        // Contract filter (takes precedence when set)
+        if (contract && decCounty.contracts) {
+            decEnrollment = decCounty.contracts[contract] || 0;
+        }
+
+        return decEnrollment;
     },
 
     /**

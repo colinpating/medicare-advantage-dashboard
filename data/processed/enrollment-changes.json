@@ -1069,10 +1069,10 @@
       "change_pct": 2.86
     },
     "04013": {
-      "current": 412653,
+      "current": 412807,
       "december": 400552,
-      "change": 12101,
-      "change_pct": 3.02
+      "change": 12255,
+      "change_pct": 3.06
     },
     "04015": {
       "current": 40002,
@@ -1087,16 +1087,16 @@
       "change_pct": 6.72
     },
     "04019": {
-      "current": 149383,
+      "current": 149451,
       "december": 144363,
-      "change": 5020,
-      "change_pct": 3.48
+      "change": 5088,
+      "change_pct": 3.52
     },
     "04021": {
-      "current": 57136,
+      "current": 57157,
       "december": 52735,
-      "change": 4401,
-      "change_pct": 8.35
+      "change": 4422,
+      "change_pct": 8.39
     },
     "04023": {
       "current": 7659,
@@ -1105,10 +1105,10 @@
       "change_pct": 5.83
     },
     "04025": {
-      "current": 39475,
+      "current": 39492,
       "december": 38192,
-      "change": 1283,
-      "change_pct": 3.36
+      "change": 1300,
+      "change_pct": 3.4
     },
     "04027": {
       "current": 23646,
@@ -1225,9 +1225,9 @@
       "change_pct": 27.65
     },
     "06037": {
-      "current": 961607,
+      "current": 961633,
       "december": 925724,
-      "change": 35883,
+      "change": 35909,
       "change_pct": 3.88
     },
     "06039": {
@@ -1333,10 +1333,10 @@
       "change_pct": 3.9
     },
     "06073": {
-      "current": 332094,
+      "current": 332115,
       "december": 318798,
-      "change": 13296,
-      "change_pct": 4.17
+      "change": 13317,
+      "change_pct": 4.18
     },
     "06075": {
       "current": 80068,
@@ -1573,10 +1573,10 @@
       "change_pct": -5.48
     },
     "08035": {
-      "current": 33002,
+      "current": 33014,
       "december": 31152,
-      "change": 1850,
-      "change_pct": 5.94
+      "change": 1862,
+      "change_pct": 5.98
     },
     "08037": {
       "current": 1373,
@@ -1903,22 +1903,22 @@
       "change_pct": 4.43
     },
     "10001": {
-      "current": 14850,
+      "current": 14894,
       "december": 14163,
-      "change": 687,
-      "change_pct": 4.85
+      "change": 731,
+      "change_pct": 5.16
     },
     "10003": {
-      "current": 38772,
+      "current": 39039,
       "december": 37297,
-      "change": 1475,
-      "change_pct": 3.95
+      "change": 1742,
+      "change_pct": 4.67
     },
     "10005": {
-      "current": 28559,
+      "current": 28991,
       "december": 26796,
-      "change": 1763,
-      "change_pct": 6.58
+      "change": 2195,
+      "change_pct": 8.19
     },
     "12001": {
       "current": 21655,
@@ -1945,16 +1945,16 @@
       "change_pct": 3.2
     },
     "12009": {
-      "current": 91280,
+      "current": 91395,
       "december": 87954,
-      "change": 3326,
-      "change_pct": 3.78
+      "change": 3441,
+      "change_pct": 3.91
     },
     "12011": {
-      "current": 242497,
+      "current": 242604,
       "december": 237725,
-      "change": 4772,
-      "change_pct": 2.01
+      "change": 4879,
+      "change_pct": 2.05
     },
     "12013": {
       "current": 1916,
@@ -1963,16 +1963,16 @@
       "change_pct": 5.04
     },
     "12015": {
-      "current": 41386,
+      "current": 41476,
       "december": 39909,
-      "change": 1477,
-      "change_pct": 3.7
+      "change": 1567,
+      "change_pct": 3.93
     },
     "12017": {
-      "current": 38448,
+      "current": 38468,
       "december": 36805,
-      "change": 1643,
-      "change_pct": 4.46
+      "change": 1663,
+      "change_pct": 4.52
     },
     "12019": {
       "current": 21660,
@@ -1981,10 +1981,10 @@
       "change_pct": 4.61
     },
     "12021": {
-      "current": 45063,
+      "current": 45299,
       "december": 43865,
-      "change": 1198,
-      "change_pct": 2.73
+      "change": 1434,
+      "change_pct": 3.27
     },
     "12023": {
       "current": 9498,
@@ -2005,10 +2005,10 @@
       "change_pct": 6.21
     },
     "12031": {
-      "current": 102223,
+      "current": 102259,
       "december": 98513,
-      "change": 3710,
-      "change_pct": 3.77
+      "change": 3746,
+      "change_pct": 3.8
     },
     "12033": {
       "current": 37500,
@@ -2017,10 +2017,10 @@
       "change_pct": 3.28
     },
     "12035": {
-      "current": 25409,
+      "current": 25441,
       "december": 24507,
-      "change": 902,
-      "change_pct": 3.68
+      "change": 934,
+      "change_pct": 3.81
     },
     "12037": {
       "current": 1810,
@@ -2071,22 +2071,22 @@
       "change_pct": 7.61
     },
     "12053": {
-      "current": 42978,
+      "current": 42998,
       "december": 42133,
-      "change": 845,
-      "change_pct": 2.01
+      "change": 865,
+      "change_pct": 2.05
     },
     "12055": {
-      "current": 21789,
+      "current": 21803,
       "december": 20900,
-      "change": 889,
-      "change_pct": 4.25
+      "change": 903,
+      "change_pct": 4.32
     },
     "12057": {
-      "current": 168084,
+      "current": 168172,
       "december": 163968,
-      "change": 4116,
-      "change_pct": 2.51
+      "change": 4204,
+      "change_pct": 2.56
     },
     "12059": {
       "current": 2501,
@@ -2095,10 +2095,10 @@
       "change_pct": 7.39
     },
     "12061": {
-      "current": 26309,
+      "current": 26377,
       "december": 25478,
-      "change": 831,
-      "change_pct": 3.26
+      "change": 899,
+      "change_pct": 3.53
     },
     "12063": {
       "current": 6053,
@@ -2119,16 +2119,16 @@
       "change_pct": 9.29
     },
     "12069": {
-      "current": 70950,
+      "current": 71069,
       "december": 67088,
-      "change": 3862,
-      "change_pct": 5.76
+      "change": 3981,
+      "change_pct": 5.93
     },
     "12071": {
-      "current": 111057,
+      "current": 111389,
       "december": 107807,
-      "change": 3250,
-      "change_pct": 3.01
+      "change": 3582,
+      "change_pct": 3.32
     },
     "12073": {
       "current": 31996,
@@ -2155,22 +2155,22 @@
       "change_pct": 6.44
     },
     "12081": {
-      "current": 59601,
+      "current": 59804,
       "december": 58038,
-      "change": 1563,
-      "change_pct": 2.69
+      "change": 1766,
+      "change_pct": 3.04
     },
     "12083": {
-      "current": 82398,
+      "current": 82481,
       "december": 79670,
-      "change": 2728,
-      "change_pct": 3.42
+      "change": 2811,
+      "change_pct": 3.53
     },
     "12085": {
-      "current": 20992,
+      "current": 21065,
       "december": 20404,
-      "change": 588,
-      "change_pct": 2.88
+      "change": 661,
+      "change_pct": 3.24
     },
     "12086": {
       "current": 391343,
@@ -2179,16 +2179,16 @@
       "change_pct": 1.61
     },
     "12087": {
-      "current": 3539,
+      "current": 3551,
       "december": 3552,
-      "change": -13,
-      "change_pct": -0.37
+      "change": -1,
+      "change_pct": -0.03
     },
     "12089": {
-      "current": 12351,
+      "current": 12364,
       "december": 11864,
-      "change": 487,
-      "change_pct": 4.1
+      "change": 500,
+      "change_pct": 4.21
     },
     "12091": {
       "current": 15674,
@@ -2203,40 +2203,40 @@
       "change_pct": 6.04
     },
     "12095": {
-      "current": 136216,
+      "current": 136283,
       "december": 131648,
-      "change": 4568,
-      "change_pct": 3.47
+      "change": 4635,
+      "change_pct": 3.52
     },
     "12097": {
-      "current": 53912,
+      "current": 53925,
       "december": 51437,
-      "change": 2475,
-      "change_pct": 4.81
+      "change": 2488,
+      "change_pct": 4.84
     },
     "12099": {
-      "current": 176340,
+      "current": 176620,
       "december": 172210,
-      "change": 4130,
-      "change_pct": 2.4
+      "change": 4410,
+      "change_pct": 2.56
     },
     "12101": {
-      "current": 102320,
+      "current": 102373,
       "december": 99733,
-      "change": 2587,
-      "change_pct": 2.59
+      "change": 2640,
+      "change_pct": 2.65
     },
     "12103": {
-      "current": 158127,
+      "current": 158302,
       "december": 156871,
-      "change": 1256,
-      "change_pct": 0.8
+      "change": 1431,
+      "change_pct": 0.91
     },
     "12105": {
-      "current": 123146,
+      "current": 123263,
       "december": 119145,
-      "change": 4001,
-      "change_pct": 3.36
+      "change": 4118,
+      "change_pct": 3.46
     },
     "12107": {
       "current": 12512,
@@ -2251,34 +2251,34 @@
       "change_pct": 5.01
     },
     "12115": {
-      "current": 70153,
+      "current": 70442,
       "december": 68542,
-      "change": 1611,
-      "change_pct": 2.35
+      "change": 1900,
+      "change_pct": 2.77
     },
     "12117": {
-      "current": 48863,
+      "current": 48879,
       "december": 48136,
-      "change": 727,
-      "change_pct": 1.51
+      "change": 743,
+      "change_pct": 1.54
     },
     "12109": {
-      "current": 29856,
+      "current": 29908,
       "december": 28499,
-      "change": 1357,
-      "change_pct": 4.76
+      "change": 1409,
+      "change_pct": 4.94
     },
     "12111": {
-      "current": 55580,
+      "current": 55675,
       "december": 53107,
-      "change": 2473,
-      "change_pct": 4.66
+      "change": 2568,
+      "change_pct": 4.84
     },
     "12119": {
-      "current": 49103,
+      "current": 49359,
       "december": 47639,
-      "change": 1464,
-      "change_pct": 3.07
+      "change": 1720,
+      "change_pct": 3.61
     },
     "12121": {
       "current": 6494,
@@ -2299,10 +2299,10 @@
       "change_pct": 2.66
     },
     "12127": {
-      "current": 103872,
+      "current": 103970,
       "december": 100873,
-      "change": 2999,
-      "change_pct": 2.97
+      "change": 3097,
+      "change_pct": 3.07
     },
     "12129": {
       "current": 5154,
@@ -2467,10 +2467,10 @@
       "change_pct": 4.92
     },
     "13051": {
-      "current": 30897,
+      "current": 30910,
       "december": 30175,
-      "change": 722,
-      "change_pct": 2.39
+      "change": 735,
+      "change_pct": 2.44
     },
     "13053": {
       "current": 298,
@@ -2575,10 +2575,10 @@
       "change_pct": 6.14
     },
     "13089": {
-      "current": 70030,
+      "current": 70043,
       "december": 67962,
-      "change": 2068,
-      "change_pct": 3.04
+      "change": 2081,
+      "change_pct": 3.06
     },
     "13087": {
       "current": 3469,
@@ -4261,9 +4261,9 @@
       "change_pct": 8.35
     },
     "17031": {
-      "current": 392367,
+      "current": 392380,
       "december": 381395,
-      "change": 10972,
+      "change": 10985,
       "change_pct": 2.88
     },
     "17033": {
@@ -7069,10 +7069,10 @@
       "change_pct": -1.93
     },
     "25001": {
-      "current": 21534,
+      "current": 21547,
       "december": 20926,
-      "change": 608,
-      "change_pct": 2.91
+      "change": 621,
+      "change_pct": 2.97
     },
     "25003": {
       "current": 6051,
@@ -7117,10 +7117,10 @@
       "change_pct": 3.14
     },
     "25017": {
-      "current": 105151,
+      "current": 105164,
       "december": 101255,
-      "change": 3896,
-      "change_pct": 3.85
+      "change": 3909,
+      "change_pct": 3.86
     },
     "25019": {
       "current": 86,
@@ -7159,16 +7159,16 @@
       "change_pct": 20.14
     },
     "24003": {
-      "current": 22294,
+      "current": 22323,
       "december": 20983,
-      "change": 1311,
-      "change_pct": 6.25
+      "change": 1340,
+      "change_pct": 6.39
     },
     "24005": {
-      "current": 45184,
+      "current": 45215,
       "december": 43618,
-      "change": 1566,
-      "change_pct": 3.59
+      "change": 1597,
+      "change_pct": 3.66
     },
     "24510": {
       "current": 37792,
@@ -7189,16 +7189,16 @@
       "change_pct": 14.42
     },
     "24013": {
-      "current": 7598,
+      "current": 7610,
       "december": 7037,
-      "change": 561,
-      "change_pct": 7.97
+      "change": 573,
+      "change_pct": 8.14
     },
     "24015": {
-      "current": 4574,
+      "current": 4597,
       "december": 4151,
-      "change": 423,
-      "change_pct": 10.19
+      "change": 446,
+      "change_pct": 10.74
     },
     "24017": {
       "current": 7349,
@@ -7213,10 +7213,10 @@
       "change_pct": 14.17
     },
     "24021": {
-      "current": 10653,
+      "current": 10668,
       "december": 9477,
-      "change": 1176,
-      "change_pct": 12.41
+      "change": 1191,
+      "change_pct": 12.57
     },
     "24023": {
       "current": 1692,
@@ -7225,28 +7225,28 @@
       "change_pct": 12.13
     },
     "24025": {
-      "current": 13681,
+      "current": 13709,
       "december": 12866,
-      "change": 815,
-      "change_pct": 6.33
+      "change": 843,
+      "change_pct": 6.55
     },
     "24027": {
-      "current": 11514,
+      "current": 11526,
       "december": 10772,
-      "change": 742,
-      "change_pct": 6.89
+      "change": 754,
+      "change_pct": 7.0
     },
     "24029": {
-      "current": 957,
+      "current": 972,
       "december": 871,
-      "change": 86,
-      "change_pct": 9.87
+      "change": 101,
+      "change_pct": 11.6
     },
     "24031": {
-      "current": 45347,
+      "current": 45403,
       "december": 42546,
-      "change": 2801,
-      "change_pct": 6.58
+      "change": 2857,
+      "change_pct": 6.72
     },
     "24033": {
       "current": 48920,
@@ -7273,16 +7273,16 @@
       "change_pct": 35.89
     },
     "24041": {
-      "current": 1801,
+      "current": 1813,
       "december": 1602,
-      "change": 199,
-      "change_pct": 12.42
+      "change": 211,
+      "change_pct": 13.17
     },
     "24043": {
-      "current": 8331,
+      "current": 8344,
       "december": 7662,
-      "change": 669,
-      "change_pct": 8.73
+      "change": 682,
+      "change_pct": 8.9
     },
     "24045": {
       "current": 5738,
@@ -7291,10 +7291,10 @@
       "change_pct": 10.09
     },
     "24047": {
-      "current": 4131,
+      "current": 4184,
       "december": 3758,
-      "change": 373,
-      "change_pct": 9.93
+      "change": 426,
+      "change_pct": 11.34
     },
     "23001": {
       "current": 17840,
@@ -9991,16 +9991,16 @@
       "change_pct": 3.08
     },
     "37019": {
-      "current": 28728,
+      "current": 28864,
       "december": 26258,
-      "change": 2470,
-      "change_pct": 9.41
+      "change": 2606,
+      "change_pct": 9.92
     },
     "37021": {
-      "current": 31962,
+      "current": 31977,
       "december": 31335,
-      "change": 627,
-      "change_pct": 2.0
+      "change": 642,
+      "change_pct": 2.05
     },
     "37023": {
       "current": 14284,
@@ -10123,10 +10123,10 @@
       "change_pct": 6.68
     },
     "37063": {
-      "current": 28355,
+      "current": 28382,
       "december": 27245,
-      "change": 1110,
-      "change_pct": 4.07
+      "change": 1137,
+      "change_pct": 4.17
     },
     "37065": {
       "current": 8430,
@@ -10135,10 +10135,10 @@
       "change_pct": 5.19
     },
     "37067": {
-      "current": 56356,
+      "current": 56371,
       "december": 53932,
-      "change": 2424,
-      "change_pct": 4.49
+      "change": 2439,
+      "change_pct": 4.52
     },
     "37069": {
       "current": 9159,
@@ -10177,10 +10177,10 @@
       "change_pct": 5.4
     },
     "37081": {
-      "current": 77045,
+      "current": 77059,
       "december": 73463,
-      "change": 3582,
-      "change_pct": 4.88
+      "change": 3596,
+      "change_pct": 4.89
     },
     "37083": {
       "current": 8740,
@@ -10225,10 +10225,10 @@
       "change_pct": -4.34
     },
     "37097": {
-      "current": 24227,
+      "current": 24245,
       "december": 22939,
-      "change": 1288,
-      "change_pct": 5.61
+      "change": 1306,
+      "change_pct": 5.69
     },
     "37099": {
       "current": 4428,
@@ -10291,10 +10291,10 @@
       "change_pct": 4.47
     },
     "37119": {
-      "current": 90483,
+      "current": 90556,
       "december": 86216,
-      "change": 4267,
-      "change_pct": 4.95
+      "change": 4340,
+      "change_pct": 5.03
     },
     "37121": {
       "current": 2397,
@@ -10309,10 +10309,10 @@
       "change_pct": 5.12
     },
     "37125": {
-      "current": 14761,
+      "current": 14779,
       "december": 14112,
-      "change": 649,
-      "change_pct": 4.6
+      "change": 667,
+      "change_pct": 4.73
     },
     "37127": {
       "current": 14032,
@@ -10321,10 +10321,10 @@
       "change_pct": 7.04
     },
     "37129": {
-      "current": 23803,
+      "current": 23851,
       "december": 22308,
-      "change": 1495,
-      "change_pct": 6.7
+      "change": 1543,
+      "change_pct": 6.92
     },
     "37131": {
       "current": 3214,
@@ -10333,10 +10333,10 @@
       "change_pct": 4.35
     },
     "37133": {
-      "current": 13918,
+      "current": 13941,
       "december": 12271,
-      "change": 1647,
-      "change_pct": 13.42
+      "change": 1670,
+      "change_pct": 13.61
     },
     "37135": {
       "current": 14072,
@@ -10471,10 +10471,10 @@
       "change_pct": 1.25
     },
     "37179": {
-      "current": 22064,
+      "current": 22075,
       "december": 20735,
-      "change": 1329,
-      "change_pct": 6.41
+      "change": 1340,
+      "change_pct": 6.46
     },
     "37181": {
       "current": 7264,
@@ -10483,10 +10483,10 @@
       "change_pct": 4.71
     },
     "37183": {
-      "current": 96408,
+      "current": 96487,
       "december": 90817,
-      "change": 5591,
-      "change_pct": 6.16
+      "change": 5670,
+      "change_pct": 6.24
     },
     "37185": {
       "current": 3078,
@@ -11473,10 +11473,10 @@
       "change_pct": 4.51
     },
     "34001": {
-      "current": 28412,
+      "current": 28536,
       "december": 27059,
-      "change": 1353,
-      "change_pct": 5.0
+      "change": 1477,
+      "change_pct": 5.46
     },
     "34003": {
       "current": 69553,
@@ -11485,22 +11485,22 @@
       "change_pct": 4.66
     },
     "34005": {
-      "current": 42780,
+      "current": 42994,
       "december": 41013,
-      "change": 1767,
-      "change_pct": 4.31
+      "change": 1981,
+      "change_pct": 4.83
     },
     "34007": {
-      "current": 47625,
+      "current": 47824,
       "december": 45480,
-      "change": 2145,
-      "change_pct": 4.72
+      "change": 2344,
+      "change_pct": 5.15
     },
     "34009": {
-      "current": 10162,
+      "current": 10427,
       "december": 9794,
-      "change": 368,
-      "change_pct": 3.76
+      "change": 633,
+      "change_pct": 6.46
     },
     "34011": {
       "current": 16257,
@@ -11515,10 +11515,10 @@
       "change_pct": 3.59
     },
     "34015": {
-      "current": 27542,
+      "current": 27701,
       "december": 26429,
-      "change": 1113,
-      "change_pct": 4.21
+      "change": 1272,
+      "change_pct": 4.81
     },
     "34017": {
       "current": 47771,
@@ -11527,16 +11527,16 @@
       "change_pct": 4.53
     },
     "34019": {
-      "current": 10975,
+      "current": 10993,
       "december": 10604,
-      "change": 371,
-      "change_pct": 3.5
+      "change": 389,
+      "change_pct": 3.67
     },
     "34021": {
-      "current": 32344,
+      "current": 32377,
       "december": 31535,
-      "change": 809,
-      "change_pct": 2.57
+      "change": 842,
+      "change_pct": 2.67
     },
     "34023": {
       "current": 63523,
@@ -11545,10 +11545,10 @@
       "change_pct": 4.91
     },
     "34025": {
-      "current": 44958,
+      "current": 44972,
       "december": 43268,
-      "change": 1690,
-      "change_pct": 3.91
+      "change": 1704,
+      "change_pct": 3.94
     },
     "34027": {
       "current": 34535,
@@ -11557,10 +11557,10 @@
       "change_pct": 2.96
     },
     "34029": {
-      "current": 64371,
+      "current": 64454,
       "december": 62701,
-      "change": 1670,
-      "change_pct": 2.66
+      "change": 1753,
+      "change_pct": 2.8
     },
     "34031": {
       "current": 44584,
@@ -11755,10 +11755,10 @@
       "change_pct": 1.65
     },
     "35049": {
-      "current": 18965,
+      "current": 18979,
       "december": 18865,
-      "change": 100,
-      "change_pct": 0.53
+      "change": 114,
+      "change_pct": 0.6
     },
     "35051": {
       "current": 2348,
@@ -11809,10 +11809,10 @@
       "change_pct": 7.68
     },
     "32003": {
-      "current": 236896,
+      "current": 236960,
       "december": 228462,
-      "change": 8434,
-      "change_pct": 3.69
+      "change": 8498,
+      "change_pct": 3.72
     },
     "32005": {
       "current": 5723,
@@ -11917,10 +11917,10 @@
       "change_pct": 3.78
     },
     "36007": {
-      "current": 29279,
+      "current": 29291,
       "december": 28658,
-      "change": 621,
-      "change_pct": 2.17
+      "change": 633,
+      "change_pct": 2.21
     },
     "36009": {
       "current": 12292,
@@ -11935,10 +11935,10 @@
       "change_pct": 6.33
     },
     "36013": {
-      "current": 21309,
+      "current": 21333,
       "december": 20673,
-      "change": 636,
-      "change_pct": 3.08
+      "change": 660,
+      "change_pct": 3.19
     },
     "36015": {
       "current": 12846,
@@ -12061,10 +12061,10 @@
       "change_pct": 3.72
     },
     "36055": {
-      "current": 134772,
+      "current": 134792,
       "december": 131735,
-      "change": 3037,
-      "change_pct": 2.31
+      "change": 3057,
+      "change_pct": 2.32
     },
     "36057": {
       "current": 8100,
@@ -12289,10 +12289,10 @@
       "change_pct": 3.17
     },
     "39007": {
-      "current": 13251,
+      "current": 13262,
       "december": 12494,
-      "change": 757,
-      "change_pct": 6.06
+      "change": 768,
+      "change_pct": 6.15
     },
     "39009": {
       "current": 5511,
@@ -12373,10 +12373,10 @@
       "change_pct": 3.95
     },
     "39035": {
-      "current": 161419,
+      "current": 161448,
       "december": 157701,
-      "change": 3718,
-      "change_pct": 2.36
+      "change": 3747,
+      "change_pct": 2.38
     },
     "39037": {
       "current": 5099,
@@ -12391,10 +12391,10 @@
       "change_pct": 5.05
     },
     "39041": {
-      "current": 19833,
+      "current": 19847,
       "december": 18833,
-      "change": 1000,
-      "change_pct": 5.31
+      "change": 1014,
+      "change_pct": 5.38
     },
     "39043": {
       "current": 10268,
@@ -12415,10 +12415,10 @@
       "change_pct": 0.32
     },
     "39049": {
-      "current": 117327,
+      "current": 117341,
       "december": 114338,
-      "change": 2989,
-      "change_pct": 2.61
+      "change": 3003,
+      "change_pct": 2.63
     },
     "39051": {
       "current": 4977,
@@ -12565,10 +12565,10 @@
       "change_pct": 3.66
     },
     "39099": {
-      "current": 39052,
+      "current": 39093,
       "december": 38461,
-      "change": 591,
-      "change_pct": 1.54
+      "change": 632,
+      "change_pct": 1.64
     },
     "39101": {
       "current": 8541,
@@ -12727,16 +12727,16 @@
       "change_pct": 3.19
     },
     "39153": {
-      "current": 80396,
+      "current": 80410,
       "december": 78365,
-      "change": 2031,
-      "change_pct": 2.59
+      "change": 2045,
+      "change_pct": 2.61
     },
     "39155": {
-      "current": 33623,
+      "current": 33661,
       "december": 32709,
-      "change": 914,
-      "change_pct": 2.79
+      "change": 952,
+      "change_pct": 2.91
     },
     "39157": {
       "current": 13783,
@@ -13477,406 +13477,406 @@
       "change_pct": 4.02
     },
     "42001": {
-      "current": 12281,
+      "current": 13004,
       "december": 11812,
-      "change": 469,
-      "change_pct": 3.97
+      "change": 1192,
+      "change_pct": 10.09
     },
     "42003": {
-      "current": 193399,
+      "current": 199811,
       "december": 189728,
-      "change": 3671,
-      "change_pct": 1.93
+      "change": 10083,
+      "change_pct": 5.31
     },
     "42005": {
-      "current": 13589,
+      "current": 14098,
       "december": 13226,
-      "change": 363,
-      "change_pct": 2.74
+      "change": 872,
+      "change_pct": 6.59
     },
     "42007": {
-      "current": 32316,
+      "current": 33329,
       "december": 31560,
-      "change": 756,
-      "change_pct": 2.4
+      "change": 1769,
+      "change_pct": 5.61
     },
     "42009": {
-      "current": 9011,
+      "current": 9378,
       "december": 8758,
-      "change": 253,
-      "change_pct": 2.89
+      "change": 620,
+      "change_pct": 7.08
     },
     "42011": {
-      "current": 43495,
+      "current": 46606,
       "december": 41639,
-      "change": 1856,
-      "change_pct": 4.46
+      "change": 4967,
+      "change_pct": 11.93
     },
     "42013": {
-      "current": 21187,
+      "current": 21921,
       "december": 20747,
-      "change": 440,
-      "change_pct": 2.12
-    },
-    "42015": {
-      "current": 7852,
-      "december": 7355,
-      "change": 497,
-      "change_pct": 6.76
-    },
-    "42017": {
-      "current": 64878,
-      "december": 62784,
-      "change": 2094,
-      "change_pct": 3.34
-    },
-    "42019": {
-      "current": 34848,
-      "december": 33457,
-      "change": 1391,
-      "change_pct": 4.16
-    },
-    "42021": {
-      "current": 28355,
-      "december": 27783,
-      "change": 572,
-      "change_pct": 2.06
-    },
-    "42023": {
-      "current": 689,
-      "december": 675,
-      "change": 14,
-      "change_pct": 2.07
-    },
-    "42025": {
-      "current": 7362,
-      "december": 6962,
-      "change": 400,
-      "change_pct": 5.75
-    },
-    "42027": {
-      "current": 16875,
-      "december": 16322,
-      "change": 553,
-      "change_pct": 3.39
-    },
-    "42029": {
-      "current": 36977,
-      "december": 35258,
-      "change": 1719,
-      "change_pct": 4.88
-    },
-    "42031": {
-      "current": 5919,
-      "december": 5459,
-      "change": 460,
-      "change_pct": 8.43
-    },
-    "42033": {
-      "current": 12354,
-      "december": 11872,
-      "change": 482,
-      "change_pct": 4.06
-    },
-    "42035": {
-      "current": 5957,
-      "december": 5639,
-      "change": 318,
-      "change_pct": 5.64
-    },
-    "42037": {
-      "current": 8132,
-      "december": 7623,
-      "change": 509,
-      "change_pct": 6.68
-    },
-    "42039": {
-      "current": 12747,
-      "december": 12239,
-      "change": 508,
-      "change_pct": 4.15
-    },
-    "42041": {
-      "current": 32537,
-      "december": 30795,
-      "change": 1742,
+      "change": 1174,
       "change_pct": 5.66
     },
+    "42015": {
+      "current": 8367,
+      "december": 7355,
+      "change": 1012,
+      "change_pct": 13.76
+    },
+    "42017": {
+      "current": 70309,
+      "december": 62784,
+      "change": 7525,
+      "change_pct": 11.99
+    },
+    "42019": {
+      "current": 36082,
+      "december": 33457,
+      "change": 2625,
+      "change_pct": 7.85
+    },
+    "42021": {
+      "current": 29196,
+      "december": 27783,
+      "change": 1413,
+      "change_pct": 5.09
+    },
+    "42023": {
+      "current": 757,
+      "december": 675,
+      "change": 82,
+      "change_pct": 12.15
+    },
+    "42025": {
+      "current": 7946,
+      "december": 6962,
+      "change": 984,
+      "change_pct": 14.13
+    },
+    "42027": {
+      "current": 17897,
+      "december": 16322,
+      "change": 1575,
+      "change_pct": 9.65
+    },
+    "42029": {
+      "current": 41255,
+      "december": 35258,
+      "change": 5997,
+      "change_pct": 17.01
+    },
+    "42031": {
+      "current": 6256,
+      "december": 5459,
+      "change": 797,
+      "change_pct": 14.6
+    },
+    "42033": {
+      "current": 13079,
+      "december": 11872,
+      "change": 1207,
+      "change_pct": 10.17
+    },
+    "42035": {
+      "current": 6319,
+      "december": 5639,
+      "change": 680,
+      "change_pct": 12.06
+    },
+    "42037": {
+      "current": 8673,
+      "december": 7623,
+      "change": 1050,
+      "change_pct": 13.77
+    },
+    "42039": {
+      "current": 13500,
+      "december": 12239,
+      "change": 1261,
+      "change_pct": 10.3
+    },
+    "42041": {
+      "current": 34301,
+      "december": 30795,
+      "change": 3506,
+      "change_pct": 11.38
+    },
     "42043": {
-      "current": 38272,
+      "current": 39565,
       "december": 37033,
-      "change": 1239,
-      "change_pct": 3.35
+      "change": 2532,
+      "change_pct": 6.84
     },
     "42045": {
-      "current": 48989,
+      "current": 52360,
       "december": 45876,
-      "change": 3113,
-      "change_pct": 6.79
+      "change": 6484,
+      "change_pct": 14.13
     },
     "42047": {
-      "current": 3905,
+      "current": 4172,
       "december": 3654,
-      "change": 251,
-      "change_pct": 6.87
+      "change": 518,
+      "change_pct": 14.18
     },
     "42049": {
-      "current": 42360,
+      "current": 44174,
       "december": 40563,
-      "change": 1797,
-      "change_pct": 4.43
+      "change": 3611,
+      "change_pct": 8.9
     },
     "42051": {
-      "current": 22735,
+      "current": 23818,
       "december": 22017,
-      "change": 718,
-      "change_pct": 3.26
+      "change": 1801,
+      "change_pct": 8.18
     },
     "42053": {
-      "current": 966,
+      "current": 1022,
       "december": 906,
-      "change": 60,
-      "change_pct": 6.62
+      "change": 116,
+      "change_pct": 12.8
     },
     "42055": {
-      "current": 16924,
+      "current": 18001,
       "december": 16062,
-      "change": 862,
-      "change_pct": 5.37
+      "change": 1939,
+      "change_pct": 12.07
     },
     "42057": {
-      "current": 1624,
+      "current": 1766,
       "december": 1569,
-      "change": 55,
-      "change_pct": 3.51
+      "change": 197,
+      "change_pct": 12.56
     },
     "42059": {
-      "current": 5044,
+      "current": 5286,
       "december": 4892,
-      "change": 152,
-      "change_pct": 3.11
+      "change": 394,
+      "change_pct": 8.05
     },
     "42061": {
-      "current": 6894,
+      "current": 7238,
       "december": 6630,
-      "change": 264,
-      "change_pct": 3.98
+      "change": 608,
+      "change_pct": 9.17
     },
     "42063": {
-      "current": 15251,
+      "current": 15886,
       "december": 14267,
-      "change": 984,
-      "change_pct": 6.9
+      "change": 1619,
+      "change_pct": 11.35
     },
     "42065": {
-      "current": 7188,
+      "current": 7601,
       "december": 6905,
-      "change": 283,
-      "change_pct": 4.1
+      "change": 696,
+      "change_pct": 10.08
     },
     "42067": {
-      "current": 3340,
+      "current": 3531,
       "december": 3278,
-      "change": 62,
-      "change_pct": 1.89
+      "change": 253,
+      "change_pct": 7.72
     },
     "42069": {
-      "current": 23920,
+      "current": 26115,
       "december": 22980,
-      "change": 940,
-      "change_pct": 4.09
+      "change": 3135,
+      "change_pct": 13.64
     },
     "42071": {
-      "current": 64693,
+      "current": 69274,
       "december": 62244,
-      "change": 2449,
-      "change_pct": 3.93
+      "change": 7030,
+      "change_pct": 11.29
     },
     "42073": {
-      "current": 16942,
+      "current": 17622,
       "december": 16465,
-      "change": 477,
-      "change_pct": 2.9
+      "change": 1157,
+      "change_pct": 7.03
     },
     "42075": {
-      "current": 18904,
+      "current": 19937,
       "december": 18208,
-      "change": 696,
-      "change_pct": 3.82
+      "change": 1729,
+      "change_pct": 9.5
     },
     "42077": {
-      "current": 38922,
+      "current": 41590,
       "december": 37256,
-      "change": 1666,
-      "change_pct": 4.47
+      "change": 4334,
+      "change_pct": 11.63
     },
     "42079": {
-      "current": 34968,
+      "current": 37929,
       "december": 33385,
-      "change": 1583,
-      "change_pct": 4.74
+      "change": 4544,
+      "change_pct": 13.61
     },
     "42081": {
-      "current": 16455,
+      "current": 17638,
       "december": 15576,
-      "change": 879,
-      "change_pct": 5.64
+      "change": 2062,
+      "change_pct": 13.24
     },
     "42083": {
-      "current": 5399,
+      "current": 5829,
       "december": 5078,
-      "change": 321,
-      "change_pct": 6.32
+      "change": 751,
+      "change_pct": 14.79
     },
     "42085": {
-      "current": 20723,
+      "current": 21567,
       "december": 20024,
-      "change": 699,
-      "change_pct": 3.49
+      "change": 1543,
+      "change_pct": 7.71
     },
     "42087": {
-      "current": 6912,
+      "current": 7305,
       "december": 6634,
-      "change": 278,
-      "change_pct": 4.19
+      "change": 671,
+      "change_pct": 10.11
     },
     "42089": {
-      "current": 17477,
+      "current": 18298,
       "december": 16266,
-      "change": 1211,
-      "change_pct": 7.44
+      "change": 2032,
+      "change_pct": 12.49
     },
     "42091": {
-      "current": 70097,
+      "current": 76920,
       "december": 67161,
-      "change": 2936,
-      "change_pct": 4.37
+      "change": 9759,
+      "change_pct": 14.53
     },
     "42093": {
-      "current": 2694,
+      "current": 2807,
       "december": 2605,
-      "change": 89,
-      "change_pct": 3.42
+      "change": 202,
+      "change_pct": 7.75
     },
     "42095": {
-      "current": 34284,
+      "current": 36839,
       "december": 32211,
-      "change": 2073,
-      "change_pct": 6.44
+      "change": 4628,
+      "change_pct": 14.37
     },
     "42097": {
-      "current": 14051,
+      "current": 14783,
       "december": 13567,
-      "change": 484,
-      "change_pct": 3.57
+      "change": 1216,
+      "change_pct": 8.96
     },
     "42099": {
-      "current": 6855,
+      "current": 7146,
       "december": 6552,
-      "change": 303,
-      "change_pct": 4.62
+      "change": 594,
+      "change_pct": 9.07
     },
     "42101": {
-      "current": 159702,
+      "current": 162069,
       "december": 155019,
-      "change": 4683,
-      "change_pct": 3.02
+      "change": 7050,
+      "change_pct": 4.55
     },
     "42103": {
-      "current": 5667,
+      "current": 5870,
       "december": 5209,
-      "change": 458,
-      "change_pct": 8.79
+      "change": 661,
+      "change_pct": 12.69
     },
     "42105": {
-      "current": 2456,
+      "current": 2586,
       "december": 2311,
-      "change": 145,
-      "change_pct": 6.27
+      "change": 275,
+      "change_pct": 11.9
     },
     "42107": {
-      "current": 17409,
+      "current": 18587,
       "december": 16798,
-      "change": 611,
-      "change_pct": 3.64
+      "change": 1789,
+      "change_pct": 10.65
     },
     "42109": {
-      "current": 5236,
+      "current": 5534,
       "december": 5091,
-      "change": 145,
-      "change_pct": 2.85
+      "change": 443,
+      "change_pct": 8.7
     },
     "42111": {
-      "current": 14486,
+      "current": 14941,
       "december": 14119,
-      "change": 367,
-      "change_pct": 2.6
-    },
-    "42113": {
-      "current": 859,
-      "december": 857,
-      "change": 2,
-      "change_pct": 0.23
-    },
-    "42115": {
-      "current": 5001,
-      "december": 4726,
-      "change": 275,
+      "change": 822,
       "change_pct": 5.82
     },
+    "42113": {
+      "current": 932,
+      "december": 857,
+      "change": 75,
+      "change_pct": 8.75
+    },
+    "42115": {
+      "current": 5330,
+      "december": 4726,
+      "change": 604,
+      "change_pct": 12.78
+    },
     "42117": {
-      "current": 5888,
+      "current": 6238,
       "december": 5614,
-      "change": 274,
-      "change_pct": 4.88
+      "change": 624,
+      "change_pct": 11.12
     },
     "42119": {
-      "current": 4651,
+      "current": 4974,
       "december": 4428,
-      "change": 223,
-      "change_pct": 5.04
+      "change": 546,
+      "change_pct": 12.33
     },
     "42121": {
-      "current": 10267,
+      "current": 10805,
       "december": 9983,
-      "change": 284,
-      "change_pct": 2.84
+      "change": 822,
+      "change_pct": 8.23
     },
     "42123": {
-      "current": 5808,
+      "current": 6164,
       "december": 5536,
-      "change": 272,
-      "change_pct": 4.91
+      "change": 628,
+      "change_pct": 11.34
     },
     "42125": {
-      "current": 37512,
+      "current": 39046,
       "december": 36381,
-      "change": 1131,
-      "change_pct": 3.11
+      "change": 2665,
+      "change_pct": 7.33
     },
     "42127": {
-      "current": 5469,
+      "current": 5892,
       "december": 5136,
-      "change": 333,
-      "change_pct": 6.48
+      "change": 756,
+      "change_pct": 14.72
     },
     "42129": {
-      "current": 72399,
+      "current": 75093,
       "december": 70699,
-      "change": 1700,
-      "change_pct": 2.4
+      "change": 4394,
+      "change_pct": 6.22
     },
     "42131": {
-      "current": 3886,
+      "current": 4215,
       "december": 3675,
-      "change": 211,
-      "change_pct": 5.74
+      "change": 540,
+      "change_pct": 14.69
     },
     "42133": {
-      "current": 55330,
+      "current": 58171,
       "december": 53180,
-      "change": 2150,
-      "change_pct": 4.04
+      "change": 4991,
+      "change_pct": 9.39
     },
     "72001": {
       "current": 3119,
@@ -14383,10 +14383,10 @@
       "change_pct": -1.35
     },
     "45003": {
-      "current": 19456,
+      "current": 19475,
       "december": 18733,
-      "change": 723,
-      "change_pct": 3.86
+      "change": 742,
+      "change_pct": 3.96
     },
     "45005": {
       "current": 1154,
@@ -14413,10 +14413,10 @@
       "change_pct": 4.12
     },
     "45013": {
-      "current": 20099,
+      "current": 20256,
       "december": 19879,
-      "change": 220,
-      "change_pct": 1.11
+      "change": 377,
+      "change_pct": 1.9
     },
     "45015": {
       "current": 20775,
@@ -14431,10 +14431,10 @@
       "change_pct": -4.06
     },
     "45019": {
-      "current": 30711,
+      "current": 30769,
       "december": 30262,
-      "change": 449,
-      "change_pct": 1.48
+      "change": 507,
+      "change_pct": 1.68
     },
     "45021": {
       "current": 7277,
@@ -14479,10 +14479,10 @@
       "change_pct": 4.54
     },
     "45035": {
-      "current": 14187,
+      "current": 14198,
       "december": 13290,
-      "change": 897,
-      "change_pct": 6.75
+      "change": 908,
+      "change_pct": 6.83
     },
     "45037": {
       "current": 3276,
@@ -14503,16 +14503,16 @@
       "change_pct": 4.77
     },
     "45043": {
-      "current": 9528,
+      "current": 9560,
       "december": 9327,
-      "change": 201,
-      "change_pct": 2.16
+      "change": 233,
+      "change_pct": 2.5
     },
     "45045": {
-      "current": 57186,
+      "current": 57207,
       "december": 54642,
-      "change": 2544,
-      "change_pct": 4.66
+      "change": 2565,
+      "change_pct": 4.69
     },
     "45047": {
       "current": 8175,
@@ -14527,16 +14527,16 @@
       "change_pct": 6.92
     },
     "45051": {
-      "current": 59775,
+      "current": 60051,
       "december": 55695,
-      "change": 4080,
-      "change_pct": 7.33
+      "change": 4356,
+      "change_pct": 7.82
     },
     "45053": {
-      "current": 4210,
+      "current": 4226,
       "december": 4104,
-      "change": 106,
-      "change_pct": 2.58
+      "change": 122,
+      "change_pct": 2.97
     },
     "45055": {
       "current": 7989,
@@ -14545,10 +14545,10 @@
       "change_pct": 6.42
     },
     "45057": {
-      "current": 11982,
+      "current": 12002,
       "december": 11368,
-      "change": 614,
-      "change_pct": 5.4
+      "change": 634,
+      "change_pct": 5.58
     },
     "45059": {
       "current": 9009,
@@ -14647,10 +14647,10 @@
       "change_pct": 0.77
     },
     "45091": {
-      "current": 25896,
+      "current": 25921,
       "december": 24650,
-      "change": 1246,
-      "change_pct": 5.05
+      "change": 1271,
+      "change_pct": 5.16
     },
     "46003": {
       "current": 164,
@@ -15157,10 +15157,10 @@
       "change_pct": 3.54
     },
     "47037": {
-      "current": 58077,
+      "current": 58093,
       "december": 57351,
-      "change": 726,
-      "change_pct": 1.27
+      "change": 742,
+      "change_pct": 1.29
     },
     "47041": {
       "current": 2899,
@@ -16219,10 +16219,10 @@
       "change_pct": 2.5
     },
     "48201": {
-      "current": 396932,
+      "current": 396955,
       "december": 382535,
-      "change": 14397,
-      "change_pct": 3.76
+      "change": 14420,
+      "change_pct": 3.77
     },
     "48203": {
       "current": 7387,
@@ -16933,10 +16933,10 @@
       "change_pct": 5.83
     },
     "48439": {
-      "current": 178221,
+      "current": 178246,
       "december": 173215,
-      "change": 5006,
-      "change_pct": 2.89
+      "change": 5031,
+      "change_pct": 2.9
     },
     "48441": {
       "current": 11821,
@@ -17323,10 +17323,10 @@
       "change_pct": 4.1
     },
     "51003": {
-      "current": 5561,
+      "current": 5572,
       "december": 5503,
-      "change": 58,
-      "change_pct": 1.05
+      "change": 69,
+      "change_pct": 1.25
     },
     "51510": {
       "current": 6094,
@@ -17473,10 +17473,10 @@
       "change_pct": 6.68
     },
     "51041": {
-      "current": 28537,
+      "current": 28550,
       "december": 27330,
-      "change": 1207,
-      "change_pct": 4.42
+      "change": 1220,
+      "change_pct": 4.46
     },
     "51043": {
       "current": 1039,
@@ -17551,10 +17551,10 @@
       "change_pct": 6.82
     },
     "51059": {
-      "current": 57995,
+      "current": 58028,
       "december": 55054,
-      "change": 2941,
-      "change_pct": 5.34
+      "change": 2974,
+      "change_pct": 5.4
     },
     "51600": {
       "current": 1729,
@@ -17677,10 +17677,10 @@
       "change_pct": 9.99
     },
     "51087": {
-      "current": 27101,
+      "current": 27112,
       "december": 26524,
-      "change": 577,
-      "change_pct": 2.18
+      "change": 588,
+      "change_pct": 2.22
     },
     "51089": {
       "current": 7372,
@@ -17707,10 +17707,10 @@
       "change_pct": 5.49
     },
     "51095": {
-      "current": 7297,
+      "current": 7320,
       "december": 6704,
-      "change": 593,
-      "change_pct": 8.85
+      "change": 616,
+      "change_pct": 9.19
     },
     "51099": {
       "current": 1294,
@@ -17749,10 +17749,10 @@
       "change_pct": 33.24
     },
     "51107": {
-      "current": 17603,
+      "current": 17638,
       "december": 16586,
-      "change": 1017,
-      "change_pct": 6.13
+      "change": 1052,
+      "change_pct": 6.34
     },
     "51109": {
       "current": 3763,
@@ -17929,10 +17929,10 @@
       "change_pct": 0.3
     },
     "51153": {
-      "current": 23293,
+      "current": 23306,
       "december": 21594,
-      "change": 1699,
-      "change_pct": 7.87
+      "change": 1712,
+      "change_pct": 7.93
     },
     "51155": {
       "current": 4078,
@@ -18073,10 +18073,10 @@
       "change_pct": 4.82
     },
     "51810": {
-      "current": 30576,
+      "current": 30604,
       "december": 28849,
-      "change": 1727,
-      "change_pct": 5.99
+      "change": 1755,
+      "change_pct": 6.08
     },
     "51187": {
       "current": 3408,
@@ -18325,10 +18325,10 @@
       "change_pct": -3.18
     },
     "53033": {
-      "current": 195586,
+      "current": 195601,
       "december": 191243,
-      "change": 4343,
-      "change_pct": 2.27
+      "change": 4358,
+      "change_pct": 2.28
     },
     "53035": {
       "current": 26111,
@@ -19075,10 +19075,10 @@
       "change_pct": 3.33
     },
     "54061": {
-      "current": 7946,
+      "current": 7972,
       "december": 7673,
-      "change": 273,
-      "change_pct": 3.56
+      "change": 299,
+      "change_pct": 3.9
     },
     "54063": {
       "current": 1699,
@@ -19825,6 +19825,12 @@
       "december": 81319,
       "change": 30553,
       "change_pct": 37.57
+    },
+    "Commonwealth of PA Pub Schools Retirement System": {
+      "current": 92362,
+      "december": 0,
+      "change": 92362,
+      "change_pct": 0
     },
     "Community Care of Western New York, Inc.": {
       "current": 118,
@@ -21203,21 +21209,21 @@
       "change_pct": 0
     },
     "AZ": {
-      "current": 784524,
+      "current": 784784,
       "december": 755439,
-      "change": 29085,
-      "change_pct": 3.85
+      "change": 29345,
+      "change_pct": 3.88
     },
     "CA": {
-      "current": 3672986,
+      "current": 3673033,
       "december": 3548315,
-      "change": 124671,
+      "change": 124718,
       "change_pct": 3.51
     },
     "CO": {
-      "current": 558715,
+      "current": 558727,
       "december": 539424,
-      "change": 19291,
+      "change": 19303,
       "change_pct": 3.58
     },
     "CT": {
@@ -21233,21 +21239,21 @@
       "change_pct": 4.43
     },
     "DE": {
-      "current": 82181,
+      "current": 82924,
       "december": 78256,
-      "change": 3925,
-      "change_pct": 5.02
+      "change": 4668,
+      "change_pct": 5.97
     },
     "FL": {
-      "current": 2988115,
+      "current": 2991287,
       "december": 2903695,
-      "change": 84420,
-      "change_pct": 2.91
+      "change": 87592,
+      "change_pct": 3.02
     },
     "GA": {
-      "current": 1090423,
+      "current": 1090449,
       "december": 1051753,
-      "change": 38670,
+      "change": 38696,
       "change_pct": 3.68
     },
     "GU": {
@@ -21275,10 +21281,10 @@
       "change_pct": 5.47
     },
     "IL": {
-      "current": 1057488,
+      "current": 1057501,
       "december": 1021580,
-      "change": 35908,
-      "change_pct": 3.51
+      "change": 35921,
+      "change_pct": 3.52
     },
     "IN": {
       "current": 697917,
@@ -21305,16 +21311,16 @@
       "change_pct": 2.72
     },
     "MA": {
-      "current": 537370,
+      "current": 537396,
       "december": 518510,
-      "change": 18860,
+      "change": 18886,
       "change_pct": 3.64
     },
     "MD": {
-      "current": 294527,
+      "current": 294826,
       "december": 274965,
-      "change": 19562,
-      "change_pct": 7.11
+      "change": 19861,
+      "change_pct": 7.22
     },
     "ME": {
       "current": 226210,
@@ -21359,10 +21365,10 @@
       "change_pct": 3.84
     },
     "NC": {
-      "current": 1295618,
+      "current": 1296095,
       "december": 1233707,
-      "change": 61911,
-      "change_pct": 5.02
+      "change": 62388,
+      "change_pct": 5.06
     },
     "ND": {
       "current": 51608,
@@ -21383,34 +21389,34 @@
       "change_pct": 4.92
     },
     "NJ": {
-      "current": 743921,
+      "current": 745030,
       "december": 715020,
-      "change": 28901,
-      "change_pct": 4.04
+      "change": 30010,
+      "change_pct": 4.2
     },
     "NM": {
-      "current": 233462,
+      "current": 233476,
       "december": 229632,
-      "change": 3830,
+      "change": 3844,
       "change_pct": 1.67
     },
     "NV": {
-      "current": 318959,
+      "current": 319023,
       "december": 307222,
-      "change": 11737,
-      "change_pct": 3.82
+      "change": 11801,
+      "change_pct": 3.84
     },
     "NY": {
-      "current": 2130887,
+      "current": 2130943,
       "december": 2063746,
-      "change": 67141,
-      "change_pct": 3.25
+      "change": 67197,
+      "change_pct": 3.26
     },
     "OH": {
-      "current": 1452252,
+      "current": 1452413,
       "december": 1406623,
-      "change": 45629,
-      "change_pct": 3.24
+      "change": 45790,
+      "change_pct": 3.26
     },
     "OK": {
       "current": 335971,
@@ -21425,10 +21431,10 @@
       "change_pct": 0.63
     },
     "PA": {
-      "current": 1619574,
+      "current": 1704550,
       "december": 1560319,
-      "change": 59255,
-      "change_pct": 3.8
+      "change": 144231,
+      "change_pct": 9.24
     },
     "PR": {
       "current": 664838,
@@ -21443,10 +21449,10 @@
       "change_pct": 3.3
     },
     "SC": {
-      "current": 580343,
+      "current": 580978,
       "december": 556546,
-      "change": 23797,
-      "change_pct": 4.28
+      "change": 24432,
+      "change_pct": 4.39
     },
     "SD": {
       "current": 72305,
@@ -21455,15 +21461,15 @@
       "change_pct": 6.63
     },
     "TN": {
-      "current": 790371,
+      "current": 790387,
       "december": 768935,
-      "change": 21436,
+      "change": 21452,
       "change_pct": 2.79
     },
     "TX": {
-      "current": 2658154,
+      "current": 2658202,
       "december": 2552314,
-      "change": 105840,
+      "change": 105888,
       "change_pct": 4.15
     },
     "UT": {
@@ -21473,10 +21479,10 @@
       "change_pct": 6.33
     },
     "VA": {
-      "current": 659898,
+      "current": 660065,
       "december": 630279,
-      "change": 29619,
-      "change_pct": 4.7
+      "change": 29786,
+      "change_pct": 4.73
     },
     "VI": {
       "current": 5498,
@@ -21491,9 +21497,9 @@
       "change_pct": -4.2
     },
     "WA": {
-      "current": 768938,
+      "current": 768953,
       "december": 745020,
-      "change": 23918,
+      "change": 23933,
       "change_pct": 3.21
     },
     "WI": {
@@ -21503,10 +21509,10 @@
       "change_pct": 3.72
     },
     "WV": {
-      "current": 232512,
+      "current": 232538,
       "december": 223979,
-      "change": 8533,
-      "change_pct": 3.81
+      "change": 8559,
+      "change_pct": 3.82
     },
     "WY": {
       "current": 23628,
@@ -21516,9 +21522,9 @@
     }
   },
   "summary": {
-    "total_current": 35232786,
+    "total_current": 35325148,
     "total_december": 34024043,
-    "total_change": 1208743,
-    "total_change_pct": 3.55
+    "total_change": 1301105,
+    "total_change_pct": 3.82
   }
 }

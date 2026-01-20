@@ -10,7 +10,8 @@ const FiltersModule = {
         contract: '',
         planTypes: ['HMO', 'PPO', 'DSNP', 'Other'],
         state: '',
-        displayMode: 'total'
+        displayMode: 'total',
+        groupFilter: 'all'
     },
 
     // Change callback
@@ -103,6 +104,12 @@ const FiltersModule = {
             }
         });
 
+        // Group filter (Individual/Group/All)
+        document.getElementById('group-filter').addEventListener('change', (e) => {
+            this.state.groupFilter = e.target.value;
+            this.triggerChange();
+        });
+
         // Display mode radio buttons
         document.getElementById('display-mode').addEventListener('change', (e) => {
             if (e.target.type === 'radio') {
@@ -154,13 +161,15 @@ const FiltersModule = {
             contract: '',
             planTypes: ['HMO', 'PPO', 'DSNP', 'Other'],
             state: '',
-            displayMode: 'total'
+            displayMode: 'total',
+            groupFilter: 'all'
         };
 
         // Reset UI
         document.getElementById('org-filter').value = '';
         document.getElementById('contract-filter').value = '';
         document.getElementById('state-filter').value = '';
+        document.getElementById('group-filter').value = 'all';
 
         // Reset checkboxes
         const checkboxes = document.querySelectorAll('#plan-type-filter input[type="checkbox"]');
@@ -210,6 +219,11 @@ const FiltersModule = {
             this.state.displayMode = filters.displayMode;
             const radio = document.querySelector(`#display-mode input[value="${filters.displayMode}"]`);
             if (radio) radio.checked = true;
+        }
+
+        if (filters.groupFilter !== undefined) {
+            this.state.groupFilter = filters.groupFilter;
+            document.getElementById('group-filter').value = filters.groupFilter;
         }
 
         // Trigger change
