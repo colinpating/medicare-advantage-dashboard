@@ -134,14 +134,22 @@ const FiltersModule = {
             .map(cb => cb.value);
     },
 
+    // Debounced change trigger (initialized in init)
+    _debouncedTrigger: null,
+
     /**
      * Trigger change callback
      */
-    triggerChange: Utils.debounce(function() {
-        if (this.onChange) {
-            this.onChange(this.getFilters());
+    triggerChange() {
+        if (!this._debouncedTrigger) {
+            this._debouncedTrigger = Utils.debounce(() => {
+                if (this.onChange) {
+                    this.onChange(this.getFilters());
+                }
+            }, 100);
         }
-    }.bind(this), 100),
+        this._debouncedTrigger();
+    },
 
     /**
      * Get current filter state
