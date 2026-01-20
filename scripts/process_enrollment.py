@@ -205,7 +205,17 @@ def load_contract_info(csv_path: Path) -> dict:
         print("No contract info file found, using built-in mapping")
         return {}
 
-    contract_path = contract_files[0]
+    # Try to find contract info file matching the year/month of the enrollment file
+    match = re.search(r'(\d{4})_(\d{2})', csv_path.name)
+    if match:
+        year_month = f"{match.group(1)}_{match.group(2)}"
+        matching_files = [f for f in contract_files if year_month in f.name]
+        if matching_files:
+            contract_path = matching_files[0]
+        else:
+            contract_path = contract_files[0]
+    else:
+        contract_path = contract_files[0]
     print(f"Loading contract info from: {contract_path}")
 
     # Try multiple encodings
@@ -568,10 +578,10 @@ def main():
     if args.csv_file:
         csv_path = args.csv_file
     else:
-        # Find most recent CSV in raw directory
-        csv_files = list(RAW_DIR.glob("*.csv"))
+        # Find most recent enrollment CSV in raw directory (exclude contract_info files)
+        csv_files = [f for f in RAW_DIR.glob("*enrollment*.csv")]
         if not csv_files:
-            print("No CSV files found in data/raw/")
+            print("No enrollment CSV files found in data/raw/")
             print("Run fetch_cms_data.py first to download data.")
             return 1
 
@@ -601,21 +611,50 @@ def main():
     current_path = args.output_dir / "enrollment-current.json"
     save_json(enrollment_data, current_path)
 
-    # Save as December baseline if requested
-    if args.save_december:
-        december_path = args.output_dir / "enrollment-december.json"
-        save_json(enrollment_data, december_path)
-        print("Saved as December baseline")
+    # Determine baseline year: data from year X compares to December of year X-1
+    # (AEP enrollment changes take effect in January, so all of year X compares to prior Dec)
+    baseline_year = data_year - 1 if data_year else None
 
-    # Calculate changes if December baseline exists
-    december_path = args.output_dir / "enrollment-december.json"
-    if december_path.exists():
+    # Auto-save as December baseline if this is December data
+    if data_month == 12 and data_year:
+        december_path = args.output_dir / f"enrollment-december-{data_year}.json"
+        save_json(enrollment_data, december_path)
+        print(f"Auto-saved as December {data_year} baseline: {december_path.name}")
+        # Also save as generic december.json for backwards compatibility
+        generic_december_path = args.output_dir / "enrollment-december.json"
+        save_json(enrollment_data, generic_december_path)
+
+    # Manual override to save as December baseline
+    if args.save_december and data_year:
+        december_path = args.output_dir / f"enrollment-december-{data_year}.json"
+        save_json(enrollment_data, december_path)
+        print(f"Saved as December {data_year} baseline")
+
+    # Calculate changes using the appropriate December baseline
+    # Year X data (Jan-Dec) compares to December of year X-1
+    december_path = None
+    if baseline_year:
+        # Try year-specific file first
+        december_path = args.output_dir / f"enrollment-december-{baseline_year}.json"
+        if not december_path.exists():
+            # Fall back to generic file and check its year
+            december_path = args.output_dir / "enrollment-december.json"
+
+    if december_path and december_path.exists():
         with open(december_path) as f:
             december_data = json.load(f)
+
+        # Verify baseline year matches expected
+        baseline_data_year = december_data.get('metadata', {}).get('data_year')
+        if baseline_data_year and baseline_data_year != baseline_year:
+            print(f"Warning: Baseline is December {baseline_data_year}, expected December {baseline_year}")
+            print(f"  Data year {data_year} should compare to December {baseline_year}")
 
         changes = calculate_changes(enrollment_data, december_data)
         changes_path = args.output_dir / "enrollment-changes.json"
         save_json(changes, changes_path)
+    else:
+        print(f"No December {baseline_year} baseline found - skipping change calculations")
 
     # Save contracts mapping
     contracts_path = args.output_dir / "contracts.json"
