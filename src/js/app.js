@@ -71,7 +71,13 @@ const App = {
             return '../';
         }
 
-        // For deployed version (Vercel), data is at root
+        // GitHub Pages project site: /<repo>/...
+        const segments = path.split('/').filter(Boolean);
+        if (segments.length > 0 && window.location.hostname.endsWith('github.io')) {
+            return `/${segments[0]}/`;
+        }
+
+        // Root-hosted deployments
         return '/';
     },
 
